@@ -1,0 +1,43 @@
+backend:
+  name: github
+  repo: agtz92/proyecto-unam
+  branch: main
+
+media_folder: static/assets
+public_folder: /assets
+
+publish_mode: editorial_workflow
+
+collections:
+  - name: blog
+    label: Blog
+    folder: blog
+    create: true
+    fields:
+      - { name: title, label: Title, hint: Nombre del post debe empezar con "Cómo " ej. Como Pescar Lobina en Agua Dulce , required: true}
+      - { name: slug, label: Slug, hint: Debe ser el nombre del post con guiones. ej. como-pescar-lobina-en-agua-dulce , required: true}
+      - {label: "Featured Image", name: "featuredimage", widget: image, required: true}
+      - { name: date, label: Date, widget: datetime , required: true}
+      - { collection: dificultad, valueField: nivel, searchFields: ["nivel"], displayFields: ["nivel"], widget: relation, name: dificultad, label: Nivel de Dificultad, required: true, multiple: false, hint: Poner nivel de dificultad. Campo obligatorio}
+      - { collection: categoria, valueField: categoria, searchFields: ["categoria"], displayFields: ["categoria"], widget: relation, name: categoria, label: Categoría Principal, required: true, multiple: false, hint: Poner categoría prinicpal. Campo obligatorio}
+      - {label: "Tags", name: "tags", widget: "list", hint: Separar con comas cada tag relacionado al post, required: true}
+      - { name: short-description, label: Descripcion Corta, widget: markdown, hint: Descripcion corta de al menos 5 líneas, required: true}
+      - { name: body, label: Body, widget: markdown, mode: rich_text, hint: Estructura debe ser parrafo -> imagen/video -> parrafo -> imagen/video -> parrafo, required: true}
+      
+     
+  - name: dificultad
+    label: Niveles de Dificultad
+    folder: cms/dificultad
+    create: false
+    slug: "{{slug}}"
+    fields:
+      - {widget: string, name: nivel, label: Nivel de dificultad, required: true, hint: Nivel de dificultad }
+
+  - name: categoria
+    label: Categoria
+    folder: cms/categorias
+    create: false
+    slug: "{{slug}}"
+    fields:
+      - {widget: string, name: categoria, label: Categoria, required: true, hint: Categoria principal }
+      - {label: "Category Image", name: "categoryimage", widget: image}

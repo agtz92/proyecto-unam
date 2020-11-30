@@ -1,0 +1,9 @@
+{
+    "relativePath.ignore": [
+        "**/node_modules/**",
+        "**/*.dll",
+        "**/obj/**",
+        "**/objd/**"
+    ]
+}
+
