@@ -1,4 +1,4 @@
 ---
-categoria: Espanol
+categoria: Español
 categoryimage: /assets/espanol.jpg
 ---
