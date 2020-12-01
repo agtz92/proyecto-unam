@@ -4,7 +4,7 @@ slug: prueba-historia-universal
 featuredimage: /assets/493056_3121_slider-min.jpg
 date: 2020-12-01T16:59:41.196Z
 dificultad: Secundaria / Preparatoria
-categoria: Historia
+categoria: Historia Universal
 tags:
   - heehee
   - prueba

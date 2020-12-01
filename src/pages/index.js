@@ -18,7 +18,7 @@ export default function Home({data}) {
     <Layout>
     <SimpleSlider/>
     <div style={{marginLeft: "2%", marginRight: "2%"}}>
-      <Link to="/categorias/"><Heading color="dark" >Encuentra temas resumidos de: </Heading></Link>
+      <Link to="/categorias/"><Heading color="dark" >Encuentra temas resumidos de todas las materias </Heading></Link>
       <Link to="/categorias/espanol/"><h2 className="heading-categoria" style={{color:"black"}}>Ve todo en Español {">"}</h2></Link>
       <Blockcontainer>
         {data.allMarkdownRemark.edges.map(({ node }) => {
