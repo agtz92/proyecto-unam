@@ -17,11 +17,11 @@ export default function Home({data}) {
     <Layout>
     <SimpleSlider/>
     <div style={{marginLeft: "2%", marginRight: "2%"}}>
-      <Link to="/categorias/"><Heading color="dark" >Aprende algo nuevo en: </Heading></Link>
-      <Link to="/categorias/asar/"><h2 className="heading-categoria" style={{color:"black"}}>Ve todo en ¿Cómo Asar en Parrilla? {">"}</h2></Link>
+      <Link to="/categorias/"><Heading color="dark" >Repasa tus materias </Heading></Link>
+      <Link to="/"><h2 className="heading-categoria" style={{color:"black"}}>Ve todo en Español {">"}</h2></Link>
       <Blockcontainer>
         {data.allMarkdownRemark.edges.map(({ node }) => {
-          if(node.frontmatter.categoria.includes('Asar')){ return(
+          if(node.frontmatter.categoria.includes('Español')){ return(
             <Link key={node.id} to={node.frontmatter.slug}>
               <PostBlock name={node.frontmatter.title} text={node.frontmatter.short_description} nivel={node.frontmatter.dificultad} background={node.frontmatter.featuredimage} />
           </Link>)
@@ -31,10 +31,10 @@ export default function Home({data}) {
           }
         })}
       </Blockcontainer>
-      <Link to="/categorias/pesca/"><h2 className="heading-categoria" style={{color:"black"}}>Ve todo en ¿Cómo Pescar? {">"}</h2></Link>
+      <Link to="/"><h2 className="heading-categoria" style={{color:"black"}}>Ve todo en Literatura {">"}</h2></Link>
       <Blockcontainer>
         {data.allMarkdownRemark.edges.map(({ node }) => {
-          if (node.frontmatter.categoria.includes('Pesca')) {
+          if (node.frontmatter.categoria.includes('Literatura')) {
             return (
               <Link key={node.id} to={node.frontmatter.slug}>
                 <PostBlock name={node.frontmatter.title} text={node.frontmatter.short_description} nivel={node.frontmatter.dificultad} background={node.frontmatter.featuredimage} />
@@ -45,10 +45,10 @@ export default function Home({data}) {
           }
         })}
       </Blockcontainer>
-      <Link to="/categorias/acampar/"><h2 className="heading-categoria" style={{color:"black"}}>Ve todo en ¿Cómo Acampar? {">"}</h2></Link>
+      <Link to="/"><h2 className="heading-categoria" style={{color:"black"}}>Ve todo en Geografía {">"}</h2></Link>
       <Blockcontainer>
         {data.allMarkdownRemark.edges.map(({ node }) => {
-          if(node.frontmatter.categoria.includes('Acampar')){ return(
+          if(node.frontmatter.categoria.includes('Geografía')){ return(
             <Link key={node.id} to={node.frontmatter.slug}>
               <PostBlock name={node.frontmatter.title} text={node.frontmatter.short_description} nivel={node.frontmatter.dificultad} background={node.frontmatter.featuredimage} />
           </Link>)
@@ -58,10 +58,10 @@ export default function Home({data}) {
           }
         })}
       </Blockcontainer>
-      <Link to="/categorias/jardineria/"><h2 className="heading-categoria" style={{color:"black"}}>Ve todo en ¿Cómo hacer Jardinería? {">"}</h2></Link>
+      <Link to="/"><h2 className="heading-categoria" style={{color:"black"}}>Ve todo en Historia Universal {">"}</h2></Link>
       <Blockcontainer>
         {data.allMarkdownRemark.edges.map(({ node }) => {
-          if (node.frontmatter.categoria.includes('Jardinería')) {
+          if (node.frontmatter.categoria.includes('Historia')) {
             return (
               <Link key={node.id} to={node.frontmatter.slug}>
                 <PostBlock name={node.frontmatter.title} text={node.frontmatter.short_description} nivel={node.frontmatter.dificultad} background={node.frontmatter.featuredimage} />
@@ -72,38 +72,10 @@ export default function Home({data}) {
           }
         })}
       </Blockcontainer>
-      <Link to="/categorias/carpinteria/"><h2 className="heading-categoria" style={{color:"black"}}>Ve todo en ¿Cómo hacer Carpintería? {">"}</h2></Link>
+      <Link to="/"><h2 className="heading-categoria" style={{color:"black"}}>Ve todo en Historia de México {">"}</h2></Link>
       <Blockcontainer>
         {data.allMarkdownRemark.edges.map(({ node }) => {
-          if (node.frontmatter.categoria.includes('Carpintería')) {
-            return (
-              <Link key={node.id} to={node.frontmatter.slug}>
-                <PostBlock name={node.frontmatter.title} text={node.frontmatter.short_description} nivel={node.frontmatter.dificultad} background={node.frontmatter.featuredimage} />
-              </Link>)
-          }else
-          {
-            return (null)
-          }
-        })}
-      </Blockcontainer>
-      <Link to="/categorias/cocinar/"><h2 className="heading-categoria" style={{color:"black"}}>Ve todo en ¿Cómo Cocinar? {">"}</h2></Link>
-      <Blockcontainer>
-        {data.allMarkdownRemark.edges.map(({ node }) => {
-          if (node.frontmatter.categoria.includes('Cocinar')) {
-            return (
-              <Link key={node.id} to={node.frontmatter.slug}>
-                <PostBlock name={node.frontmatter.title} text={node.frontmatter.short_description} nivel={node.frontmatter.dificultad} background={node.frontmatter.featuredimage} />
-              </Link>)
-          }else
-          {
-            return (null)
-          }
-        })}
-      </Blockcontainer>
-      <Link to="/categorias/cocteleria/"><h2 className="heading-categoria" style={{color:"black"}}>Ve todo en ¿Cómo hacer Coctelería? {">"}</h2></Link>
-      <Blockcontainer>
-        {data.allMarkdownRemark.edges.map(({ node }) => {
-          if (node.frontmatter.categoria.includes('Coctelería')) {
+          if (node.frontmatter.categoria.includes('Historia de México')) {
             return (
               <Link key={node.id} to={node.frontmatter.slug}>
                 <PostBlock name={node.frontmatter.title} text={node.frontmatter.short_description} nivel={node.frontmatter.dificultad} background={node.frontmatter.featuredimage} />
