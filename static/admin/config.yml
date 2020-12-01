@@ -28,7 +28,7 @@ collections:
   - name: dificultad
     label: Niveles Escolares
     folder: cms/dificultad
-    create: false
+    create: true
     slug: "{{slug}}"
     fields:
       - {widget: string, name: nivel, label: Nivel Escolar, required: true, hint: Nivel escolar a la que representa el tema  }
@@ -36,7 +36,7 @@ collections:
   - name: categoria
     label: Materias
     folder: cms/categorias
-    create: false
+    create: true
     slug: "{{slug}}"
     fields:
       - {widget: string, name: categoria, label: Categoria, required: true, hint: Materia Escolar }
