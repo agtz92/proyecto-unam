@@ -11,12 +11,12 @@ import kebabCase from "lodash/kebabCase"
 import { Helmet } from "react-helmet"
 
 const imageMapper ={
-  Pesca: require("../images/slider/pesca.jpg"),
-  Acampar: require("../images/slider/acampar.jpg"),
-  Carpintería: require("../images/slider/carpinteria.jpg"),
-  Coctelería: require("../images/slider/cocteleria.jpg"),
-  Jardinería: require("../images/slider/jardineria.jpg"),
-  Cocinar: require("../images/slider/cocinar.jpg"),
+  Español: require("../images/slider/espanol.jpg"),
+  Literatura: require("../images/slider/literatura.jpg"),
+  Geografía: require("../images/slider/geografia.jpg"),
+  HistoriaUniversal: require("../images/slider/historia.jpg"),
+  HistoriadeMéxico: require("../images/slider/historiamexico.jpg"),
+  Biología: require("../images/slider/biologia.jpg"),
   Asar: require("../images/slider/asar.jpg")
 }
 
@@ -33,11 +33,11 @@ const CategoriasPage = ({
         <div>
             <div>
                 <Heading color="dark" alignment="center">Todas las Materias</Heading>
-                <div>
+                <div style={{paddingLeft:"15%", paddingRight:"15%"}}>
                     {group.map(categoria => (
                         <li key={categoria.fieldValue}>
                             <Link to={`/categorias/${kebabCase(categoria.fieldValue)}/`}>
-                                <CategoriesBlock name={categoria.fieldValue} count={categoria.totalCount} background={imageMapper[categoria.fieldValue]} />
+                                <CategoriesBlock name={categoria.fieldValue} count={categoria.totalCount} background={imageMapper[(categoria.fieldValue).split(' ').join('')]} />
                             </Link>
                         </li>
                         

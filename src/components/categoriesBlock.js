@@ -11,7 +11,7 @@ export default function CateogoriesBlock(props) {
                 <div className="div-block-12">
                 <h2 className="heading-blog-post">{props.name}</h2>
                 <div className="div-block-11">
-                        <div>Número de Tutoriales Disponibles: </div>
+                        <div>Número de Temas Disponibles: </div>
                         <div>{props.count}</div>
                 </div>
                 <div>{props.text}</div>

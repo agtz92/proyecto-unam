@@ -1,4 +1,4 @@
 ---
-categoria: Historia
+categoria: Historia Universal
 categoryimage: /assets/historia.jpg
 ---

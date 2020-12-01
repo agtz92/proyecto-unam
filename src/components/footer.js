@@ -23,12 +23,12 @@ export default function Footer() {
                     <div>
                     <h2 className="footer-heading">Todas las categorías</h2>
                     <ul  className="list-footer w-list-unstyled">
-                        <li ><Link  to="/categorias/asar/"  className="footer-link">Temas resumidos de Español</Link></li>
-                        <li ><Link  to="/categorias/acampar/"  className="footer-link">Temas resumidos de Literatura</Link></li>
-                        <li ><Link  to="/categorias/pesca/"  className="footer-link">Temas resumidos de Geografía</Link></li>
-                        <li ><Link  to="/categorias/cocinar/"  className="footer-link">Temas resumidos de Historia Universal</Link></li>
-                        <li ><Link  to="/categorias/carpinteria/"  className="footer-link">Temas resumidos de Historia de México</Link></li>
-                        <li ><Link  to="/categorias/cocteleria/"  className="footer-link">Temas resumidos de Biología</Link></li>
+                        <li ><Link  to="/categorias/espanol/"  className="footer-link">Temas resumidos de Español</Link></li>
+                        <li ><Link  to="/categorias/literatura/"  className="footer-link">Temas resumidos de Literatura</Link></li>
+                        <li ><Link  to="/categorias/geografia/"  className="footer-link">Temas resumidos de Geografía</Link></li>
+                        <li ><Link  to="/categorias/historia/"  className="footer-link">Temas resumidos de Historia Universal</Link></li>
+                        <li ><Link  to="/categorias/historia-de-mexico/"  className="footer-link">Temas resumidos de Historia de México</Link></li>
+                        <li ><Link  to="/categorias/biologia/"  className="footer-link">Temas resumidos de Biología</Link></li>
                     </ul>
                     </div>
                     <div>
