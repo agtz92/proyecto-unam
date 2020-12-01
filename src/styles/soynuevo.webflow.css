@@ -86,7 +86,7 @@ a:link {
   width: 70%;
   padding:1%;
 }
-ul li
+ul, li
 {
   list-style-type: none!important;
 } 
@@ -502,16 +502,16 @@ ul li
 }
 
 .nav-link:hover {
-  color: #ffbf00;
+  color: #fca311;
 }
 
 .nav-link.w--current {
-  background-color: #ffbf00;
+  background-color: #fca311;
   color: #000;
 }
 
 .navbar {
-  background-color: #4b4b4b;
+  background-color: #003049;
 }
 
 .image {
@@ -778,6 +778,7 @@ ul li
   margin-bottom: 20px;
   font-size: 14px;
   line-height: 1.5;
+  color:#fca311;
 }
 
 .footer-link {
@@ -953,7 +954,7 @@ ul li
   -webkit-align-items: flex-start;
   -ms-flex-align: start;
   align-items: flex-start;
-  background-color: #242424;
+  background-color: #003049;
   color: #fff;
   text-align: center;
 }

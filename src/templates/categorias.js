@@ -9,12 +9,12 @@ import CategoryHeader from "../components/categoryHeader"
 import { Link, graphql } from "gatsby"
 
 const imageMapper ={
-  Pesca: require("../images/slider/pesca.jpg"),
-  Acampar: require("../images/slider/acampar.jpg"),
-  Carpintería: require("../images/slider/carpinteria.jpg"),
-  Coctelería: require("../images/slider/cocteleria.jpg"),
-  Jardinería: require("../images/slider/jardineria.jpg"),
-  Cocinar: require("../images/slider/cocinar.jpg"),
+  Español: require("../images/slider/espanol.jpg"),
+  Literatura: require("../images/slider/literatura.jpg"),
+  Geografía: require("../images/slider/geografia.jpg"),
+  HistoriaUniversal: require("../images/slider/historia.jpg"),
+  HistoriadeMéxico: require("../images/slider/historiamexico.jpg"),
+  Biología: require("../images/slider/biologia.jpg"),
   Asar: require("../images/slider/asar.jpg")
 }
 
@@ -29,7 +29,7 @@ const Categorias = ({ pageContext, data }) => {
         
         <Layout>
             <div>
-            <CategoryHeader background={imageMapper[categoria]} category={categoria} descripcion={categoriaHeader} />  
+            <CategoryHeader background={imageMapper[(categoria).split(' ').join('')]} category={categoria} descripcion={categoriaHeader} />  
             
 
 

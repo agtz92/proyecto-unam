@@ -4,6 +4,7 @@ import { Link, graphql } from "gatsby"
 import Heading from "../components/heading"
 import Layout from "../layouts/layout"
 import CategoriesBlock from "../components/categoriesBlock"
+import InfoBlock from "../components/infoblock"
 // Utilities
 import kebabCase from "lodash/kebabCase"
 
@@ -35,11 +36,11 @@ const CategoriasPage = ({
                 <Heading color="dark" alignment="center">Todas las Materias</Heading>
                 <div style={{paddingLeft:"15%", paddingRight:"15%"}}>
                     {group.map(categoria => (
-                        <li key={categoria.fieldValue}>
+                        <ul key={categoria.fieldValue}>
                             <Link to={`/categorias/${kebabCase(categoria.fieldValue)}/`}>
-                                <CategoriesBlock name={categoria.fieldValue} count={categoria.totalCount} background={imageMapper[(categoria.fieldValue).split(' ').join('')]} />
+                                <InfoBlock title={categoria.fieldValue}  img={imageMapper[(categoria.fieldValue).split(' ').join('')]} description={`Ve todos los temas que tenemos para preparar tu examen de ${categoria.fieldValue}`}/>
                             </Link>
-                        </li>
+                        </ul>
                         
                     ))}
                 </div>
