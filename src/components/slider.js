@@ -1,4 +1,5 @@
 import React, { Component } from "react";
+import { Link, graphql } from "gatsby"
 import Slider from "react-slick";
 import Heading from "./heading"
 import bg1 from '../images/slider/asar.jpg'
@@ -8,12 +9,13 @@ import bg4 from '../images/slider/carpinteria.jpg'
 import bg5 from '../images/slider/cocinar.jpg'
 import bg6 from '../images/slider/cocteleria.jpg'
 import bg7 from '../images/slider/jardineria.jpg'
-import { Link } from "gatsby"
+
 import '../../node_modules/slick-carousel/slick/slick.css'
 import '../../node_modules/slick-carousel/slick/slick-theme.css'
 
 
 const bg = [bg1,bg2,bg3,bg4,bg5,bg6,bg7];
+
 
 export default class SimpleSlider extends Component{
     render() {
@@ -53,7 +55,7 @@ export default class SimpleSlider extends Component{
                         <Slide
                             to="/categorias/asar/"
                             background={bg[0]}
-                            title="¿Cómo asar en parrilla?"
+                            title="Español"
                             text="LOREM IPSUM MOTHERFUCKER"
                         />
                     </React.Fragment>

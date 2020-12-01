@@ -6,6 +6,14 @@ module.exports = {
       //assets go above everything else to avoid failures when using gatsby-remark-relative-images
       resolve: `gatsby-source-filesystem`,
       options: {
+          path: `${__dirname}/src/images/slider`,
+          name: 'images',
+               },
+    },
+    {
+      //assets go above everything else to avoid failures when using gatsby-remark-relative-images
+      resolve: `gatsby-source-filesystem`,
+      options: {
           path: `${__dirname}/static/assets`,
           name: 'images',
                },

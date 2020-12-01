@@ -11,11 +11,12 @@ import "../styles/soynuevo.webflow.css"
 
 
 export default function Home({data}) {
+  
   return (
     
     <React.Fragment>
     <Layout>
-    <SimpleSlider/>
+    <SimpleSlider espanol={data.historia.edges.fluid}/>
     <div style={{marginLeft: "2%", marginRight: "2%"}}>
       <Link to="/categorias/"><Heading color="dark" >Repasa tus materias </Heading></Link>
       <Link to="/"><h2 className="heading-categoria" style={{color:"black"}}>Ve todo en Español {">"}</h2></Link>
@@ -94,6 +95,7 @@ export default function Home({data}) {
   )
   
 }
+
 export const query = graphql`
   query {
     
@@ -116,6 +118,60 @@ export const query = graphql`
               }
             }
           }
-
+           historia: allImageSharp(filter: {fluid : {originalName: {eq: "historia.jpg"}}}) {
+          edges {
+            node {
+              fluid {
+                src
+              }
+            }
+          }
+        }
+        espanol: allImageSharp(filter: {fluid: {originalName: {eq: "espanol.jpg"}}}) {
+          edges {
+            node {
+              fluid {
+                src
+              }
+            }
+          }
+        }
+        literatura: allImageSharp(filter: {fluid: {originalName: {eq: "literatura.jpg"}}}) {
+          edges {
+            node {
+              fluid {
+                src
+              }
+            }
+          }
+        }
+        historiamexico: allImageSharp(filter: {fluid: {originalName: {eq: "historiamexico.jpg"}}}) {
+          edges {
+            node {
+              fluid {
+                src
+              }
+            }
+          }
+        }
+        geografia: allImageSharp(filter: {fluid: {originalName: {eq: "geografia.jpg"}}}) {
+          edges {
+            node {
+              fluid {
+                src
+              }
+            }
+          }
+        }
+        biologia: allImageSharp(filter: {fluid: {originalName: {eq: "biologia.jpg"}}}) {
+          edges {
+            node {
+              fluid {
+                src
+              }
+            }
+          }
+        }
+          
   }
 `
