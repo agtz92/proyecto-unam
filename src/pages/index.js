@@ -59,7 +59,7 @@ export default function Home({data}) {
           }
         })}
       </Blockcontainer>
-      <Link to="/categorias/historia/"><h2 className="heading-categoria" style={{color:"black"}}>Ve todo en Historia Universal {">"}</h2></Link>
+      <Link to="/categorias/historia-universal/"><h2 className="heading-categoria" style={{color:"black"}}>Ve todo en Historia Universal {">"}</h2></Link>
       <Blockcontainer>
         {data.allMarkdownRemark.edges.map(({ node }) => {
           if (node.frontmatter.categoria.includes('Historia') && !node.frontmatter.categoria.includes('México')) {
