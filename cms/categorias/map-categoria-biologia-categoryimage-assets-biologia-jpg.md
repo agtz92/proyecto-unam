@@ -1,4 +1,4 @@
 ---
-categoria: Biologia
+categoria: Biología
 categoryimage: /assets/biologia.jpg
 ---
