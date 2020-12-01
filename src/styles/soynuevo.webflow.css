@@ -515,8 +515,8 @@ ul li
 }
 
 .image {
-  -webkit-filter: invert(100%);
-  filter: invert(100%);
+  /*-webkit-filter: invert(100%);
+  filter: invert(100%);*/
 }
 
 .head-post {

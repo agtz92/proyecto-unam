@@ -13,7 +13,7 @@ export default function Footer() {
                 <div className="footer-flex-container">
                 <Link to="/"><img
                     loading="lazy"
-                    width="50px"
+                    width="auto"
                     height="50px"
                     srcSet={logoChico}
                     alt="soynuevologo"
@@ -23,12 +23,12 @@ export default function Footer() {
                     <div>
                     <h2 className="footer-heading">Todas las categorías</h2>
                     <ul  className="list-footer w-list-unstyled">
-                        <li ><Link  to="/categorias/asar/"  className="footer-link">¿Cómo Asar en Parrilla?</Link></li>
-                        <li ><Link  to="/categorias/acampar/"  className="footer-link">¿Cómo Acampar?</Link></li>
-                        <li ><Link  to="/categorias/pesca/"  className="footer-link">¿Cómo Pescar?</Link></li>
-                        <li ><Link  to="/categorias/cocinar/"  className="footer-link">¿Cómo Cocinar?</Link></li>
-                        <li ><Link  to="/categorias/carpinteria/"  className="footer-link">¿Cómo hacer Carpintería?</Link></li>
-                        <li ><Link  to="/categorias/cocteleria/"  className="footer-link">¿Cómo hacer Coctelería?</Link></li>
+                        <li ><Link  to="/categorias/asar/"  className="footer-link">Temas resumidos de Español</Link></li>
+                        <li ><Link  to="/categorias/acampar/"  className="footer-link">Temas resumidos de Literatura</Link></li>
+                        <li ><Link  to="/categorias/pesca/"  className="footer-link">Temas resumidos de Geografía</Link></li>
+                        <li ><Link  to="/categorias/cocinar/"  className="footer-link">Temas resumidos de Historia Universal</Link></li>
+                        <li ><Link  to="/categorias/carpinteria/"  className="footer-link">Temas resumidos de Historia de México</Link></li>
+                        <li ><Link  to="/categorias/cocteleria/"  className="footer-link">Temas resumidos de Biología</Link></li>
                     </ul>
                     </div>
                     <div>

@@ -2,12 +2,12 @@ import React, { Component } from "react";
 import { Link, graphql } from "gatsby"
 import Slider from "react-slick";
 import Heading from "./heading"
-import bg1 from '../images/slider/asar.jpg'
-import bg2 from '../images/slider/pesca.jpg'
-import bg3 from '../images/slider/acampar.jpg'
-import bg4 from '../images/slider/carpinteria.jpg'
-import bg5 from '../images/slider/cocinar.jpg'
-import bg6 from '../images/slider/cocteleria.jpg'
+import bg1 from '../images/slider/espanol.jpg'
+import bg2 from '../images/slider/literatura.jpg'
+import bg3 from '../images/slider/geografia.jpg'
+import bg4 from '../images/slider/historia.jpg'
+import bg5 from '../images/slider/historiamexico.jpg'
+import bg6 from '../images/slider/biologia.jpg'
 import bg7 from '../images/slider/jardineria.jpg'
 
 import '../../node_modules/slick-carousel/slick/slick.css'
@@ -63,7 +63,7 @@ export default class SimpleSlider extends Component{
                         <Slide
                             to="/categorias/pesca/"
                             background={bg[1]}
-                            title="¿Cómo Pescar?"
+                            title="Literatura"
                             text="LOREM IPSUM MOTHERFUCKERsss"
                         />
                     </React.Fragment>
@@ -71,7 +71,7 @@ export default class SimpleSlider extends Component{
                         <Slide
                             to="/categorias/acampar/"
                             background={bg[2]}
-                            title="¿Cómo acampar?"
+                            title="Geografía"
                             text="LOREM IPSUM MOTHERFUCKERsss"
                         />
                     </React.Fragment>
@@ -79,7 +79,7 @@ export default class SimpleSlider extends Component{
                         <Slide
                             to="/categorias/carpinteria/"
                             background={bg[3]}
-                            title="¿Cómo hacer carpinteria?"
+                            title="Historia Universal"
                             text="LOREM IPSUM MOTHERFUCKERsss"
                         />
                     </React.Fragment>
@@ -87,7 +87,7 @@ export default class SimpleSlider extends Component{
                         <Slide
                             to="/categorias/cocinar/"
                             background={bg[4]}
-                            title="¿Cómo cocinar?"
+                            title="Historia de México"
                             text="LOREM IPSUM MOTHERFUCKERsss"
                         />
                     </React.Fragment>
@@ -95,15 +95,7 @@ export default class SimpleSlider extends Component{
                         <Slide
                             to="/categorias/cocteleria/"
                             background={bg[5]}
-                            title="¿Cómo hacer coctéles?"
-                            text="LOREM IPSUM MOTHERFUCKERsss"
-                        />
-                    </React.Fragment>
-                    <React.Fragment>
-                        <Slide
-                            to="/categorias/jardineria/"
-                            background={bg[6]}
-                            title="¿Cómo hacer jardinería?"
+                            title="Biología"
                             text="LOREM IPSUM MOTHERFUCKERsss"
                         />
                     </React.Fragment>

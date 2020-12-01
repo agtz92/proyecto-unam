@@ -16,9 +16,9 @@ export default function Home({data}) {
     
     <React.Fragment>
     <Layout>
-    <SimpleSlider espanol={data.historia.edges.fluid}/>
+    <SimpleSlider/>
     <div style={{marginLeft: "2%", marginRight: "2%"}}>
-      <Link to="/categorias/"><Heading color="dark" >Repasa tus materias </Heading></Link>
+      <Link to="/categorias/"><Heading color="dark" >Encuentra temas resumidos de: </Heading></Link>
       <Link to="/"><h2 className="heading-categoria" style={{color:"black"}}>Ve todo en Español {">"}</h2></Link>
       <Blockcontainer>
         {data.allMarkdownRemark.edges.map(({ node }) => {
@@ -77,6 +77,20 @@ export default function Home({data}) {
       <Blockcontainer>
         {data.allMarkdownRemark.edges.map(({ node }) => {
           if (node.frontmatter.categoria.includes('Historia de México')) {
+            return (
+              <Link key={node.id} to={node.frontmatter.slug}>
+                <PostBlock name={node.frontmatter.title} text={node.frontmatter.short_description} nivel={node.frontmatter.dificultad} background={node.frontmatter.featuredimage} />
+              </Link>)
+          }else
+          {
+            return (null)
+          }
+        })}
+      </Blockcontainer>
+      <Link to="/"><h2 className="heading-categoria" style={{color:"black"}}>Ve todo en Biología {">"}</h2></Link>
+      <Blockcontainer>
+        {data.allMarkdownRemark.edges.map(({ node }) => {
+          if (node.frontmatter.categoria.includes('Biología')) {
             return (
               <Link key={node.id} to={node.frontmatter.slug}>
                 <PostBlock name={node.frontmatter.title} text={node.frontmatter.short_description} nivel={node.frontmatter.dificultad} background={node.frontmatter.featuredimage} />
