@@ -19,7 +19,7 @@ export default function Home({data}) {
     <SimpleSlider/>
     <div style={{marginLeft: "2%", marginRight: "2%"}}>
       <Link to="/categorias/"><Heading color="dark" >Encuentra temas resumidos de todas las materias </Heading></Link>
-      <Link to="/categorias/espanol/"><h2 className="heading-categoria" style={{color:"black"}}>Ve todo en Español {">"}</h2></Link>
+      <Link to="/categorias/espanol/"><h2 className="heading-categoria" style={{color:"#003049"}}>Ve todo en Español {">"}</h2></Link>
       <Blockcontainer>
         {data.allMarkdownRemark.edges.map(({ node }) => {
           if(node.frontmatter.categoria.includes('Español')){ return(
@@ -32,7 +32,7 @@ export default function Home({data}) {
           }
         })}
       </Blockcontainer>
-      <Link to="/categorias/literatura/"><h2 className="heading-categoria" style={{color:"black"}}>Ve todo en Literatura {">"}</h2></Link>
+      <Link to="/categorias/literatura/"><h2 className="heading-categoria" style={{color:"#003049"}}>Ve todo en Literatura {">"}</h2></Link>
       <Blockcontainer>
         {data.allMarkdownRemark.edges.map(({ node }) => {
           if (node.frontmatter.categoria.includes('Literatura')) {
@@ -46,7 +46,7 @@ export default function Home({data}) {
           }
         })}
       </Blockcontainer>
-      <Link to="/categorias/geografia/"><h2 className="heading-categoria" style={{color:"black"}}>Ve todo en Geografía {">"}</h2></Link>
+      <Link to="/categorias/geografia/"><h2 className="heading-categoria" style={{color:"#003049"}}>Ve todo en Geografía {">"}</h2></Link>
       <Blockcontainer>
         {data.allMarkdownRemark.edges.map(({ node }) => {
           if(node.frontmatter.categoria.includes('Geografía')){ return(
@@ -59,7 +59,7 @@ export default function Home({data}) {
           }
         })}
       </Blockcontainer>
-      <Link to="/categorias/historia-universal/"><h2 className="heading-categoria" style={{color:"black"}}>Ve todo en Historia Universal {">"}</h2></Link>
+      <Link to="/categorias/historia-universal/"><h2 className="heading-categoria" style={{color:"#003049"}}>Ve todo en Historia Universal {">"}</h2></Link>
       <Blockcontainer>
         {data.allMarkdownRemark.edges.map(({ node }) => {
           if (node.frontmatter.categoria.includes('Historia') && !node.frontmatter.categoria.includes('México')) {
@@ -73,7 +73,7 @@ export default function Home({data}) {
           }
         })}
       </Blockcontainer>
-      <Link to="/categorias/historia-de-mexico/"><h2 className="heading-categoria" style={{color:"black"}}>Ve todo en Historia de México {">"}</h2></Link>
+      <Link to="/categorias/historia-de-mexico/"><h2 className="heading-categoria" style={{color:"#003049"}}>Ve todo en Historia de México {">"}</h2></Link>
       <Blockcontainer>
         {data.allMarkdownRemark.edges.map(({ node }) => {
           if (node.frontmatter.categoria.includes('México')) {
@@ -87,7 +87,7 @@ export default function Home({data}) {
           }
         })}
       </Blockcontainer>
-      <Link to="/categorias/biologia/"><h2 className="heading-categoria" style={{color:"black"}}>Ve todo en Biología {">"}</h2></Link>
+      <Link to="/categorias/biologia/"><h2 className="heading-categoria" style={{color:"#003049"}}>Ve todo en Biología {">"}</h2></Link>
       <Blockcontainer>
         {data.allMarkdownRemark.edges.map(({ node }) => {
           if (node.frontmatter.categoria.includes('Biología')) {

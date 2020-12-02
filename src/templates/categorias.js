@@ -21,9 +21,9 @@ const imageMapper ={
 const Categorias = ({ pageContext, data }) => {
     const { categoria } = pageContext
     const { edges, totalCount } = data.allMarkdownRemark
-    const categoriaHeader = `${totalCount} tutorial${
-        totalCount === 1 ? "" : "es"
-        } en la categoría de "${categoria}"`
+    const categoriaHeader = `${totalCount} tema${
+        totalCount === 1 ? "" : "s"
+        } en la materia de "${categoria}"`
 
     return (
         

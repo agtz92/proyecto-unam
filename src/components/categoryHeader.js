@@ -12,7 +12,7 @@ export default function CategoryHeader(props) {
             <div className="blackoverlay"></div>
             <div className="category-text">
             <Heading color="gold" alignment="center">Aprende algo nuevo en {props.category}</Heading>
-            <div className="text-block-2 white">{props.descripcion}</div>
+            <div className="text-block-2 white"><h2>{props.descripcion}</h2></div>
             </div>
         </div>
 
