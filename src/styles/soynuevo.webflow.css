@@ -474,6 +474,12 @@ ul, li
   padding-top: 2%;
 }
 
+.divpadding
+{
+  padding-left: 15%;
+  padding-right:15%;
+}
+
 .blackoverlay {
   position: absolute;
   width: 100%;
@@ -491,6 +497,12 @@ ul, li
 .divcontainernavbar {
   padding-right: 2%;
   padding-left: 2%;
+}
+.w--nav-link-open 
+{
+    display: block;
+    position: relative;
+    background-color: #003049;
 }
 
 .nav-link {
@@ -934,16 +946,21 @@ ul, li
     background-size: cover;
   }
   .slick-next:before, .slick-prev:before
-{
-    font-family: 'slick';
-    font-size: 40px;
-    line-height: 1;
+  {
+      font-family: 'slick';
+      font-size: 40px;
+      line-height: 1;
 
-    opacity: .75;
-    visibility: hidden;
-    -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale;
-}
+      opacity: .75;
+      visibility: hidden;
+      -webkit-font-smoothing: antialiased;
+      -moz-osx-font-smoothing: grayscale;
+  }
+  .divpadding
+  {
+    padding-left: 0%;
+    padding-right:5%;
+  }
 }
 
 

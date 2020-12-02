@@ -34,7 +34,7 @@ const CategoriasPage = ({
         <div>
             <div>
                 <Heading color="dark" alignment="center">Todas las Materias</Heading>
-                <div style={{paddingLeft:"15%", paddingRight:"15%"}}>
+                <div className="divpadding">
                     {group.map(categoria => (
                         <ul key={categoria.fieldValue}>
                             <Link to={`/categorias/${kebabCase(categoria.fieldValue)}/`}>
