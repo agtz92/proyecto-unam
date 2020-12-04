@@ -56,7 +56,7 @@ export default class SimpleSlider extends Component{
                             to="/categorias/asar/"
                             background={bg[0]}
                             title="Español"
-                            text="LOREM IPSUM MOTHERFUCKER"
+                            text="LOREM IPSUM BROOOOO"
                         />
                     </React.Fragment>
                     <React.Fragment>
@@ -64,7 +64,7 @@ export default class SimpleSlider extends Component{
                             to="/categorias/pesca/"
                             background={bg[1]}
                             title="Literatura"
-                            text="LOREM IPSUM MOTHERFUCKERsss"
+                            text="LOREM IPSUM BROOOOO"
                         />
                     </React.Fragment>
                     <React.Fragment>
@@ -72,7 +72,7 @@ export default class SimpleSlider extends Component{
                             to="/categorias/acampar/"
                             background={bg[2]}
                             title="Geografía"
-                            text="LOREM IPSUM MOTHERFUCKERsss"
+                            text="LOREM IPSUM BROOOOO"
                         />
                     </React.Fragment>
                     <React.Fragment>
@@ -80,7 +80,7 @@ export default class SimpleSlider extends Component{
                             to="/categorias/carpinteria/"
                             background={bg[3]}
                             title="Historia Universal"
-                            text="LOREM IPSUM MOTHERFUCKERsss"
+                            text="LOREM IPSUM BROOOOO"
                         />
                     </React.Fragment>
                     <React.Fragment>
@@ -88,7 +88,7 @@ export default class SimpleSlider extends Component{
                             to="/categorias/cocinar/"
                             background={bg[4]}
                             title="Historia de México"
-                            text="LOREM IPSUM MOTHERFUCKERsss"
+                            text="LOREM IPSUM BROOOOO"
                         />
                     </React.Fragment>
                     <React.Fragment>
@@ -96,7 +96,7 @@ export default class SimpleSlider extends Component{
                             to="/categorias/cocteleria/"
                             background={bg[5]}
                             title="Biología"
-                            text="LOREM IPSUM MOTHERFUCKERsss"
+                            text="LOREM IPSUM BROOOOO"
                         />
                     </React.Fragment>
                 </Slider>
