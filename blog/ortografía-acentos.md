@@ -9,7 +9,10 @@ tags:
   - diacrítico
   - enfático
   - prosódico
-short-description: acento diacrítico, acento enfático, acento prosódico, acento ortográfico,
+short-description: |-
+  Uso de los diferentes tipos de acentos:
+
+  Acento diacrítico, Acento enfático, Acento prosódico, Acento ortográfico.
 ---
 
 
