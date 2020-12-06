@@ -1,5 +1,5 @@
 ---
-title: Formas del discurso
+title: "Formas del discurso "
 slug: formas-del-discurso
 featuredimage: /assets/formasdeldiscurso2.png
 date: 2020-12-05T23:05:04.710Z
@@ -9,10 +9,8 @@ tags:
   - descriptivo
   - argumentativo
   - narrativo
-short-description: >-
-  
-
-  Formas del discurso: Discurso descriptivo, discurso narrativo y discurso argumentativo
+short-description: "Formas del discurso: Discurso descriptivo, discurso
+  narrativo y discurso argumentativo"
 ---
 
 
