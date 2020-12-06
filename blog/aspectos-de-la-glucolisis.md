@@ -10,15 +10,10 @@ tags:
   - ciclo
   - componentes
 short-description: >-
-  <!--StartFragment-->
-
 
   La glucólisis o glicólisis es una ruta metabólica que sirve de paso inicial para el catabolismo de carbohidratos en los seres vivos. Consiste fundamentalmente en la ruptura de las moléculas de glucosa mediante la oxidación de la molécula de glucosa, obteniendo así cantidades de energía química aprovechable por las células.
 
 
-
-
-  <!--EndFragment-->
 ---
 <!--StartFragment-->
 
