@@ -14,8 +14,6 @@ short-description: >-
 
   El Texto: texto Dramático, Organización dialógica, acción: desarrollo nudo y desenlace, Personajes, Tragedia Características
 ---
-
-
 en lugares llamados escenarios es aquel que representa algún conflicto de la vida a partir del diálogo entre los personajes. La noción de drama permite nombrar, en forma genérica, a cualquier obra escrita por un dramaturgo donde los hechos tienen lugar en un espacio y tiempo determinados.
 
 El fin del texto dramático es la representación de sus contenidos frente al público. El drama incluye tanto al texto escrito para el teatro como a la obra teatra
@@ -68,15 +66,16 @@ Los personajes dramáticos deben poseer un carácter definido, el cual se manten
 
 **Ambiental.** Ayudan a caracterizar el medio o el ambiente en que actúan otros, no participan en la acción, pertenecen más bien al fondo. Por ejemplo los meseros de un restaurante. Los obreros de una fábrica, etcétera.
 
+![personajes ](/assets/personajes.jpg "personajes ")
+
 **Actualmente el drama se divide en** 
 
 1. Géneros Realistas 
 2. 1. Tragedia
    2. Comedia 
 3. Géneros simbólicos  
-4.  Melodrama, Farsa 
-
-   1. Tragicomedia 
+4. Melodrama, Farsa 
+5. Tragicomedia 
 
 **Organización Dialógica.** 
 
