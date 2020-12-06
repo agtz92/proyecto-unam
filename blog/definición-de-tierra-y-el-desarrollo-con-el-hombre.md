@@ -1,5 +1,5 @@
 ---
-title: "definición de tierra y el desarrollo con  el hombre "
+title: "Definición de tierra y el desarrollo con  el hombre "
 slug: definicion-de-tierra-y-el-desarollo-del-hombre
 featuredimage: /assets/tierra.jpg
 date: 2020-12-05T23:52:23.209Z
