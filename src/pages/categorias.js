@@ -33,7 +33,7 @@ const CategoriasPage = ({
           <Helmet title={title} />
         <div>
             <div>
-                <Heading color="dark" alignment="center">Todas las Materias</Heading>
+                <Heading color="dark" alignment="center">Todas las Materias Disponibles</Heading>
                 <div className="divpadding">
                     {group.map(categoria => (
                         <ul key={categoria.fieldValue}>
