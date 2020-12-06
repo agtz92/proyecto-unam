@@ -1,6 +1,6 @@
 ---
 title: "La nueva España: Organización política "
-slug: La-nueva-españa-organizacion-politica
+slug: la-nueva-españa-organizacion-politica
 featuredimage: /assets/organizacionpolitica.jpg
 date: 2020-12-06T05:23:10.398Z
 dificultad: Preparatoria / Universidad

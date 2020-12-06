@@ -1,6 +1,6 @@
 ---
 title: "La independencia de Hispanoamérica "
-slug: La-independencia-de-hispanoamerica
+slug: la-independencia-de-hispanoamerica
 featuredimage: /assets/independenciadehispoamericana.jpg
 date: 2020-12-06T06:12:45.070Z
 dificultad: Preparatoria / Universidad

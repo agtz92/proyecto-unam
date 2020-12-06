@@ -1,6 +1,6 @@
 ---
 title: "Tragedia y Comedia "
-slug: Tragedia-y-comedia
+slug: tragedia-y-comedia
 featuredimage: /assets/tragediaycomedia.jpg
 date: 2020-12-06T02:17:22.997Z
 dificultad: Preparatoria / Universidad

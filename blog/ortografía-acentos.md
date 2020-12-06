@@ -1,6 +1,6 @@
 ---
 title: "Ortografía: Acentos "
-slug: "ortografia-acentos "
+slug: ortografia-acentos
 featuredimage: /assets/acentos2.png
 date: 2020-12-05T23:15:26.287Z
 dificultad: Secundaria / Preparatoria

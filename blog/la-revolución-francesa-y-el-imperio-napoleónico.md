@@ -1,6 +1,6 @@
 ---
 title: La revolución Francesa y el imperio Napoleónico
-slug: La-revolucion-francesa-y-imperio-napoleonico
+slug: la-revolucion-francesa-y-imperio-napoleonico
 featuredimage: /assets/revolucionfrancesa.jpg
 date: 2020-12-06T06:20:48.477Z
 dificultad: Preparatoria / Universidad
