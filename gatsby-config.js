@@ -25,6 +25,45 @@ module.exports = {
         path: `${__dirname}/blog`,
       },
     },
+     {
+      resolve: 'gatsby-plugin-flexsearch',
+      options: {
+        languages: ['en'],
+        type: 'MarkdownRemark',
+        fields: [
+          {
+            name: 'title',
+            indexed: true,
+            resolver: 'frontmatter.title',
+            attributes: {
+              encode: 'balance',
+              tokenize: 'forward',
+              threshold: 6,
+              depth: 3,
+            },
+            store: true,
+          },
+          {
+            name: 'description',
+            indexed: true,
+            resolver: 'frontmatter.short_description',
+            attributes: {
+              encode: 'balance',
+              tokenize: 'forward',
+              threshold: 0,
+              depth: 3,
+            },
+            store: true,
+          },
+          {
+            name: 'url',
+            indexed: false,
+            resolver: 'frontmatter.slug',
+            store: true,
+          },
+        ],
+      },
+    },
     
     {
       resolve: `gatsby-transformer-remark`,
