@@ -10,9 +10,9 @@ export default function Home() {
 
         <React.Fragment>
             <Layout>
-                <div style={{paddingTop: "10%", paddingBottom: "10%", paddingLeft: "20%", paddingRight: "20%"}}>
+                <div className=""style={{paddingTop: "10%", paddingBottom: "10%", paddingLeft: "20%", paddingRight: "20%"}}>
                     <Heading color="dark" alignment="center">Busca un tema de tu interés</Heading>
-                    <Search/>
+                    <Search classNames="div-center-all-v"/>
                     <Link to="/"><h2 style={{textAlign: "center", color:"blue"}}>Ir a Inicio</h2></Link>
                 </div>
             </Layout>

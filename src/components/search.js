@@ -1,5 +1,6 @@
 import React, { Component } from 'react'
 import { Link } from 'gatsby'
+import InfoBlock from "../components/infoblock"
 
 // Utilities
 import kebabCase from "lodash/kebabCase"
@@ -36,10 +37,10 @@ class Search extends Component {
     return (
       <div className={this.props.classNames}>
         <input
-          className="search__input"
+          className="search__input w-input w-input"
           type="text"
           onChange={this.search}
-          placeholder={'Search'}
+          placeholder={'Buscar'}
         />
         <div className="search__list">
           <ResultList />

@@ -3,7 +3,6 @@ import PropTypes from "prop-types"
 import { Link, graphql } from "gatsby"
 import Heading from "../components/heading"
 import Layout from "../layouts/layout"
-import CategoriesBlock from "../components/categoriesBlock"
 import InfoBlock from "../components/infoblock"
 // Utilities
 import kebabCase from "lodash/kebabCase"
