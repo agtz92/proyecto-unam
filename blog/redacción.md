@@ -1,6 +1,6 @@
 ---
 title: "Redacción "
-slug: "redaccion "
+slug: redaccion
 featuredimage: /assets/redaccion.jpg
 date: 2020-12-08T01:01:51.020Z
 dificultad: Secundaria / Preparatoria
