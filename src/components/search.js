@@ -1,6 +1,5 @@
 import React, { Component } from 'react'
 import { Link } from 'gatsby'
-import InfoBlock from "../components/infoblock"
 
 // Utilities
 import kebabCase from "lodash/kebabCase"

@@ -58,7 +58,9 @@ export default function Template({
                 <div className="blog-post">
                     <div className="top-post">
                         <div className="featuredimage" style={{ backgroundImage: `url(${frontmatter.featuredimage})` }}></div>
+                        
                         <div className="short-description">
+                          <img style={{width:"100px", height:"100px"}}srcSet={frontmatter.featuredimage}/>
                             <Heading color="dark">{frontmatter.title}</Heading>
                             <div className="parpost light">{frontmatter.date}</div>
                                 <div className="tags-div">

@@ -33,6 +33,7 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
             frontmatter {
               slug
               tags
+              featuredimage
             }
           }
         }
@@ -66,6 +67,7 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
             path: node.frontmatter.slug,
             component: blogPostTemplate,
             context: {
+                featuredimage: node.frontmatter.featuredimage,
                 // additional data can be passed via context
                 slug: node.frontmatter.slug,
             },
