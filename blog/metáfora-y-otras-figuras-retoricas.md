@@ -6,7 +6,7 @@ date: 2020-12-09T02:39:53.264Z
 dificultad: Preparatoria / Universidad
 categoria: Literatura
 tags:
-  - metafoas
+  - metaforas
   - figuasretoricas
   - tenor
 short-description: >-
