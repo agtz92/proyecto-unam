@@ -91,8 +91,8 @@ module.exports = {
             resolver: 'frontmatter.short_description',
             attributes: {
               encode: 'balance',
-              tokenize: 'strict',
-              threshold: 3,
+              tokenize: 'forward',
+              threshold: 9,
               depth: 3,
             },
             store: true,
