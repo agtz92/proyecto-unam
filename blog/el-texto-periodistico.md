@@ -1,6 +1,6 @@
 ---
 title: "el texto periodistico "
-slug: "relacion-entre-la-funcion-linguistica "
+slug: texto-periodistico
 featuredimage: /assets/relacionfuncionlinguistica.jpg
 date: 2020-12-06T01:39:46.977Z
 dificultad: Preparatoria / Universidad
