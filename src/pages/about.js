@@ -20,7 +20,7 @@ export default function Home() {
                </p>
                <h2>¿Cómo puedo participar?</h2>
                <p>¡Gran pregunta! Nosotros estamos desarrollando todo el contenido para este sitio de momento pero nos encantaría crecer la base de conocimiento.
-                   Si tienes un resumen o tarea que te gustaría publicar en este sitio web, mándanos un email a contacto@lapagina.com y nosotros lo subiremos a esta página, al mismo tiempo
+                   Si tienes un resumen o tarea que te gustaría publicar en este sitio web, mándanos un email a contacto@antesdelexamen.com y nosotros lo subiremos a esta página, al mismo tiempo
                    te daremos crédito por la creación del artículo si así lo deseas. Puede ser de una materia ya existente o una nueva.
                    <br></br>Si encuentras un error en nuestros posts, por favor también ayúdanos en alzar la mano! Queremos que la información en este sitio sea lo más útil posible.
                </p>
@@ -29,7 +29,7 @@ export default function Home() {
                    para continuar haciendo de esto un proyecto gratis para todos.
                </p>
                <h2>Tengo una pregunta que no está mencionada en esta lista</h2>
-               <p>Escríbenos a contacto@lapagina.com y con gusto responderemos tu pregunta lo más rápido que podamos.</p>
+               <p>Escríbenos a contacto@antesdelexamen.com y con gusto responderemos tu pregunta lo más rápido que podamos.</p>
                 </div>
 
             </Layout>
