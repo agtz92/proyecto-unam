@@ -45,8 +45,8 @@ export default function Footer() {
                     </ul>
                     </div>
                 </div>
-                <div className="text-bottom-footer">Copyright © 2020 soy-nuevo.com . Todos los derechos reservados.</div>
-                <div className="text-bottom-footer">Texto de partner Amazon</div>
+                <div className="text-bottom-footer">Copyright © 2020 antesdelexamen.com . Todos los derechos reservados.</div>
+                <div className="text-bottom-footer">En este sitio se recolectan cookies utilizados para Google Analytics</div>
                 </div>
         </footer>
     );
