@@ -53,50 +53,50 @@ export default class SimpleSlider extends Component{
                 <Slider {...settings}>
                     <React.Fragment>
                         <Slide
-                            to="/categorias/asar/"
+                            to="/categorias/espanol/"
                             background={bg[0]}
                             title="Español"
-                            text="LOREM IPSUM BROOOOO"
+                            text="Temas resumidos para tu examen de Español. Prepárate en 5 minutos y aprueba tu examen"
                         />
                     </React.Fragment>
                     <React.Fragment>
                         <Slide
-                            to="/categorias/pesca/"
+                            to="/categorias/literatura/"
                             background={bg[1]}
                             title="Literatura"
-                            text="LOREM IPSUM BROOOOO"
+                            text="Temas resumidos para tu examen de Literatura. Prepárate en 5 minutos y aprueba tu examen"
                         />
                     </React.Fragment>
                     <React.Fragment>
                         <Slide
-                            to="/categorias/acampar/"
+                            to="/categorias/geografia/"
                             background={bg[2]}
                             title="Geografía"
-                            text="LOREM IPSUM BROOOOO"
+                            text="Temas resumidos para tu examen de Geografía. Prepárate en 5 minutos y aprueba tu examen"
                         />
                     </React.Fragment>
                     <React.Fragment>
                         <Slide
-                            to="/categorias/carpinteria/"
+                            to="/categorias/historia-universal/"
                             background={bg[3]}
                             title="Historia Universal"
-                            text="LOREM IPSUM BROOOOO"
+                            text="Temas resumidos para tu examen de Historia Universal. Prepárate en 5 minutos y aprueba tu examen"
                         />
                     </React.Fragment>
                     <React.Fragment>
                         <Slide
-                            to="/categorias/cocinar/"
+                            to="/categorias/historia-de-mexico/"
                             background={bg[4]}
                             title="Historia de México"
-                            text="LOREM IPSUM BROOOOO"
+                            text="Temas resumidos para tu examen de Historia de México. Prepárate en 5 minutos y aprueba tu examen"
                         />
                     </React.Fragment>
                     <React.Fragment>
                         <Slide
-                            to="/categorias/cocteleria/"
+                            to="/categorias/biologia/"
                             background={bg[5]}
                             title="Biología"
-                            text="LOREM IPSUM BROOOOO"
+                            text="Temas resumidos para tu examen de Biología. Prepárate en 5 minutos y aprueba tu examen"
                         />
                     </React.Fragment>
                 </Slider>
