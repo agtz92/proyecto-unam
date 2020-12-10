@@ -1,7 +1,7 @@
 
 module.exports = {
   siteMetadata: {
-  siteUrl: `https://loving-mahavira-ed5f81.netlify.app`,
+  siteUrl: `www.antesdelexamen.com`,
   },
   plugins: [
     "gatsby-plugin-sharp",
@@ -11,8 +11,8 @@ module.exports = {
     {
       resolve: 'gatsby-plugin-robots-txt',
       options: {
-        host: 'https://goofy-tereshkova-e4b6bf.netlify.app/',
-        sitemap: 'https://goofy-tereshkova-e4b6bf.netlify.app/sitemap.xml',
+        host: 'www.antesdelexamen.com/',
+        sitemap: 'www.antesdelexamen.com/sitemap.xml',
         policy: [{ userAgent: '*', allow: '/' }]
       }
     },
