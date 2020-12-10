@@ -21,7 +21,7 @@ export default function Footer() {
                 />
                 </Link>
                     <div>
-                    <h2 className="footer-heading">Todas las categorías</h2>
+                    <h2 className="footer-heading">Todas las Materias</h2>
                     <ul  className="list-footer w-list-unstyled">
                         <li ><Link  to="/categorias/espanol/"  className="footer-link">Temas resumidos de Español</Link></li>
                         <li ><Link  to="/categorias/literatura/"  className="footer-link">Temas resumidos de Literatura</Link></li>
