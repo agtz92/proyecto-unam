@@ -1,7 +1,9 @@
 
 module.exports = {
   siteMetadata: {
-  siteUrl: `www.antesdelexamen.com`,
+    title: `Antes del Examen | Temas resumidos para cualquier materia`,
+    siteUrl: `https://www.antesdelexamen.com`,
+    description: `Estudia antes de tu examen de Espanol, Geografia, Literatura, Biologia, Historia y mas!`,
   },
   plugins: [
     "gatsby-plugin-sharp",
@@ -11,8 +13,8 @@ module.exports = {
     {
       resolve: 'gatsby-plugin-robots-txt',
       options: {
-        host: 'www.antesdelexamen.com/',
-        sitemap: 'www.antesdelexamen.com/sitemap.xml',
+        host: 'https://www.antesdelexamen.com/',
+        sitemap: 'https://www.antesdelexamen.com/sitemap.xml',
         policy: [{ userAgent: '*', allow: '/' }]
       }
     },
