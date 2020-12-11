@@ -15,7 +15,7 @@ export default function Home({data}) {
   
   return (
     
-    <React.Fragment>
+    <React.Fragment> 
       <Helmet title="Temas resumidos para antes del examen | Inicio">
                 <meta name="description" content="Preparate para tu examen en 5 minutos con nuestros temas resumidos para preparatoria y universidad"/>
               </Helmet>

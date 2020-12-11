@@ -16,7 +16,7 @@ export default function PostBlock(props) {
                 </div>
                 <div>{props.text}</div>
                 </div>
-            </div>
+            </div> 
         
     ) 
 }

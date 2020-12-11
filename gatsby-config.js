@@ -48,6 +48,29 @@ module.exports = {
       }
     },
     {
+      //assets go above everything else to avoid failures when using gatsby-remark-relative-images
+      resolve: `gatsby-source-filesystem`,
+      options: {
+          path: `${__dirname}/src/images/slider`,
+          name: 'images-slider',
+               },
+    },
+    {
+      //assets go above everything else to avoid failures when using gatsby-remark-relative-images
+      resolve: `gatsby-source-filesystem`,
+      options: {
+          path: `${__dirname}/static/assets`,
+          name: 'images',
+               },
+    },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: `markdown-pages`,
+        path: `${__dirname}/blog`,
+      },
+    },
+    {
       resolve: `gatsby-transformer-remark`,
       options: {
         plugins: [
@@ -75,29 +98,7 @@ module.exports = {
         ],
       },
     },
-    {
-      //assets go above everything else to avoid failures when using gatsby-remark-relative-images
-      resolve: `gatsby-source-filesystem`,
-      options: {
-          path: `${__dirname}/src/images/slider`,
-          name: 'images-slider',
-               },
-    },
-    {
-      //assets go above everything else to avoid failures when using gatsby-remark-relative-images
-      resolve: `gatsby-source-filesystem`,
-      options: {
-          path: `${__dirname}/static/assets`,
-          name: 'images',
-               },
-    },
-    {
-      resolve: `gatsby-source-filesystem`,
-      options: {
-        name: `markdown-pages`,
-        path: `${__dirname}/blog`,
-      },
-    },
+    
      {
       resolve: 'gatsby-plugin-flexsearch',
       options: {

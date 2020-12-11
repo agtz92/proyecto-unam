@@ -6,9 +6,7 @@ const _ = require("lodash")
   const typeDefs = [
     `type MarkdownRemark implements Node { frontmatter: Frontmatter }`,
     `type Frontmatter {
-      # you may need to adapt this line depending on the node type and key
-      # that you want to create the relationship for
-      featuredimage: File @link(by: "relativePath")
+      featuredimage: File
     }`
   ]
   createTypes(typeDefs)
