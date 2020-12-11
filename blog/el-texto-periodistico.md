@@ -1,5 +1,5 @@
 ---
-title: "el texto periodistico "
+title: "El texto periodistico "
 slug: texto-periodistico
 featuredimage: /assets/relacionfuncionlinguistica.jpg
 date: 2020-12-06T01:39:46.977Z

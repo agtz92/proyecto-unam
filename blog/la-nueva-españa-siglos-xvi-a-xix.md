@@ -1,5 +1,5 @@
 ---
-title: " La nueva España (Siglos XVI a XIX)"
+title: "La nueva España (Siglos XVI a XIX)"
 slug: la-nueva-espana-siglo-XVI-a-XIX
 featuredimage: /assets/laneuvaespaña.jpg
 date: 2020-12-06T02:42:21.551Z

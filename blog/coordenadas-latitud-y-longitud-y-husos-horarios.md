@@ -1,5 +1,5 @@
 ---
-title: "coordenadas latitud y longitud y husos horarios "
+title: "Coordenadas latitud y longitud y husos horarios "
 slug: coordenadas-geograficas-geograficas-latitud-y-longitud
 featuredimage: /assets/longitud.jpg
 date: 2020-12-06T00:44:33.959Z

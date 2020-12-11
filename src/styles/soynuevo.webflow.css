@@ -979,6 +979,14 @@ ul, li
     background-position: 50% 50%;
     background-size: cover;
   }
+  .slick-next
+{
+    right:0.5%!important;
+}
+  .slick-prev
+{
+    left:-20px!important;
+}
   .slick-next:before, .slick-prev:before
   {
       font-family: 'slick';
@@ -986,7 +994,7 @@ ul, li
       line-height: 1;
 
       opacity: .75;
-      visibility: hidden;
+      visibility: visible;
       -webkit-font-smoothing: antialiased;
       -moz-osx-font-smoothing: grayscale;
   }
@@ -1172,11 +1180,10 @@ ul, li
 .slick-next:before
 {
     font-family: 'slick';
-    font-size: 40px;
+    font-size: 30px!important;
     line-height: 1;
 
     opacity: .75;
-    color: transparent!important;
 
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
@@ -1193,6 +1200,7 @@ ul, li
 }
 .slick-prev:before
 {
+    right: 20%;
     content: '←';
 }
 [dir='rtl'] .slick-prev:before
