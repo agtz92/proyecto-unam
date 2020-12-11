@@ -34,8 +34,6 @@ Los ríos más grandes del mundo son:
 
 **Principales ríos de Europa** 
 
-
-
 1. Danubio ubicado en Rumania y Ucrania 
 2. Rin ubicado en Alemania 
 3. Sena ubicado en Francia 
@@ -44,8 +42,6 @@ Los ríos más grandes del mundo son:
 ![lagos de europa ](/assets/lagosdeeuropa.jpg "lagos de europa ")
 
 **Principales ríos de América del Norte**
-
-
 
 1. Río Misisipi en EUA 
 2. Rio Colorado en EUA y en México
@@ -65,6 +61,8 @@ Los ríos más grandes del mundo son:
 2. Papaloapan (Oaxaca- Veracruz)
 3. Coatzacoalcos (Oaxaca-Veracruz)
 4. Río Pánuco (San Luis Potosí, Tamaulipas)  
+
+   ![rios de mexico ](/assets/riosdemexico.png "rios de mexico ")
 
 **Principales lagos de Europa**
 
