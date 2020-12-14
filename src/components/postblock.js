@@ -14,7 +14,8 @@ export default function PostBlock(props) {
                         <div>Nivel: </div>
                         <div>{props.nivel}</div>
                 </div>
-                <div>{props.text}</div>
+                
+                {/*<div>{props.text}</div>*/}
                 </div>
             </div> 
         

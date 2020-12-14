@@ -9,12 +9,12 @@ export default class Blockcontainer extends Component {
     render() {
         //settings react slick
         const settings = {
-            dots: true,
+            dots: false,
             arrows: true,
             infinite: true,
             speed: 500,
-            slidesToShow: 4,
-            slidesToScroll: 3,
+            slidesToShow: 5,
+            slidesToScroll: 2,
             autoplay: false,
             responsive: [
                 {

@@ -74,7 +74,7 @@ export default function Home({data}) {
           }else
           {
             return (null)
-          }
+          } 
         })}
       </Blockcontainer>
       <Link to="/categorias/historia-de-mexico/"><h2 className="heading-categoria" style={{color:"#003049"}}>Ve todo en Historia de México {">"}</h2></Link>
