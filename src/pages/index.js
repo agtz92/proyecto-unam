@@ -18,11 +18,22 @@ export default function Home({data}) {
     <React.Fragment> 
       <Helmet title="Temas resumidos para antes del examen | Inicio">
                 <meta name="description" content="Preparate para tu examen en 5 minutos con nuestros temas resumidos para preparatoria y universidad"/>
-              </Helmet>
+      </Helmet>
     <Layout>
     <SimpleSlider/>
     <div style={{marginLeft: "2%", marginRight: "2%"}}>
       <Link to="/categorias/"><Heading color="dark" >Encuentra temas resumidos de todas las materias </Heading></Link>
+
+      <Link to="/categorias/"><h2 className="heading-categoria" style={{color:"#003049"}}>Nuestros últimos temas de examen {">"}</h2></Link>
+      <Blockcontainer>
+        {data.allMarkdownRemark.edges.map(({ node }) => { 
+          return(
+          <Link key={node.id} to={node.frontmatter.slug}>
+              <PostBlock name={node.frontmatter.title} text={node.frontmatter.short_description} nivel={node.frontmatter.dificultad} background={node.frontmatter.featuredimage} />
+          </Link>)
+        })}
+      </Blockcontainer>
+{/*
       <Link to="/categorias/espanol/"><h2 className="heading-categoria" style={{color:"#003049"}}>Ve todo en Español {">"}</h2></Link>
       <Blockcontainer>
         {data.allMarkdownRemark.edges.map(({ node }) => {
@@ -104,7 +115,7 @@ export default function Home({data}) {
             return (null)
           }
         })}
-      </Blockcontainer>
+      </Blockcontainer> */}
       </div>
       </Layout>
     </React.Fragment>
@@ -117,7 +128,7 @@ export default function Home({data}) {
 export const query = graphql`
   query {
     
-          allMarkdownRemark(sort: {fields: [frontmatter___date], order: DESC}) {
+          allMarkdownRemark(limit: 20, sort: {fields: [frontmatter___date], order: DESC}) {
             totalCount
             edges {
               node {

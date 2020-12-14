@@ -20,8 +20,10 @@ export default function Template({
         return (
           
             <React.Fragment>
-              <Helmet title={frontmatter.title}>
-                <meta name="description" content={frontmatter.short_description}/>
+              <Helmet >
+                <meta charSet="utf-8" />
+                <title>{frontmatter.title}</title>
+                <meta name="description" content={frontmatter.short_description} />
                 <script type="application/ld+json">
                   {`
                 {

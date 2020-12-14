@@ -14,7 +14,7 @@ export default class Blockcontainer extends Component {
             infinite: true,
             speed: 500,
             slidesToShow: 5,
-            slidesToScroll: 2,
+            slidesToScroll: 4,
             autoplay: false,
             responsive: [
                 {

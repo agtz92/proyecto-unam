@@ -1,4 +1,5 @@
 import React from "react"
+import { Helmet } from "react-helmet"
 import PropTypes from "prop-types"
 import Layout from "../layouts/layout"
 import PostBlockLarge from "../components/postblocklarge"
@@ -26,7 +27,12 @@ const Categorias = ({ pageContext, data }) => {
         } en la materia de "${categoria}"`
 
     return (
-        
+      <React.Fragment>
+        <Helmet >
+                <meta charSet="utf-8" />
+                <title>{`AntesDelExamen | Respuestas de examen de ${categoria}`}</title>
+                <meta name="description" content={`Temas resumidos para estudiar antes del examen de ${categoria}`} />
+        </Helmet>
         <Layout>
             <div>
             <CategoryHeader background={imageMapper[(categoria).split(' ').join('')]} category={categoria} descripcion={categoriaHeader} />  
@@ -57,6 +63,7 @@ const Categorias = ({ pageContext, data }) => {
             <Link to="/categorias"><h2>Ve todas las categorias</h2></Link>
         </div>
         </Layout>
+        </React.Fragment>
     )
 }
 

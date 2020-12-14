@@ -30,6 +30,7 @@ const CategoriasPage = ({
 }) => (
         <Layout>
           <Helmet title={title} />
+          <meta name="description" content={`AntesDelExamen | Respuestas de examen de secundaria, preparatoria y universidad`}/>
         <div>
             <div>
                 <Heading color="dark" alignment="center">Todas las Materias Disponibles</Heading>
