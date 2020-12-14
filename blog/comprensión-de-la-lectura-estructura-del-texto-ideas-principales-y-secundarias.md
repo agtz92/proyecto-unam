@@ -2,7 +2,7 @@
 title: "Comprensión de la lectura estructura del texto: Ideas principales y
   secundarias"
 slug: comprension-de-la-lectura-estructura-del-texto
-featuredimage: /assets/estructuradeltexto.png
+featuredimage: /assets/estructuradeltexto.jpg
 date: 2020-12-05T20:48:23.484Z
 dificultad: Secundaria / Preparatoria
 categoria: Español
@@ -49,7 +49,7 @@ Ejemplo:
 
 “Eduardo aventaba los trastes por todos lados, no deja de gritar y de reclamar a Laura sobre lo que había hecho”
 
-![estructura del texto ](/assets/estructuradeltexto.png "estructura del texto ")
+![estructura del texto ](/assets/estructuradeltexto.jpg "estructura del texto ")
 
 ° **Compresión de lectura punto de vista del autor:**
 

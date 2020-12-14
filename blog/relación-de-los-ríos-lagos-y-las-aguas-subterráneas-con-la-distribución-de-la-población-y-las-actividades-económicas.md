@@ -31,7 +31,7 @@ Un acuífero es aquella masa de rocas permeables que permite la circulación y l
 
 En zonas permeables, la capa superficial del área de saturación de agua se llama nivel freático. Cuando en lugares muy poblados o zonas áridas muy irrigadas se extrae agua del subsuelo en demasía, el nivel freático puede descender con gran rapidez, haciendo que sea imposible acceder a él, aún recurriendo a pozos muy profundos
 
-![flujo subterraneo ](/assets/flujo.png "flujo subterraneo ")
+![flujo subterraneo ](/assets/flujo.jpg "flujo subterraneo ")
 
 **Los ríos/lagos más importantes del mundo son los siguientes** 
 

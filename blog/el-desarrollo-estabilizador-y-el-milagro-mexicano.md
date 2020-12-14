@@ -35,7 +35,7 @@ Sus Objetivos 
 
 ° Elevar el nivel de vida   
 
-![milagromexicano](/assets/milagromexicnao.png "milagromexicano")
+![milagromexicano](/assets/milagromexicnao.jpg "milagromexicano")
 
 El fin del milagro mexicano se llevó a cabo en el año 1970, este tuvo muchos avances durante su periodo La sociedad mexicana empezó a sufrir altos niveles inflacionarios (con un tope de 18%), y la producción industrial alcanzó un límite con la política de sustitución de importaciones.
 

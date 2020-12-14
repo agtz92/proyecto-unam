@@ -1,7 +1,7 @@
 ---
 title: "Formas del discurso "
 slug: formas-del-discurso
-featuredimage: /assets/formasdeldiscurso2.png
+featuredimage: /assets/formasdeldiscurso2.jpg
 date: 2020-12-05T23:05:04.710Z
 dificultad: Secundaria / Preparatoria
 categoria: Español

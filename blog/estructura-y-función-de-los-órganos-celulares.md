@@ -65,7 +65,7 @@ Estructura:
 
 Función: es un organelo encargado de procesar, empaquetar y distribuir los lípidos y proteínas provenientes del retículo endoplasmático liso (REL) y del rugoso (RER), respectivamente.
 
-![aparatode golgi](/assets/aparatodegolgi.png "aparato de golgi")
+![aparatode golgi](/assets/aparatodegolgi.jpg "aparato de golgi")
 
 **RETÍCULO ENDOPLASMÁTICO (RE):**
 
