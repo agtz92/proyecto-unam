@@ -64,7 +64,7 @@ export default function Template({
                 <div className="div-grey-post"></div>
                 <div className="blog-post">
                     <div className="top-post">
-                        <div className="featuredimage" style={{ backgroundImage: `url(${frontmatter.featuredimage})` }}><Img fluid={data.file.childImageSharp.fluid}/></div>
+                        <div className="featuredimage" ><Img fluid={data.file.childImageSharp.fluid}/></div>
                         
                         <div className="short-description">
                           
