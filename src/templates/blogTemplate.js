@@ -102,7 +102,6 @@ export const pageQuery = graphql`
         date(formatString: "DD MMMM, YYYY")
         slug
         dificultad
-        featuredimage
         tags
         title
         categoria
