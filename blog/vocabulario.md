@@ -1,7 +1,7 @@
 ---
 title: Vocabulario
 slug: vocabulario
-featuredimage: /assets/vocabulario.jpg
+featuredimage: vocabulario.jpg
 date: 2020-12-08T01:08:23.907Z
 dificultad: Secundaria / Preparatoria
 categoria: Español

@@ -1,7 +1,7 @@
 ---
 title: "El paisaje natural: la tectonica global "
 slug: la-tectonica-global
-featuredimage: /assets/tectonicaglobal.jpg
+featuredimage: tectonicaglobal.jpg
 date: 2020-12-06T01:08:07.766Z
 dificultad: Preparatoria / Universidad
 categoria: Geografía

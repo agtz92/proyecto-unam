@@ -1,7 +1,7 @@
 ---
 title: La restauración de la república
 slug: la-restauracion-de-la-republica
-featuredimage: /assets/restauraciondelarepublica.jpg
+featuredimage: restauraciondelarepublica.jpg
 date: 2020-12-12T01:26:30.985Z
 dificultad: Preparatoria / Universidad
 categoria: Historia de México

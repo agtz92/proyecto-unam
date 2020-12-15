@@ -1,7 +1,7 @@
 ---
 title: "El Maximato "
 slug: el-maximato
-featuredimage: /assets/maximato.jpeg
+featuredimage: maximato.jpeg
 date: 2020-12-13T03:35:22.102Z
 dificultad: Preparatoria / Universidad
 categoria: Historia de México

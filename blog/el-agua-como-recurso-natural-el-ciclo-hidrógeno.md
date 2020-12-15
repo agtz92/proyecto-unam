@@ -1,7 +1,7 @@
 ---
 title: "El agua como recurso natural: El ciclo hidrógeno"
 slug: el-ciclo-de-hidrogeno
-featuredimage: /assets/ciclodehidrogeno.jpg
+featuredimage: ciclodehidrogeno.jpg
 date: 2020-12-06T01:23:28.432Z
 dificultad: Secundaria / Preparatoria
 categoria: Geografía

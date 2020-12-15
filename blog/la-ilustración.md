@@ -1,7 +1,7 @@
 ---
 title: "La ilustración "
 slug: las-ideas-de-la-ilustracion
-featuredimage: /assets/ideasdelailustracion.jpg
+featuredimage: ideasdelailustracion.jpg
 date: 2020-12-06T06:01:03.989Z
 dificultad: Preparatoria / Universidad
 categoria: Historia Universal

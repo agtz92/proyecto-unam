@@ -1,7 +1,7 @@
 ---
 title: Fichas bibliográficas y Hemerográficas
 slug: fichas-bibliograficas-y-hemerograficas
-featuredimage: /assets/fichas.jpg
+featuredimage: fichas.jpg
 date: 2020-12-10T02:07:49.256Z
 dificultad: Preparatoria / Universidad
 categoria: Literatura

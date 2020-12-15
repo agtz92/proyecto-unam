@@ -1,7 +1,7 @@
 ---
 title: "Gramática: Oración, Uso del sujeto y Uso del predicado  "
 slug: gramatica-oracion-uso-del-sujeto
-featuredimage: /assets/sujetoypredicado.jpg
+featuredimage: sujetoypredicado.jpg
 date: 2020-12-05T23:43:05.846Z
 dificultad: Secundaria / Preparatoria
 categoria: Español

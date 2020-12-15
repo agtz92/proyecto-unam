@@ -1,7 +1,7 @@
 ---
 title: "El texto periodistico "
 slug: texto-periodistico
-featuredimage: /assets/relacionfuncionlinguistica.jpg
+featuredimage: relacionfuncionlinguistica.jpg
 date: 2020-12-06T01:39:46.977Z
 dificultad: Preparatoria / Universidad
 categoria: Literatura

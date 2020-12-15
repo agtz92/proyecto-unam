@@ -10,13 +10,18 @@ import "../styles/webflow.css"
 import "../styles/soynuevo.webflow.css"
 // Utilities
 import kebabCase from "lodash/kebabCase"
+import Img from "gatsby-image"
 
 export default function Template({
-  data, // this prop will be injected by the GraphQL query below.
+  data// this prop will be injected by the GraphQL query below.
 }) {
+  
     const { markdownRemark } = data // data.markdownRemark holds your post data
     const { frontmatter, html } = markdownRemark
-    const perro = "https://goofy-tereshkova-e4b6bf.netlify.app/" + frontmatter.slug + "/";
+    const perro = "https://www.antesdelexamen.com/" + frontmatter.slug + "/";
+    //console.log(frontmatter.featuredimage);
+    const split = String(frontmatter.featuredimage).split("\\");
+    console.log(split[3]);
         return (
           
             <React.Fragment>
@@ -35,7 +40,7 @@ export default function Template({
                   },
                   "headline": \"${frontmatter.title}\",
                   "description": \"${frontmatter.short_description}\",
-                  "image": "https://goofy-tereshkova-e4b6bf.netlify.app${frontmatter.featuredimage}",  
+                  "image": "https://www.antesdelexamen.com/${frontmatter.featuredimage}",  
                   "author": {
                     "@type": "Organization",
                     "name": "soy-nuevo.com"
@@ -45,7 +50,7 @@ export default function Template({
                     "name": "soy-nuevo",
                     "logo": {
                       "@type": "ImageObject",
-                      "url": \"https://goofy-tereshkova-e4b6bf.netlify.app${logoChico}\"
+                      "url": \"https://www.antesdelexamen.com/${logoChico}\"
                     }
                   },
                   "datePublished": \"${frontmatter.date}\",
@@ -59,7 +64,7 @@ export default function Template({
                 <div className="div-grey-post"></div>
                 <div className="blog-post">
                     <div className="top-post">
-                        <div className="featuredimage" style={{ backgroundImage: `url(${frontmatter.featuredimage})` }}></div>
+                        <div className="featuredimage" style={{ backgroundImage: `url(${frontmatter.featuredimage})` }}><Img fluid={data.file.childImageSharp.fluid}/></div>
                         
                         <div className="short-description">
                           
@@ -87,7 +92,7 @@ export default function Template({
 }
 
 export const pageQuery = graphql`
-  query($slug: String!) {
+  query($slug: String!, $featuredimage: String!) {
     markdownRemark(
       fileAbsolutePath: {regex: "/blog/"}
       frontmatter: { slug: { eq: $slug } }
@@ -102,6 +107,13 @@ export const pageQuery = graphql`
         title
         categoria
         short_description
+      }
+    }
+    file(relativePath: {eq: $featuredimage}) {
+      childImageSharp {
+        fluid(maxWidth: 600, quality: 100) {
+          ...GatsbyImageSharpFluid
+        }
       }
     }
   }

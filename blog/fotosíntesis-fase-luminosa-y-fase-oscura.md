@@ -1,7 +1,7 @@
 ---
 title: Fotosíntesis, Fase Luminosa y fase oscura
 slug: fotosintesis-fases-luminosa-y-fase-oscura
-featuredimage: /assets/fotosintesis.png
+featuredimage: fotosintesis.png
 date: 2020-12-06T07:07:06.516Z
 dificultad: Secundaria / Preparatoria
 categoria: Biología

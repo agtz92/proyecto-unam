@@ -1,7 +1,7 @@
 ---
 title: "Gramática: Uso de G, J, Uso de H "
 slug: gramatica-uso-de-g-j-y-h
-featuredimage: /assets/gj.jpg
+featuredimage: gj.jpg
 date: 2020-12-08T01:25:13.116Z
 dificultad: Secundaria / Preparatoria
 categoria: Español

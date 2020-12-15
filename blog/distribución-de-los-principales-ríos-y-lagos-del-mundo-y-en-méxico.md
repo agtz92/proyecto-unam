@@ -1,7 +1,7 @@
 ---
 title: "Distribución de los principales ríos y lagos del mundo y en México "
 slug: principales-rios-y-lagos-del-mundo-y-mexico
-featuredimage: /assets/rios.jpg
+featuredimage: rios.jpg
 date: 2020-12-11T01:09:21.895Z
 dificultad: Preparatoria / Universidad
 categoria: Geografía

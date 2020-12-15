@@ -35,8 +35,7 @@ module.exports = {
       },
     },
     `gatsby-plugin-sitemap`,
-    "gatsby-plugin-sharp",
-    "gatsby-transformer-sharp",
+   
     `gatsby-plugin-react-helmet`,
     `gatsby-plugin-sitemap`,
     {
@@ -70,6 +69,8 @@ module.exports = {
         path: `${__dirname}/blog`,
       },
     },
+     "gatsby-plugin-sharp",
+    "gatsby-transformer-sharp",
     {
       resolve: `gatsby-transformer-remark`,
       options: {
@@ -86,7 +87,7 @@ module.exports = {
               //include: ['featured'],
               // [Optional] Exclude the following fields, use dot notation for nested fields
               // No fields are excluded by default
-               exclude: ['featuredimage'],
+              // exclude: ['featuredimage'],
             },
           },
           {

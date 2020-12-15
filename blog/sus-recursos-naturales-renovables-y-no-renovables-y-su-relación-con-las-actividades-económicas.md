@@ -2,7 +2,7 @@
 title: Sus recursos naturales renovables y no renovables y su relación con las
   actividades económicas
 slug: recursos-naturales-renovables-y-no-renovables
-featuredimage: /assets/recursosnaturales.jpg
+featuredimage: recursosnaturales.jpg
 date: 2020-12-11T01:35:40.980Z
 dificultad: Secundaria / Preparatoria
 categoria: Geografía

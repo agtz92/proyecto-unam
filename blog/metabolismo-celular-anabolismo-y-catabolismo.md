@@ -1,7 +1,7 @@
 ---
 title: "Metabolismo celular  Anabolismo y Catabolismo "
 slug: anabolismo-y-catabolismo
-featuredimage: /assets/anabolismoycata.jpg
+featuredimage: anabolismoycata.jpg
 date: 2020-12-06T07:01:57.708Z
 dificultad: Preparatoria / Universidad
 categoria: Biología

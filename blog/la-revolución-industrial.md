@@ -1,7 +1,7 @@
 ---
 title: "La Revolución Industrial "
 slug: la-revolucion-industrial
-featuredimage: /assets/revolucionindustrial.jpg
+featuredimage: revolucionindustrial.jpg
 date: 2020-12-06T06:25:47.405Z
 dificultad: Preparatoria / Universidad
 categoria: Historia Universal

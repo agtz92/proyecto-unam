@@ -50,7 +50,7 @@ const Categorias = ({ pageContext, data }) => {
                     return (
                         <li key={slug}>
                             <Link to={`/${slug}`}>
-                                <PostBlockLarge title={title} img={featuredimage} nivel={dificultad} description={short_description}/>
+                                <PostBlockLarge title={title} img={`/assets/${featuredimage}`} nivel={dificultad} description={short_description}/>
                             </Link>
                         </li>
                     )

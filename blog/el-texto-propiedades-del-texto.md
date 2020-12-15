@@ -1,7 +1,7 @@
 ---
 title: "El texto: propiedades del texto"
 slug: el-texto-propiedades-del-texto
-featuredimage: /assets/eltexto.jpg
+featuredimage: eltexto.jpg
 date: 2020-12-06T01:33:23.257Z
 dificultad: Secundaria / Preparatoria
 categoria: Literatura

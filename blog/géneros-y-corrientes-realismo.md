@@ -1,7 +1,7 @@
 ---
 title: "Géneros y corrientes: Realismo"
 slug: generos-y-corrientes-realismo
-featuredimage: /assets/realismo.jpg
+featuredimage: realismo.jpg
 date: 2020-12-10T01:58:09.029Z
 dificultad: Preparatoria / Universidad
 categoria: Literatura

@@ -1,7 +1,7 @@
 ---
 title: "Estructura y función de los órganos celulares "
 slug: estructura-y-funciones-organos-celulares
-featuredimage: /assets/organoscelulares.jpg
+featuredimage: organoscelulares.jpg
 date: 2020-12-06T06:47:36.644Z
 dificultad: Preparatoria / Universidad
 categoria: Biología

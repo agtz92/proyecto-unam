@@ -1,7 +1,7 @@
 ---
 title: "Funciones de la lengua "
 slug: funciones-de-la-lengua
-featuredimage: /assets/funcionesdellengua.jpg
+featuredimage: funcionesdellengua.jpg
 date: 2020-12-05T23:34:23.219Z
 dificultad: Preparatoria / Universidad
 categoria: Español

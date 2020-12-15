@@ -1,7 +1,7 @@
 ---
 title: "El Porfiriato: El estado liberal oligárquico y la dictadura "
 slug: el-estado-liberal-oligarquico-y-la-dictadura
-featuredimage: /assets/porfi.jpg
+featuredimage: porfi.jpg
 date: 2020-12-12T01:33:34.020Z
 dificultad: Preparatoria / Universidad
 categoria: Historia de México
