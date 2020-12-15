@@ -35,8 +35,7 @@ render(){
             <div className="divcontainernavbar">
                 <Link to="/"><img
                     loading="lazy"
-                    width="auto"
-                    height="50px"
+                    style={{width:"70px", height:"45px", paddingTop:"5px"}}
                     srcSet={logoChico}
                     alt="soynuevologo"
                     className="image"

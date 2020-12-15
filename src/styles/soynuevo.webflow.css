@@ -453,6 +453,13 @@ ul, li
   text-transform: uppercase;
   z-index: 5;
 }
+.heading.medium
+{
+  font-size: 3em;
+}
+.heading.small{
+  font-size:2em;
+}
 .heading.center {
   text-align: center!important;
 }
@@ -464,10 +471,8 @@ ul, li
 }
 .heading.dark {
   padding-bottom: 10px;
-  font-family: Abel, sans-serif;
+  padding-left: 5px;
   color: #3a3a3a;
-  font-size: 4em;
-  text-transform: uppercase;
 }
 
 .heading.yellow {
@@ -478,10 +483,6 @@ ul, li
   font-size: 1em;
 }
 
-.heading.dark {
-  padding-left: 5px;
-  color: #3a3a3a;
-}
 
 .divheading {
   position: relative;
@@ -781,6 +782,7 @@ ul, li
 .footer {
   padding-top: 60px;
   padding-bottom: 40px;
+  margin-top: 40px;
   -webkit-box-align: start;
   -webkit-align-items: flex-start;
   -ms-flex-align: start;
@@ -1224,4 +1226,58 @@ ul, li
 [dir='rtl'] .slick-next:before
 {
     content: '←';
+}
+.div-call-to-action {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  width: 100%;
+  margin-top: 10px;
+  padding: 40px 40px 20px 40px;
+  -webkit-justify-content: space-around;
+  -ms-flex-pack: distribute;
+  justify-content: space-around;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+.call-to-action {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  width:20%;
+  margin-right: 10px;
+  padding: 5px;
+  padding-bottom: 15px;
+  border:1px;
+  border-style: solid;
+  border-color: rgba(82, 82, 82,.4);
+  -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.button-call-to-action {
+  background-color: #003049;
+}
+
+@media screen and (max-width: 767px) {
+  .div-call-to-action {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
+  }
+  .call-to-action {
+    width:100%;
+    margin-bottom: 10px;
+  }
 }

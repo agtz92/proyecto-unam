@@ -4,6 +4,7 @@ import { Helmet } from "react-helmet"
 import Heading from "../components/heading"
 import SimpleSlider from "../components/slider"
 import PostBlock from "../components/postblock"
+import CallToAction from "../components/calltoaction"
 import Blockcontainer from "../components/blocksContainer"
 import Layout from "../layouts/layout"
 import '../styles/normalize.css'
@@ -21,6 +22,7 @@ export default function Home({data}) {
       </Helmet>
     <Layout>
     <SimpleSlider/>
+    <CallToAction/>
     <div style={{marginLeft: "2%", marginRight: "2%"}}>
       <Link to="/categorias/"><Heading color="dark" >Encuentra temas resumidos de todas las materias </Heading></Link>
 
