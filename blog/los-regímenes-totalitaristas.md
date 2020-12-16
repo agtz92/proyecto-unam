@@ -44,7 +44,7 @@ Alemania durante el reino del Nazismo, y la Unión Soviética durante el reino E
 
 la Gestapo en Alemania y la KGB en la Unión Soviética. Finalmente, ambas ideologías mantenían un control total sobre la organización social y económica del país. Los Nazis impusieron el concepto del corporativismo, el cual consistía en la división vertical del orden social, de tal manera que en vez de existir clases sociales, existían tipos sociales: agricultores con agricultores, empresarios con empresarios, y así sucesivamente. Igualmente, los Bolcheviques abolieron las clases sociales e intentaron imponer un orden social homogéneo.
 
-![regimenes](/static/assets/rt.jpg "regimenes")
+![regimenes](/assets/rt.jpg "regimenes")
 
 Con base en estos dos ejemplos, resulta claro que el fenómeno del totalitarismo se puede dar bajo gobiernos de ideología de izquierda tanto como de derecha. En adición, aunque la adopción de un modelo totalitario es el resultado de un cambio revolucionario, este no es necesariamente impuesto como resultado de una revolución. El caso de Alemania, en el que los Nazis llegaron al poder por medios democráticos, demuestra claramente esta aserción.
 
