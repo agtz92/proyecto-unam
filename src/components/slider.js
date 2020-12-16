@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import { Link, graphql } from "gatsby"
+import { Link } from "gatsby"
 import Slider from "react-slick";
 import Heading from "./heading"
 import bg1 from '../images/slider/espanol.jpg'

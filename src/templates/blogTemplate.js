@@ -40,14 +40,14 @@ export default function Template({
                   },
                   "headline": \"${frontmatter.title}\",
                   "description": \"${frontmatter.short_description}\",
-                  "image": "https://www.antesdelexamen.com/${frontmatter.featuredimage}",  
+                  "image": "https://www.antesdelexamen.com/${data.file.childImageSharp.fluid}",  
                   "author": {
                     "@type": "Organization",
-                    "name": "soy-nuevo.com"
+                    "name": "antesdelexamen.com"
                   },  
                   "publisher": {
                     "@type": "Organization",
-                    "name": "soy-nuevo",
+                    "name": "antesdelexamen",
                     "logo": {
                       "@type": "ImageObject",
                       "url": \"https://www.antesdelexamen.com/${logoChico}\"
