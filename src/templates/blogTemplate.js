@@ -21,7 +21,7 @@ export default function Template({
     const perro = "https://www.antesdelexamen.com/" + frontmatter.slug + "/";
     //console.log(frontmatter.featuredimage);
     const split = String(frontmatter.featuredimage).split("\\");
-    console.log(split[3]);
+    console.log("var= " + split[0]);
         return (
           
             <React.Fragment>
@@ -40,7 +40,7 @@ export default function Template({
                   },
                   "headline": \"${frontmatter.title}\",
                   "description": \"${frontmatter.short_description}\",
-                  "image": "https://www.antesdelexamen.com/${data.file.childImageSharp.fluid}",  
+                  "image": "https://www.antesdelexamen.com/assets/${frontmatter.featuredimage}",  
                   "author": {
                     "@type": "Organization",
                     "name": "antesdelexamen.com"
@@ -102,6 +102,7 @@ export const pageQuery = graphql`
         date(formatString: "DD MMMM, YYYY")
         slug
         dificultad
+        featuredimage
         tags
         title
         categoria
