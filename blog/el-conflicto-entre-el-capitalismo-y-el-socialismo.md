@@ -23,7 +23,7 @@ La relación que tiene ambas en el concepto de la historia moderna fue durante e
 
 Las cuales se originan por la crítica del capitalismo. Son movimientos para los cuales el pensamiento teórico juega un papel fundante, a pesar de que su origen real es la experiencia de explotación vivida por las capas populares en el sistema capitalista. Los movimientos socialistas surgen a partir de esta experiencia. En el grado en que carecen de una base teórica formulada, se trata más bien de movimientos populares espontáneos muchas veces eruptivos que siempre son derrotados muy rápidamente Se trata en especial de los movimientos anarquistas
 
-![conflicto](/static/assets/confli.jpg "conflicto")
+![conflicto](/assets/confli.jpg "conflicto")
 
 
 

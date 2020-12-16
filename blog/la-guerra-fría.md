@@ -45,7 +45,7 @@ Unión soviética:la cual fue llevada por el  bloque del Este o bloque Oriental
 
 ° La división del mundo en dos bloques se mantiene en la actualidad entre gobiernos con ideologías muy diferentes. En ese sentido, Estados Unidos mantiene su pulso particular con países comunistas como la Cuba de la familia Castro, el régimen de Corea del Norte o el gobierno comunista chino.
 
-![guerra fria](/static/assets/gf.jpg "guerra fria")
+![guerra fria](/assets/gf.jpg "guerra fria")
 
  Causas 
 

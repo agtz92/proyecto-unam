@@ -21,7 +21,7 @@ En el comercio y las finanzas, el período posterior a la Segunda Guerra Mundial
 
 Alrededor de setenta años después de la creación, expansión y consolidación de un orden económico liberal internacional (PELI), parece que estamos entrando en un período de gran incertidumbre sobre el futuro de ese sistema. La Ronda o Agenda de Doha para el Desarrollo no está más cerca de su conclusión de lo que lo estaba en noviembre de 2001 (cuando se produjo la declaración ministerial de Doha); dos importantes acuerdos regionales que buscan una mayor integración económica parecen estar en un punto muerto, el Tratado Transatlántico de Comercio e Inversiones (conocido como TTIP, por sus siglas en inglés) y el Acuerdo Transpacífico de Cooperación Económica (o TTP, por sus siglas en inglés), y puede que lo más sorprendente de todo sea que el Reino Unido ha iniciado un proceso que podría desembocar en su salida de la Unión Europea (algo que quizá haya socavado la unidad del país). A estos acontecimientos se los ha relacionado, de una forma u otra, con el auge del populismo antiglobalización en casi todos los países avanzados del PELI. No está nada claro que dichos sucesos constituyan un cambio fundamental en la dinámica subyacente de la globalización, ni tampoco si los eventos económicos y políticos guardan una relación superficial, pero la existencia de estos vínculos es lo bastante verosímil como para que valga la pena prestarles más atención.
 
-![globalizacion](/static/assets/globalizacionpolitica.jpg "globalizacion")
+![globalizacion](/assets/globalizacionpolitica.jpg "globalizacion")
 
 
 

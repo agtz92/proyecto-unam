@@ -23,7 +23,7 @@ A mediados de 1989, Hungría -para entonces bajo la autoridad de un gobierno ref
 
 El nuevo gobierno propuso algunas reformas moderadas, como permisos de viaje al exterior durante períodos más largos, que no lograron reducir la presión popular. La revolución ya no podía ser detenida y en noviembre, los berlineses de ambos lados se lanzaron sobre el Muro y comenzaron a abrir en él las primeras brechas. Los guardias de la frontera germano-oriental abandonaron sus puestos y la gente pasó de un lado a otro del Muro en un clima de festejos.
 
-![bloque sovietico ](/static/assets/bs.jpg "bloque sovietico ")
+![bloque sovietico ](/assets/bs.jpg "bloque sovietico ")
 
 La caída del Muro se constituyó en el símbolo del fin del orden comunista en Europa oriental y del fin de la Guerra Fría.
 

@@ -59,7 +59,7 @@ El 1 de septiembre de 1939 Alemania invadió Polonia pretextando agresiones haci
 
 Animado por la victoria, el Führer ordenó la invasión de Francia por el norte, lo que cogió desprevenidos a los estrategas franceses, que esperaban un ataque por el centro. Ante el avance germano, el gobierno francés huyó de París dejando libre el camino para su ocupación el 14 de junio de 1940. Se procedió a dividir el territorio en dos gobiernos: el del norte, bajo ocupación alemana, y el del sur, la Francia de Vichy, a cargo del mariscal Phillipe Pétain, con una relativa independencia. Poco después, Hitler intentó infructuosamente doblegar a Inglaterra mediante un intenso bombardeo aéreo.
 
-![segunda guerra mundial](/static/assets/2guerramundial.jpg "segunda guerra mundial ")
+![segunda guerra mundial](/assets/2guerramundial.jpg "segunda guerra mundial ")
 
 
 

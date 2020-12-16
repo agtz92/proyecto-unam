@@ -43,7 +43,7 @@ para esto sus causas fueron 
 
 ° De forma paralela, algunos especialistas, han señalado que se sufrió una deflación que aumentó el valor real de la deuda.
 
-![crisis29](/static/assets/crisis291.jpg "crisis29")
+![crisis29](/assets/crisis291.jpg "crisis29")
 
 
 
