@@ -1,7 +1,7 @@
 ---
 title: "la expansión colonial y las rivalidades imperialistas "
 slug: la-expansion-colonial-y-las-rivalidades-imperialista
-featuredimage: /assets/expansioncolonial.jpg
+featuredimage: expansioncolonial.jpg
 date: 2020-12-14T23:37:17.668Z
 dificultad: Preparatoria / Universidad
 categoria: Historia Universal

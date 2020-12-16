@@ -1,7 +1,7 @@
 ---
 title: "El desarrollo científico y tecnológico "
 slug: el-desarollo-cientifico-y-tecnologico
-featuredimage: /static/assets/desarollo.jpg
+featuredimage: desarollo.jpg
 date: 2020-12-16T04:50:20.875Z
 dificultad: Preparatoria / Universidad
 categoria: Historia Universal

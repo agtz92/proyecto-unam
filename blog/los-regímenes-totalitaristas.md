@@ -1,7 +1,7 @@
 ---
 title: "Los regímenes totalitaristas "
 slug: los-regimenes-totalitaristas
-featuredimage: /static/assets/regimenestota.jpg
+featuredimage: regimenestota.jpg
 date: 2020-12-16T03:55:42.376Z
 dificultad: Preparatoria / Universidad
 categoria: Historia Universal
@@ -15,7 +15,6 @@ short-description: >-
 
   Los regímenes totalitarias es un régimen político en el que la vida cotidiana de sus ciudadanos
 ---
-<!--StartFragment-->
 
 Los regímenes totalitarias es un régimen político en el que la vida cotidiana de sus ciudadanos  es totalmente controlado por la autoridad controlada  por la autoridad única y exclusiva de un partido político lo cual fue  la forma más drástica de control estatal, y va mucho más allá de los mecanismos de control implementados por dictaduras, gobiernos militares, y gobiernos autoritarios el término totalitarismo tomó popularidad en la década de los cincuenta, cuando Hannah Arendt lo usó para referirse al fenómeno político que entonces ocurría en ciertos países.
 

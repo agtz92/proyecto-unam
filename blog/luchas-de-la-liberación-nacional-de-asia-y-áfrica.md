@@ -1,7 +1,7 @@
 ---
 title: "Luchas de la liberación nacional de Asia y África "
 slug: luchas-de-la-liberacion-nacional-de-asia-y-africa
-featuredimage: /static/assets/luchasdeliberacion.jpg
+featuredimage: luchasdeliberacion.jpg
 date: 2020-12-16T04:30:55.092Z
 dificultad: Preparatoria / Universidad
 categoria: Historia Universal

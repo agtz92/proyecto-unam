@@ -1,7 +1,7 @@
 ---
 title: Pensamientos políticos y sociales del siglo XIX
 slug: pensamientos-politicos-y-sociales-del-siglo-xix
-featuredimage: /assets/pensamients.jpg
+featuredimage: pensamients.jpg
 date: 2020-12-14T23:10:59.547Z
 dificultad: Preparatoria / Universidad
 categoria: Historia Universal

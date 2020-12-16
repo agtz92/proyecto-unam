@@ -1,7 +1,7 @@
 ---
 title: "La segunda guerra mundial "
 slug: la-segunda-guerra-mundial
-featuredimage: /static/assets/segundaguerramundial.jpg
+featuredimage: segundaguerramundial.jpg
 date: 2020-12-16T03:59:24.646Z
 dificultad: Preparatoria / Universidad
 categoria: Historia Universal
