@@ -130,7 +130,7 @@ export default function Home({data}) {
 export const query = graphql`
   query {
     
-          allMarkdownRemark(limit: 20, sort: {fields: [frontmatter___date], order: DESC}) {
+          allMarkdownRemark(limit: 12, sort: {fields: [frontmatter___date], order: DESC}) {
             totalCount
             edges {
               node {
