@@ -1,4 +1,5 @@
 import React from "react"
+import { Helmet } from "react-helmet"
 import PropTypes from "prop-types"
 import Layout from "../layouts/layout"
 import PostBlockLarge from "../components/postblocklarge"
@@ -14,7 +15,12 @@ const Tags = ({ pageContext, data }) => {
         } con la etiqueta "${tag}"`
 
     return (
-        
+        <React.Fragment>
+            <Helmet >
+                <meta charSet="utf-8" />
+                <title>{`AntesDelExamen | Temas de examen relacionado con ${tag}`}</title>
+                <meta name="description" content={`Temas con la etiqueta ${tag}`} />
+        </Helmet>
         <Layout>
             <div>
             <h1>{tagHeader}</h1>
@@ -28,7 +34,7 @@ const Tags = ({ pageContext, data }) => {
                     return (
                         <li key={slug}>
                             <Link to={`/${slug}`}>
-                                <PostBlockLarge title={title} img={featuredimage} nivel={dificultad} description={short_description}/>
+                                <PostBlockLarge title={title} img={`/assets/${featuredimage}`} nivel={dificultad} description={short_description}/>
                             </Link>
                         </li>
                     )
@@ -41,6 +47,7 @@ const Tags = ({ pageContext, data }) => {
             <Link to="/tags"><h2>Ve todos los tags</h2></Link>
         </div>
         </Layout>
+        </React.Fragment>
     )
 }
 
