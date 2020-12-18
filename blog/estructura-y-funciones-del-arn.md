@@ -1,7 +1,7 @@
 ---
 title: Estructura y funciones del ARN
 slug: estructura-y-funciones-del-arn
-featuredimage: /assets/arn.jpg
+featuredimage: arn.jpg
 date: 2020-12-18T04:55:26.800Z
 dificultad: Preparatoria / Universidad
 categoria: Biología

@@ -1,7 +1,7 @@
 ---
 title: "Respiración anaerobia "
 slug: respieracion-anaerobia
-featuredimage: /assets/anaerobia.jpg
+featuredimage: anaerobia.jpg
 date: 2020-12-18T02:44:14.235Z
 dificultad: Preparatoria / Universidad
 categoria: Biología
