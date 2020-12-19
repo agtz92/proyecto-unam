@@ -1,7 +1,7 @@
 ---
 title: "Fases e importancias de la mitosis "
 slug: fases-e-importantes-de-la-mitosis
-featuredimage: /assets/mitosis.jpg
+featuredimage: mitosis.jpg
 date: 2020-12-18T05:03:31.075Z
 dificultad: Preparatoria / Universidad
 categoria: Biología

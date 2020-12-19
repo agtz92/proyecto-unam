@@ -1,7 +1,7 @@
 ---
 title: "Reproducción Asexual "
 slug: reproduccion-asexual
-featuredimage: /assets/reproduccionasexual.jpg
+featuredimage: reproduccionasexual.jpg
 date: 2020-12-19T04:59:36.675Z
 dificultad: Preparatoria / Universidad
 categoria: Biología

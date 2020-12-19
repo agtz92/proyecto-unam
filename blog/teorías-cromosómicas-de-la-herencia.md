@@ -1,7 +1,7 @@
 ---
 title: "Teorías cromosómicas  de la herencia "
 slug: teorias-cromosomicas
-featuredimage: /assets/cromomicas.jpg
+featuredimage: cromomicas.jpg
 date: 2020-12-19T05:21:57.897Z
 dificultad: Preparatoria / Universidad
 categoria: Biología
