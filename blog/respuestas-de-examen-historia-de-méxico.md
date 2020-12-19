@@ -20,7 +20,7 @@ I. La prisión de Moctezuma.
 
 II. La Malinche y Gerónimo de Aguilar se unen a la expedición de
 
- Cortés.
+ Cortés. 
 
 III. La matanza del templo mayor.
 
