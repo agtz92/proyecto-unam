@@ -1,6 +1,6 @@
 ---
 title: Diferencias de células Procariontes y eucariontes
-slug: diferencias-de-celulas-Procariontas-y-Eucariontes
+slug: diferencias-de-celulas-procariontas-y-eucariontes
 featuredimage: celulaseucariontasyprocariontas.jpg
 date: 2020-12-06T06:56:17.982Z
 dificultad: Preparatoria / Universidad
