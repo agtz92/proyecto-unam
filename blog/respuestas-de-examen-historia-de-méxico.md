@@ -1,7 +1,7 @@
 ---
 title: Respuestas de Examen Historia de México
 slug: examen-unam-historia-mexico
-featuredimage: /assets/cultura-mesoamericana-.jpg
+featuredimage: cultura-mesoamericana-.jpg
 date: 2020-12-19T03:32:12.866Z
 dificultad: Preparatoria / Universidad
 categoria: Preguntas de Examen
