@@ -1,6 +1,6 @@
 ---
 title: Conflictos internacionales del México Independiente
-slug: conflictos-internacionales-de-Mexico-Independiente
+slug: conflictos-internacionales-de-mexico-independiente
 featuredimage: conflictosdemexicoindependiente.jpg
 date: 2020-12-06T05:47:58.343Z
 dificultad: Preparatoria / Universidad

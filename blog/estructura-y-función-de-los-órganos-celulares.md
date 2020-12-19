@@ -1,5 +1,5 @@
 ---
-title: "Estructura y función de los órganos celulares "
+title: "Estructura y función de los organelos celulares "
 slug: estructura-y-funciones-organos-celulares
 featuredimage: organoscelulares.jpg
 date: 2020-12-06T06:47:36.644Z
@@ -10,7 +10,7 @@ tags:
   - celula
   - estructura
 short-description: >-
-  Estructura y función de los órganos celulares 
+  Estructura y función de los organelos celulares 
 
 
   La célula es la unidad constitutiva de la materia viva, puede constituir por sí sola un individuo o participar junto con otros elementos semejantes en la formación de organismos más complejos.

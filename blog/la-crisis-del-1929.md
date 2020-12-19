@@ -1,5 +1,5 @@
 ---
-title: "La crisis del 1929  "
+title: "La crisis de 1929  "
 slug: la-crisis-del-1929
 featuredimage: crisis29.jpg
 date: 2020-12-16T03:45:32.337Z
@@ -10,7 +10,7 @@ tags:
   - muertes
   - bancos
 short-description: >-
-  La crisis del 1929  
+  La crisis de 1929  
 
 
   La crisis de 1929, también conocida como la Gran Depresión, fue una de las mayores crisis económicas que han afectado a las economías de los países industrializados

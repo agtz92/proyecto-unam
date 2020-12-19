@@ -1,6 +1,6 @@
 ---
 title: "El movimiento de Independencia de la nueva España "
-slug: independencia-de-la-nueva-España
+slug: independencia-de-la-nueva-espana
 featuredimage: independenciadeespaña.jpg
 date: 2020-12-06T05:36:39.669Z
 dificultad: Secundaria / Preparatoria
