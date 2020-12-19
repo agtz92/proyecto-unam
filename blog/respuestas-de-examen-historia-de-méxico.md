@@ -12,8 +12,6 @@ tags:
 short-description: Preguntas UNAM Historia de México. Preguntas IPN Historia de
   México. Preguntas UAEM Historia de México
 ---
-
-
 ### 1. Ordena cronológicamente los siguientes acontecimientos.
 
 I. La prisión de Moctezuma.
