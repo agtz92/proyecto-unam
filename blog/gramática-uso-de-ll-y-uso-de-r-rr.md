@@ -44,10 +44,7 @@ Muelle, calle, bello, camello 
 Algunos de los verbos terminados en liar  
 
 Atropellar, estallar, avasallar 
-
-
-
-
+</br></br>
 
 **Uso de Y**
 
@@ -92,10 +89,7 @@ Proyectar, inyectar, detectar, abyecto
 Se escribe y al inicio del  sonido yer
 
 Yerno, yerbal, 
-
-
-
-
+</br></br>
 
 **Uso de RR**
 
@@ -116,10 +110,7 @@ Forraje, borrar
 cuando se forman palabras compuestas y la segunda empieza con RR
 
 Autorretrato, Bancarrota 
-
-
-
-
+</br></br>
 
 **Uso de R**
 

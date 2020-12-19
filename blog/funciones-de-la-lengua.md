@@ -16,7 +16,8 @@ short-description: >-
 ---
 
 
-Funciones referencial:  Es una función del lenguaje que es empleado para mencionar los factores externos esto lo que permite exponer la realidad de manera concreta y objetiva, a esta también se le conoce como función denotativa 
+**Funciones referencial:**  
+Es una función del lenguaje que es empleado para mencionar los factores externos esto lo que permite exponer la realidad de manera concreta y objetiva, a esta también se le conoce como función denotativa 
 
 Las otras funciones del lenguaje son: Poéticas, funcional apelativa o conativa, función fática, función emotiva y función metalingüística. 
 
@@ -24,15 +25,15 @@ Es de las más importantes y empleadas en el acto comunicativo, esta nos permite
 
 Los principales recursos lingüísticos  
 
-° deícticos- son palabras y expresiones que sirven para poder señalar aquellas personas, espacio o situaciones 
+° **deícticos**- son palabras y expresiones que sirven para poder señalar aquellas personas, espacio o situaciones 
 
-° Denotativas- se refiere al significado de las principales de las palabras 
+° **Denotativas**- se refiere al significado de las principales de las palabras 
 
-° Sustantivos y verbos- esta permite dar a conocer la información de manera objetiva.
+° **Sustantivos y verbos**- esta permite dar a conocer la información de manera objetiva.
 
-° Entonación- se emplea la entonación enunciativa  
+° **Entonación**- se emplea la entonación enunciativa  
 
-° Modo verbal indicativo- que hace referencia a la acción real y objetivo 
+° **Modo verbal indicativo**- que hace referencia a la acción real y objetivo 
 
 Ejemplos:
 
@@ -44,7 +45,8 @@ En verano conocí la ciudad de París.
 
 El teléfono móvil de mi hermano se averió. 
 
-Funciones de la lengua apelativa- La lengua es empleada con el propósito de llamar la atención de algún receptor para obtener a su respuesta o inducir a una reacción
+**Funciones de la lengua apelativa** 
+La lengua es empleada con el propósito de llamar la atención de algún receptor para obtener a su respuesta o inducir a una reacción
 
 La función apelativa o conativa suele utilizar los siguientes elementos: el vocativo, el modo imperativo y el modo interrogativo. Las formas gramaticales de las interrogaciones, las exhortaciones, las órdenes, las instrucciones; las amenazas, las peticiones
 
@@ -58,7 +60,9 @@ Como las formas gramaticales de las interrogaciones, las exhortantes, las órden
 
  
 
-Funciones de la lengua poética- la función también es conocida como función estética al modo donde las formas de enunciar adquieren un grado de importancia, el centro de la función es la forma del mensaje que le imprime mayor significado y contundencia.
+
+**Funciones de la lengua poética** 
+La función también es conocida como función estética al modo donde las formas de enunciar adquieren un grado de importancia, el centro de la función es la forma del mensaje que le imprime mayor significado y contundencia.
 
 Las formas populares del discurso, enmarcadas dentro de determinadas tradiciones estéticas y culturales, también expresan una función poética. Podemos citar el caso de los refranes populares, las leyendas populares, los trabalenguas, las adivinanzas y juegos de palabras.
 

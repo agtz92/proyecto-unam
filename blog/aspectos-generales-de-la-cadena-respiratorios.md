@@ -1,6 +1,6 @@
 ---
 title: "Aspectos generales de la cadena respiratorios "
-slug: "aspectos-generales-de-la-cadena-respiratorio "
+slug: "aspectos-generales-de-la-cadena-respiratoria"
 featuredimage: cadenaderes.jpg
 date: 2020-12-18T02:55:08.954Z
 dificultad: Preparatoria / Universidad
