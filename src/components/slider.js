@@ -8,7 +8,7 @@ import bg3 from '../images/slider/geografia.jpg'
 import bg4 from '../images/slider/historia.jpg'
 import bg5 from '../images/slider/historiamexico.jpg'
 import bg6 from '../images/slider/biologia.jpg'
-import bg7 from '../images/slider/jardineria.jpg'
+import bg7 from '../images/slider/preguntasdeexamen.jpg'
 
 import '../../node_modules/slick-carousel/slick/slick.css'
 import '../../node_modules/slick-carousel/slick/slick-theme.css'
@@ -51,6 +51,14 @@ export default class SimpleSlider extends Component{
         return (
             <div>
                 <Slider {...settings}>
+                    <React.Fragment>
+                        <Slide
+                            to="/categorias/preguntas-de-examen/"
+                            background={bg[6]}
+                            title="Preguntas de Examen"
+                            text="Cientos de preguntas de examen para UNAM, IPN, UAEM y más!"
+                        />
+                    </React.Fragment>
                     <React.Fragment>
                         <Slide
                             to="/categorias/espanol/"

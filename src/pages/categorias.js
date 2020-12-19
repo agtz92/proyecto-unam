@@ -17,7 +17,7 @@ const imageMapper ={
   HistoriaUniversal: require("../images/slider/historia.jpg"),
   HistoriadeMéxico: require("../images/slider/historiamexico.jpg"),
   Biología: require("../images/slider/biologia.jpg"),
-  Asar: require("../images/slider/asar.jpg")
+  PreguntasdeExamen: require("../images/slider/preguntasdeexamen.jpg")
 }
 
 const CategoriasPage = ({
@@ -79,7 +79,6 @@ export const pageQuery = graphql`
   allMarkdownRemark(limit: 2000) {
     group(field: frontmatter___categoria) {
       fieldValue
-      totalCount
     }
   }
 }

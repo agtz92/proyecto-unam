@@ -63,6 +63,7 @@ export default function Template({
             <div className="blog-post-container">
                 <div className="div-grey-post"></div>
                 <div className="blog-post">
+                  <Link key={frontmatter.categoria} to={`/categorias/${kebabCase(frontmatter.categoria)}/`} ><div className="div-tag marginbottom">{`< Regresar a ${frontmatter.categoria}`}</div></Link>
                     <div className="top-post">
                         <div className="featuredimage" ><Img fluid={data.file.childImageSharp.fluid}/></div>
                         
@@ -72,7 +73,7 @@ export default function Template({
                             <div className="parpost light">{frontmatter.date}</div>
                                 <div className="tags-div">
                                     {frontmatter.tags.map((tag) => (
-                                            <Link key={tag + `tag`} to={`/tags/${kebabCase(tag)}/`}><div className="div-tag">{tag}</div></Link>
+                                            <Link key={tag + `tag`} to={`/tags/${kebabCase(tag)}/`}><div className="div-tag">{tag}</div></Link> 
                                     ))}</div>
                                 
                                 
@@ -81,8 +82,12 @@ export default function Template({
                         </div>
                     </div>
                     <div className="div-text-post" dangerouslySetInnerHTML={{ __html: html }}/>
+                                      <Link key={frontmatter.categoria} to={`/categorias/${kebabCase(frontmatter.categoria)}/`} ><div className="div-tag marginbottom">{`< Regresar a ${frontmatter.categoria}`}</div></Link>
+
                 </div>
+                
                 <div className="div-grey-post"></div>
+                
             </div>
             </Layout>
             </React.Fragment>

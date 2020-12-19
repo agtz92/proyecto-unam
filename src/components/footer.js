@@ -22,6 +22,7 @@ export default function Footer() {
                     <div>
                     <h2 className="footer-heading">Todas las Materias</h2>
                     <ul  className="list-footer w-list-unstyled">
+                        <li ><Link  to="/categorias/preguntas-de-examen/"  className="footer-link">Preguntas de Examen</Link></li>
                         <li ><Link  to="/categorias/espanol/"  className="footer-link">Temas resumidos de Español</Link></li>
                         <li ><Link  to="/categorias/literatura/"  className="footer-link">Temas resumidos de Literatura</Link></li>
                         <li ><Link  to="/categorias/geografia/"  className="footer-link">Temas resumidos de Geografía</Link></li>

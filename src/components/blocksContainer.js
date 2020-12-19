@@ -46,7 +46,8 @@ export default class Blockcontainer extends Component {
         const styles = {
             width:"100%",
             overflow: "visible",
-            padding:"0 10px 0 10px"
+            padding:"0 10px 0 10px",
+            marginBottom:"40px"
         };
        
         return (
