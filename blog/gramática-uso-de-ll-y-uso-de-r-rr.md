@@ -13,29 +13,23 @@ tags:
 short-description: "Gramática: Uso de de ll, y, Uso de R, RR.Uso de LL- las
   palabras terminadas en illo, illa como sus compuestas y derivados"
 ---
-Gramática: Uso de de ll, y, Uso de R, RR.
+**Uso de LL**
 
-**Uso de LL**- las palabras terminadas en illo, illa como sus compuestas y derivados 
+Las palabras terminadas en illo, illa como sus compuestas y derivados 
 
 En los verbos terminados en llar y sus conjugaciones.
 
 Ejemplos: callar, sellar y trillar. Se exceptúan los verbos rayar y rayar, entre otros.
 
-
-
 En las palabras terminadas en illo e illa.
 
 Ejemplos: membrillo y silla.
-
-
 
  En la mayoría de las palabras terminadas en allo, ello, illo, ollo y ullo.
 
 Ejemplos: tallo, cuello, criollo y arrullo.
 
 Algunas de las excepciones más usadas son: mayo, desmayo, ensayo, rayo, playa, raya, apoyo, arroyo, hoyo, chirimoya y joya.
-
-
 
  En los diminutivos formados con la terminación illo e illa.
 
@@ -53,7 +47,11 @@ Atropellar, estallar, avasallar 
 
 
 
-**Uso de Y**- las palabras terminadas en uir
+
+
+**Uso de Y**
+
+**L**as palabras terminadas en uir
 
 Se escriben con Y, las formas de los verbos terminados en uir.
 
@@ -62,8 +60,6 @@ Ejemplos: contribuir – contribuyo, distribuir – distribuir, construir – co
 Las formas verbales que no tengan y, ll, en su infinitivo se escribirán con Y.
 
 Ejemplos: oír – oyen, haber – hayan, ir – vaya, erguir – yergo.
-
-
 
 Se escribe con Y, la sílaba yec.
 
@@ -99,7 +95,11 @@ Yerno, yerbal, 
 
 
 
-**Uso de RR**- cuando va en medio de las vocales y el sonido fuerte 
+
+
+**Uso de RR**
+
+**C**uando va en medio de las vocales y el sonido fuerte 
 
 Cuando es un sonido fuerte y está entremedio de dos vocales en una palabra.
 
@@ -117,7 +117,13 @@ cuando se forman palabras compuestas y la segunda empieza con RR
 
 Autorretrato, Bancarrota 
 
-**Uso de R**- Son las palabras que suenan suave, en r que suena fuerte después  
+
+
+
+
+**Uso de R**
+
+Son las palabras que suenan suave, en r que suena fuerte después  
 
 Cuando representa un sonido suave dentro de una palabra aunque esté entre vocales.
 
