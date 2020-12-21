@@ -1,7 +1,7 @@
 ---
 title: "Estructura del ecosistema "
 slug: estructura-del-ecosistema
-featuredimage: /assets/estrucutrade.jpg
+featuredimage: estrucutrade.jpg
 date: 2020-12-19T20:35:44.523Z
 dificultad: Preparatoria / Universidad
 categoria: Biología

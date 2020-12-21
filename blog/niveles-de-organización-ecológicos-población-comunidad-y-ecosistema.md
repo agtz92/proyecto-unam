@@ -1,7 +1,7 @@
 ---
 title: "Niveles de organización ecológicos: población, comunidad y ecosistema"
 slug: niveles-de-organizacion-ecologicos
-featuredimage: /assets/niveles.jpg
+featuredimage: niveles.jpg
 date: 2020-12-19T20:44:25.838Z
 dificultad: Preparatoria / Universidad
 categoria: Biología

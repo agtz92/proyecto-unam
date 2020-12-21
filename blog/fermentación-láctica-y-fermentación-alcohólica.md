@@ -1,7 +1,7 @@
 ---
 title: "Fermentación Láctica y Fermentación alcohólica "
 slug: fermentacion-lactica-y-fermentacion-alcholica
-featuredimage: /assets/fermentacion.jpg
+featuredimage: fermentacion.jpg
 date: 2020-12-20T22:19:22.462Z
 dificultad: Preparatoria / Universidad
 categoria: Biología

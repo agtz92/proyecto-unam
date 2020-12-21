@@ -1,7 +1,7 @@
 ---
 title: "Teoría evolutiva de Darwin-Wallace "
 slug: teoria-evolutiva-de-darwin-wallace
-featuredimage: /assets/wallace.jpg
+featuredimage: wallace.jpg
 date: 2020-12-19T06:42:16.326Z
 dificultad: Preparatoria / Universidad
 categoria: Biología
