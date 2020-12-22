@@ -4,7 +4,7 @@ slug: examen-unam-historia-mexico
 featuredimage: cultura-mesoamericana-.jpg
 date: 2020-12-19T03:32:12.866Z
 dificultad: Preparatoria / Universidad
-categoria: Biología
+categoria: Preguntas de Examen
 tags:
   - examen
   - unam
