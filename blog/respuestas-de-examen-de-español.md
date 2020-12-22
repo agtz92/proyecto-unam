@@ -33,7 +33,7 @@ A) Metalingüística.
 
 B) Referencial.
 
-C) Apelativa.
+#### C) Apelativa.
 
 D) Emotiva.
 
@@ -67,9 +67,9 @@ D) Entretanto, el Sol ha desaparecido, el aire tiembla en torno a las hojas y
 
 </br></br>
 
-A partir de lo que se implica o se afirma en el texto siguiente, contesta
+### A partir de lo que se implica o se afirma en el texto siguiente, contesta
 
-las preguntas 5 a 9.
+### las preguntas 5 a 9.
 
 Existen dos maneras para conseguir un hueso. Una es profanar las
 
@@ -427,7 +427,7 @@ D) Los medios de comunicación se encargan de difundir los hechos
 
  importantes para la sociedad en que vivimos.
 
-#### 20. ¿Qué forma del discurso predomina en el siguiente párrafo? El vocablo Coyoacán es el resultado de una serie de transformaciones que en su escritura y pronunciación sufrió la palabra náhuatl Coyohuacán. La versión más aceptada es la que lo define como: lugar de los que tienen o poseen coyotes, basada en la explicación del topónimo original, que se compone de tres voces nahuas: coyotl,coyote; hua, posesión y can, lugar.
+### 20. ¿Qué forma del discurso predomina en el siguiente párrafo? El vocablo Coyoacán es el resultado de una serie de transformaciones que en su escritura y pronunciación sufrió la palabra náhuatl Coyohuacán. La versión más aceptada es la que lo define como: lugar de los que tienen o poseen coyotes, basada en la explicación del topónimo original, que se compone de tres voces nahuas: coyotl,coyote; hua, posesión y can, lugar.
 
 </br></br>
 
@@ -451,7 +451,7 @@ A) Descripción.
 
 B) Narración.
 
-### C) Argumentación.
+#### C) Argumentación.
 
 D) Relación.
 
