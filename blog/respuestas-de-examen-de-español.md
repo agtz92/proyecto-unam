@@ -1,7 +1,7 @@
 ---
 title: Respuestas de Examen de Español
 slug: examen-unam-español
-featuredimage: /assets/vocabulario.jpg
+featuredimage: vocabulario.jpg
 date: 2020-12-21T21:48:28.507Z
 dificultad: Preparatoria / Universidad
 categoria: Preguntas de Examen
