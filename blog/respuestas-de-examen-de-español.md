@@ -251,7 +251,7 @@ D) Hidroxiapatita, silicio y polvo blanco.
 
 A) Requieren de una renovación constante y se rompe con facilidad.
 
-### B) No crecen dentro del organismo y por lo común son rechazados.
+#### B) No crecen dentro del organismo y por lo común son rechazados.
 
 C) Se disuelve lentamente en el cuerpo humano y lo daña.
 
@@ -261,7 +261,7 @@ D) Se endurece en el organismo y se contraen rápidamente.
 
 ### 8. Desventajas de la porcelana en los dientes.
 
-### A) Es sumamente dura y desgasta los dientes.
+#### A) Es sumamente dura y desgasta los dientes.
 
 B) Rompe y cambia el color de los dientes.
 
@@ -273,7 +273,7 @@ D) Se rompe la raíz y se contrae el diente natural.
 
 ### 9. ¿Por qué el doctor Lagow trata de hacer dientes y huesos con temperaturas bajas?
 
-### B) Para crear un material maleable.
+#### B) Para crear un material maleable.
 
 C) Para evitar la evaporación rápida.
 
@@ -283,7 +283,7 @@ D) Para crear un material compacto.
 
 ### 10. ¿Cuál de los siguientes conjuntos está compuesto solo por adjetivos?
 
-### A) Filial, tutelar, potable, cálido
+#### A) Filial, tutelar, potable, cálido
 
 B) Difícil, momia, vieja, natural
 
@@ -293,31 +293,31 @@ D) Sopa, pesado, folleto, comprado
 
 </br></br>
 
-#### 11. El enunciado con predicado subrayado es
+### 11. El enunciado con predicado subrayado es
 
 A) Vivíamos hace algunos años en la colonia Roma.
 
 B) En 1965, se transmitió teatro clásico por televisión.
 
-### C) Las costumbres sociales han cambiado notablemente.
+#### C) Las costumbres sociales han cambiado notablemente.
 
 D) Nuestro idioma debe ser estudiado con gran seriedad.
 
 </br></br>
 
-#### 12. Identifica el enunciado que presenta un gerundio mal utilizado.
+### 12. Identifica el enunciado que presenta un gerundio mal utilizado.
 
 A) Realizó grandes cambios aplicando su vasta experiencia.
 
 B) Distrayendo a los guardias pudo salir de la prisión.
 
-### C) Inició sus estudios concluyendo pronto la licenciatura.
+#### C) Inició sus estudios concluyendo pronto la licenciatura.
 
 D) Se acercó al toro haciendo de tripas corazón.
 
 </br></br>
 
-#### 13. En el siguiente enunciado Como reza el dicho alemán: “una buena conciencia es la mejor almohada”.
+### 13. En el siguiente enunciado Como reza el dicho alemán: “una buena conciencia es la mejor almohada”.
 
 Se utilizan las comillas porque
 
@@ -327,17 +327,17 @@ B) Indica una frase popular.
 
 C) Indica un pensamiento.
 
-### D) Se citan palabras de otra persona.
+#### D) Se citan palabras de otra persona.
 
 </br></br>
 
-#### 14. Señala la opción que indique el SIGNIFICADO de la palabra escrita
+### 14. Señala la opción que indique el SIGNIFICADO de la palabra escrita
 
-#### en letras mayúsculas.
+### en letras mayúsculas.
 
 AUTODIDACTA
 
-### A) Quien se instruye a sí mismo.
+#### A) Quien se instruye a sí mismo.
 
 B) Quien se mueve por sí mismo.
 
@@ -347,9 +347,9 @@ D) Quien se adoctrina a sí mismo.
 
 </br></br>
 
-#### 15. En el enunciado
+### 15. En el enunciado
 
-#### ¿No hemos oído hablar a alguien que PUGNA por expresarse correctamente? Lo opuesto de la palabra en letras mayúsculas es
+### ¿No hemos oído hablar a alguien que PUGNA por expresarse correctamente? Lo opuesto de la palabra en letras mayúsculas es
 
 A) Descarta.
 
@@ -357,17 +357,17 @@ B) Olvida.
 
 C) Somete.
 
-### D) Renuncia.
+#### D) Renuncia.
 
 </br></br>
 
-#### 16. Elige la función de la lengua que predomina en el siguiente enunciado
+### 16. Elige la función de la lengua que predomina en el siguiente enunciado
 
-#### “hombre-cohete y también golondrinas araña en vela que hila con luna su tela”
+### “hombre-cohete y también golondrinas araña en vela que hila con luna su tela”
 
 A) Apelativa.
 
-### B) Poética.
+#### B) Poética.
 
 C) Reflexiva.
 
@@ -383,7 +383,7 @@ A) Ven a Carranza en Veracruz los comisionados de la Casa del Obrero
 
  Venustiano les hace ver que triunfará sin el concurso de los obreros.
 
-### B) Ven a Carranza, en Veracruz los comisionados de la Casa del Obrero Mundial, para celebrar un pacto, pero como exigen demasiado, don Venustiano les hace ver que triunfará sin el concurso de los obreros.
+#### B) Ven a Carranza, en Veracruz los comisionados de la Casa del Obrero Mundial, para celebrar un pacto, pero como exigen demasiado, don Venustiano les hace ver que triunfará sin el concurso de los obreros.
 
 C) Ven a Carranza en Veracruz los comisionados de la Casa del Obrero
 
@@ -397,9 +397,9 @@ D) Ven a Carranza en Veracruz los comisionados de la Casa del Obrero
 
  Venustiano, les hace ver que triunfará sin el concurso de los obreros.
 
-#### 18. ¿Cuál palabra está escrita correctamente?
+### 18. ¿Cuál palabra está escrita correctamente?
 
-### A) Compungido.
+#### A) Compungido.
 
 B) Desobe.
 
@@ -407,9 +407,9 @@ C) Insumición.
 
 D) Deshosar.
 
-#### 19. Selecciona la opción que corresponda al fragmento en que
+### 19. Selecciona la opción que corresponda al fragmento en que
 
-#### predomina la narración.
+### predomina la narración.
 
 A) Las más de 200 minificciones incluidas en esta analogía son una muestra
 
@@ -417,7 +417,7 @@ A) Las más de 200 minificciones incluidas en esta analogía son una muestra
 
  reconocidos y con el interés de los lectores especializados.
 
-### B) Cuando iba el otro día en el tren me erguí de pronto feliz sobre mis dos patas y empecé a manotear de alegría y a invitar a todos a ver el paisaje y a contemplar el crepúsculo que estaba de lo más bien.
+#### B) Cuando iba el otro día en el tren me erguí de pronto feliz sobre mis dos patas y empecé a manotear de alegría y a invitar a todos a ver el paisaje y a contemplar el crepúsculo que estaba de lo más bien.
 
 C) ¡las mejores ofertas no sólo en diciembre sino todo el año! ¡con nosotros,
 
@@ -565,19 +565,19 @@ semejanza entre los enfermos de cierto tipo de porfiria y los supuestos
 
 vampiros.
 
-#### 21. La idea principal del texto es
+### 21. La idea principal del texto es
 
 A) Describir la historia de los vampiros.
 
 B) Describir los síntomas de la porfiria.
 
-### C) Desarrollar una hipótesis del vampirismo.
+#### C) Desarrollar una hipótesis del vampirismo.
 
 D) Describir los síntomas del vampirismo.
 
 </br></br>
 
-#### 22. La porfiria se produce
+### 22. La porfiria se produce
 
 A) Porque la molécula de la hemoglobina reacciona ante la luz.
 
@@ -585,9 +585,9 @@ B) Por fallas frecuentes en el funcionamiento del hígado.
 
 C) Porque las porfirias a veces cambian su estructura química.
 
-### D) Por fallas en la codificación genética del funcionamiento de las porfirias.
+#### D) Por fallas en la codificación genética del funcionamiento de las porfirias.
 
-23. La idea central del cuarto párrafo es
+23. ### La idea central del cuarto párrafo es
 
 A) Los síntomas de algunos tipos de porfiria resultan interesantes para el
 
@@ -595,7 +595,7 @@ A) Los síntomas de algunos tipos de porfiria resultan interesantes para el
 
 B) La hemoglobina no procesa las porfirias adecuadamente.
 
-### C) Existe más de un tipo de porfiria cuando la porfiria no se elimina po  medio del hígado y cuando la hemoglobina no procesa las porfirias adecuadamente.
+#### C) Existe más de un tipo de porfiria cuando la porfiria no se elimina po  medio del hígado y cuando la hemoglobina no procesa las porfirias adecuadamente.
 
 D) El enfermo sufrirá de anemia y puede tener una apariencia demacrada
 
@@ -603,7 +603,9 @@ D) El enfermo sufrirá de anemia y puede tener una apariencia demacrada
 
  rojiza pardusca.
 
-24. La idea principal del sexto párrafo es
+</br></br>
+
+24. ### La idea principal del sexto párrafo es
 
 A) Las prácticas descabelladas, como ingerir sangre, para recobrar la salud.
 
@@ -615,55 +617,55 @@ C) La creencia de que ingerir la sangre de otros seres humanos devolvía la
 
  salud.
 
-### D) La analogía del mito de los vampiros y las prácticas descabelladas, como
+#### D) La analogía del mito de los vampiros y las prácticas descabelladas, como
 
- ingerir sangre para cobrar la salud.
+####  ingerir sangre para cobrar la salud.
 
 </br></br>
 
-#### 25. En el siguiente enunciado, determina la función de la palabra en mayúsculas. Considera el concepto El pobre VAGABUNDO recorre el mundo sin destino.
+### 25. En el siguiente enunciado, determina la función de la palabra en mayúsculas. Considera el concepto El pobre VAGABUNDO recorre el mundo sin destino.
 
 A) Sujeto.
 
 B) Modificador.
 
-### C) Núcleo del sujeto.
+#### C) Núcleo del sujeto.
 
 D) Complemento adnominal.
 
 </br></br>
 
-#### 26. En el enunciado la decodificación del genoma humano permitirá resolver preguntas fundamentales para la biología y la sociedad. El núcleo del predicado es
+### 26. En el enunciado la decodificación del genoma humano permitirá resolver preguntas fundamentales para la biología y la sociedad. El núcleo del predicado es
 
 A) Resolver preguntas.
 
 B) Preguntas fundamentales.
 
-### C) Permitirá resolver.
+#### C) Permitirá resolver.
 
 D) Decodificación del genoma.
 
 </br></br>
 
-#### 27. Sinónimo de ACUMULACIÓN.
+### 27. Sinónimo de ACUMULACIÓN.
 
 A) Exuberancia.
 
 B) Manifestación.
 
-### C) Acopio.
+#### C) Acopio.
 
 D) Promiscuidad.
 
 </br></br>
 
-#### 28. Elije el párrafo con la mejor redacción.
+### 28. Elije el párrafo con la mejor redacción.
 
 A) Nadie sabe cómo se obtuvieron esas conclusiones débiles y que sin
 
  embargo fueron aceptadas.
 
-### B) Nadie sabe cómo se obtuvieron esas conclusiones débiles que, sin embargo, fueron aceptadas.
+#### B) Nadie sabe cómo se obtuvieron esas conclusiones débiles que, sin embargo, fueron aceptadas.
 
 C) Nadie sabe cómo se obtuvieron esas conclusiones débiles que más sin
 
@@ -675,9 +677,9 @@ D) Sin embargo, no obstante, nadie sabe cómo se obtuvieron esas
 
 </br></br>
 
-#### 29. Selecciona el enunciado que tiene ortografía correcta.
+### 29. Selecciona el enunciado que tiene ortografía correcta.
 
-### A) El patriarca tuvo desavenencias con los advenedizos que se abstuvieron de las abluciones.
+#### A) El patriarca tuvo desavenencias con los advenedizos que se abstuvieron de las abluciones.
 
 B) El patriarca tuvo desavenencias con los advenedízos que se abstubieron
 
@@ -693,7 +695,7 @@ D) El patriarca tuvo desabenencias con los advenedizos que se abstuvieron
 
 </br></br>
 
-#### 30. Selecciona el enunciado que tiene ortografía correcta.
+### 30. Selecciona el enunciado que tiene ortografía correcta.
 
 A) Un subrreino es cada uno de los grupos taxonómicos en que se divide el
 
@@ -707,15 +709,15 @@ C) En la sala de prensa el ambiente se enrrareció cuando el actor comenzó
 
  a fumar.
 
-### D) La empresa más conocida del país está en bancarrota y su dueño ha desaparecido.
+#### D) La empresa más conocida del país está en bancarrota y su dueño ha desaparecido.
 
 </br></br>
 
-#### 31. En el siguiente texto el enunciado entre guiones largos también puede escribirse entre En todo caso, nuevas agresiones bélicas contra gente inocente – como las que Washington planea a ojos vistas – no atenuarán los sentimientos antiestadounidenses en el mundo, sino todo lo contrario.
+### 31. En el siguiente texto el enunciado entre guiones largos también puede escribirse entre En todo caso, nuevas agresiones bélicas contra gente inocente – como las que Washington planea a ojos vistas – no atenuarán los sentimientos antiestadounidenses en el mundo, sino todo lo contrario.
 
 A) Comillas.
 
-### B) Coma.
+#### B) Coma.
 
 C) Punto y coma.
 
@@ -723,13 +725,13 @@ D) Guiones cortos.
 
 </br></br>
 
-#### 32. Completa la analogía del siguiente enunciado.
+### 32. Completa la analogía del siguiente enunciado.
 
-#### Músico es a orquesta como actor a
+### Músico es a orquesta como actor a
 
 A) Obra de teatro.
 
-### B) Compañía teatral.
+#### B) Compañía teatral.
 
 C) Función de teatro.
 
@@ -737,21 +739,21 @@ D) Foro de cine.
 
 </br></br>
 
-#### 33. Escoge la opción que complemente adecuadamente la siguiente regla ortográfica. No lleva tilde o ACENTO ortográfico una palabra que sea \_\_\_\_\_\__ y termina en \_\_\_\_\_\_.
+### 33. Escoge la opción que complemente adecuadamente la siguiente regla ortográfica. No lleva tilde o ACENTO ortográfico una palabra que sea \_\_\_\_\_\__ y termina en \_\_\_\_\_\_.
 
 A) Grave – consonante.
 
 B) Esdrújula – cualquier letra.
 
-### C) Grave – n, s, a, e, i, o, u
+#### C) Grave – n, s, a, e, i, o, u
 
 D) Aguda – a, e, i, o, u
 
 </br></br>
 
-#### 34. Es la ciencia que estudia la lengua en todas sus manifestaciones.
+### 34. Es la ciencia que estudia la lengua en todas sus manifestaciones.
 
-### A) Lingüística.
+#### A) Lingüística.
 
 B) Metalingüística.
 
@@ -761,7 +763,7 @@ D) Morfología.
 
 </br></br>
 
-#### 35. Función de la lengua que pretende persuadir y su ejemplo.
+### 35. Función de la lengua que pretende persuadir y su ejemplo.
 
 A) Metalingüística / Callado y cayado son palabras homófonas.
 
@@ -769,11 +771,11 @@ B) Referencial / esa silla es roja.
 
 C) Poética / como el cristal de la esfera.
 
-### D) Apelativa / Niño, deja de molestar.
+D) Apelativa / Niño, deja de molestar.
 
 </br></br>
 
-#### 36. Encontrar el sujeto en la siguiente oración. LAS PLANTAS FERMENTADAS SON COMIDAS POR LOS HONGOS.
+### 36. Encontrar el sujeto en la siguiente oración. LAS PLANTAS FERMENTADAS SON COMIDAS POR LOS HONGOS.
 
 A) Las plantas.
 
@@ -785,7 +787,7 @@ D) Los hongos.
 
 </br></br>
 
-#### 37. Función de la lengua que se dirige al oyente y pretende causar una reacción en éste.
+### 37. Función de la lengua que se dirige al oyente y pretende causar una reacción en éste.
 
 A) Metalingüística.
 
@@ -793,11 +795,11 @@ B) Referencial.
 
 #### C) Apelativa.
 
-D) Tácita.
+
 
 </br></br>
 
-#### 38. En la expresión: “buenas tardes, vengo a su casa a ofrecer estos bellos cuchillos” buenas tardes cumple la función
+### 38. En la expresión: “buenas tardes, vengo a su casa a ofrecer estos bellos cuchillos” buenas tardes cumple la función
 
 #### A) Fática.
 
@@ -817,7 +819,7 @@ B) Adverbio.
 
 C) Circunstanciales.
 
-#### D) Objeto directo.
+D) Objeto directo.
 
 </br></br>
 
