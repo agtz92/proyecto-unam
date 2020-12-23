@@ -24,10 +24,6 @@ export default function Home() {
                    te daremos crédito por la creación del artículo si así lo deseas. Puede ser de una materia ya existente o una nueva.
                    <br></br>Si encuentras un error en nuestros posts, por favor también ayúdanos en alzar la mano! Queremos que la información en este sitio sea lo más útil posible.
                </p>
-               <h2>¿Por que muestran anuncios en la página?</h2>
-               <p>Para mantener los costos de los servidores. Nos interesa mantener este proyecto vivo por mucho tiempo y buscamos que con los anuncios se puedan mantener los costos accesibles 
-                   para continuar haciendo de esto un proyecto gratis para todos.
-               </p>
                <h2>Tengo una pregunta que no está mencionada en esta lista</h2>
                <p>Escríbenos a <span style={{fontWeight: 'bold'}}>contacto@antesdelexamen.com</span> y con gusto responderemos tu pregunta lo más rápido que podamos.</p>
                 </div>

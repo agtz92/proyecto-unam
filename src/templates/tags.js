@@ -44,7 +44,7 @@ const Tags = ({ pageContext, data }) => {
               This links to a page that does not yet exist.
               You'll come back to it!
             */}
-            <Link to="/tags"><h2>Ve todos los tags</h2></Link>
+            <Link to="/tags" ><div className="div-tag marginbottom">Ve todos los tags</div></Link>
         </div>
         </Layout>
         </React.Fragment>

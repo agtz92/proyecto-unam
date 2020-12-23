@@ -16,7 +16,7 @@ const imageMapper ={
   HistoriaUniversal: require("../images/slider/historia.jpg"),
   HistoriadeMéxico: require("../images/slider/historiamexico.jpg"),
   Biología: require("../images/slider/biologia.jpg"),
-  Asar: require("../images/slider/asar.jpg")
+  PreguntasdeExamen: require("../images/slider/preguntasdeexamen.jpg")
 }
 
 const Categorias = ({ pageContext, data }) => {
@@ -60,7 +60,7 @@ const Categorias = ({ pageContext, data }) => {
               This links to a page that does not yet exist.
               You'll come back to it!
             */} 
-            <Link to="/categorias"><h2>Ve todas las categorias</h2></Link>
+            <Link to="/categorias" ><div className="div-tag marginbottom">Ve todas las categorias</div></Link>
         </div>
         </Layout>
         </React.Fragment>
