@@ -56,7 +56,7 @@ export default class SimpleSlider extends Component{
                             to="/categorias/preguntas-de-examen/"
                             background={bg[6]}
                             title="Preguntas de Examen"
-                            text="Cientos de preguntas de examen para UNAM, IPN, UAEM y más!"
+                            text="Cientos de preguntas de examen para UNAM, IPN, UAEM y más!. Tenemos exámenes completos de Español, Historia de México, Historia Universal, Geografía, Biología, Literatura y más!"
                         />
                     </React.Fragment>
                     <React.Fragment>

@@ -12,7 +12,7 @@ export default function CallToAction(props) {
             <div className="call-to-action">
                 <Heading color="dark" alignment="center" size="medium">Preguntas de Examen</Heading>
                 <p className="par-call-to-action">Preguntas de examen para UNAM, IPN, UAEM. Prepárate para el examen de admisión en 2021! </p>
-                <Link to="/categorias/preguntas-de-examen/" ><button className="button-call-to-action w-button">Ve a pregntas de examen</button></Link>
+                <Link to="/categorias/preguntas-de-examen/" ><button className="button-call-to-action w-button">Ve a preguntas de examen</button></Link>
             </div>
             <div className="call-to-action">
                 <Heading color="dark" alignment="center" size="medium">Todas las Materias Disponibles</Heading>
