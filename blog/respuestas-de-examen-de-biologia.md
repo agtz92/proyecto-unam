@@ -1,7 +1,7 @@
 ---
 title: "Respuestas de Examen de biologia "
 slug: respuestas-unam-biologia
-featuredimage: /assets/anaerobia.jpg
+featuredimage: anaerobia.jpg
 date: 2020-12-23T03:27:10.115Z
 dificultad: Preparatoria / Universidad
 categoria: Preguntas de Examen
