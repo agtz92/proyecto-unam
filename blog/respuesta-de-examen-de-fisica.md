@@ -1,7 +1,7 @@
 ---
 title: " Respuesta de Examen de Fisica "
 slug: examen-de-unam-fisica
-featuredimage: /assets/fisicaq.jpg
+featuredimage: fisicaq.jpg
 date: 2020-12-24T01:14:31.280Z
 dificultad: Preparatoria / Universidad
 categoria: Preguntas de Examen
