@@ -1,7 +1,7 @@
 ---
 title: Respuesta de examen de geografia
 slug: respuestas-de-examen-unam-uaem-ipn-de-geografia
-featuredimage: /assets/agricola.jpg
+featuredimage: agricola.jpg
 date: 2020-12-28T05:01:14.191Z
 dificultad: Preparatoria / Universidad
 categoria: Preguntas de Examen
