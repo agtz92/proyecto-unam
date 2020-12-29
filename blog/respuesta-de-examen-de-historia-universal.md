@@ -1,7 +1,7 @@
 ---
 title: "Respuesta de examen de Historia Universal "
 slug: respuestas-de-examen-unam-uaem-ipn-de-historia-universal
-featuredimage: /assets/2guerramundial.jpg
+featuredimage: 2guerramundial.jpg
 date: 2020-12-29T19:18:57.563Z
 dificultad: Preparatoria / Universidad
 categoria: Preguntas de Examen
