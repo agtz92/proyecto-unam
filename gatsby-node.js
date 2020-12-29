@@ -66,8 +66,8 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
             component: blogPostTemplate,
             context: {
                 //featuredimage: node.frontmatter.featuredimage,
-                featuredimage: node.frontmatter?.featuredimage.startsWith("/assets/") ? node.frontmatter.featuredimage.slice(8) : node.frontmatter?.featuredimage,
-                // additional data can be passed via context
+                featuredimage: node.frontmatter.featuredimage.startsWith("/assets/") ? node.frontmatter.featuredimage.slice(8) : node.frontmatter.featuredimage,
+                // additional data can be passed via context s
                 slug: node.frontmatter.slug,
             },
             
