@@ -15,14 +15,19 @@ import InfoBlock from "../components/infoblock"
 import kebabCase from "lodash/kebabCase"
 import Img from "gatsby-image"
 
+function fix_image_path(image_path){
+  return image_path.startsWith("../static/assets/") ? image_path.slice(17) : image_path
+}
+
 export default function Template({
   data// this prop will be injected by the GraphQL query below.
 }) {
-  
+    console.log(data)
     const { markdownRemark } = data // data.markdownRemark holds your post data
     const { frontmatter, html } = markdownRemark
     const perro = "https://www.antesdelexamen.com/" + frontmatter.slug + "/";
-    //console.log(frontmatter.featuredimage);
+    console.log(frontmatter.featuredimage);
+    console.log(data.file)
     const split = String(frontmatter.featuredimage).split("\\");
     console.log("var= " + split[0]);
         return (
@@ -43,7 +48,7 @@ export default function Template({
                   },
                   "headline": \"${frontmatter.title}\",
                   "description": \"${frontmatter.short_description}\",
-                  "image": "https://www.antesdelexamen.com/assets/${frontmatter.featuredimage}",  
+                  "image": "https://www.antesdelexamen.com/assets/${ fix_image_path(frontmatter.featuredimage)}",  
                   "author": {
                     "@type": "Organization",
                     "name": "antesdelexamen.com"

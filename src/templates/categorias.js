@@ -19,6 +19,9 @@ const imageMapper ={
   PreguntasdeExamen: require("../images/slider/preguntasdeexamen.jpg")
 }
 
+function fix_image_path(image_path){
+  return image_path.startsWith("../static/assets/") ? image_path.slice(17) : image_path
+}
 const Categorias = ({ pageContext, data }) => {
     const { categoria } = pageContext
     const { edges, totalCount } = data.allMarkdownRemark
@@ -50,7 +53,7 @@ const Categorias = ({ pageContext, data }) => {
                     return (
                         <li key={slug}>
                             <Link to={`/${slug}`}>
-                                <PostBlockLarge title={title} img={`/assets/${featuredimage}`} nivel={dificultad} description={short_description}/>
+                                <PostBlockLarge title={title} img={`/assets/${fix_image_path(featuredimage)}`} nivel={dificultad} description={short_description}/>
                             </Link>
                         </li>
                     )

@@ -1,7 +1,7 @@
 ---
 title: Test 2 Hassan
 slug: hassan2
-featuredimage: 1.jpg
+featuredimage: /assets/1.jpg
 date: 2020-12-30T00:02:45.656Z
 dificultad: Secundaria / Preparatoria
 categoria: Geografía

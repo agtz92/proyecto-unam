@@ -7,6 +7,11 @@ import PostBlockLarge from "../components/postblocklarge"
 // Components
 import { Link, graphql } from "gatsby"
 
+function fix_image_path(image_path){
+    return image_path.startsWith("../static/assets/") ? image_path.slice(17) : image_path.featuredimage
+}
+
+
 const Tags = ({ pageContext, data }) => {
     const { tag } = pageContext
     const { edges, totalCount } = data.allMarkdownRemark
@@ -34,7 +39,7 @@ const Tags = ({ pageContext, data }) => {
                     return (
                         <li key={slug}>
                             <Link to={`/${slug}`}>
-                                <PostBlockLarge title={title} img={`/assets/${featuredimage}`} nivel={dificultad} description={short_description}/>
+                                <PostBlockLarge title={title} img={`/assets/${fix_image_path(featuredimage)}`} nivel={dificultad} description={short_description}/>
                             </Link>
                         </li>
                     )
