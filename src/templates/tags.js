@@ -8,7 +8,7 @@ import PostBlockLarge from "../components/postblocklarge"
 import { Link, graphql } from "gatsby"
 
 function fix_image_path(image_path){
-    return image_path.startsWith("../static/assets/") ? image_path.slice(17) : image_path.featuredimage
+    return image_path.startsWith("../static/assets/") ? image_path.slice(17) : image_path
 }
 
 
