@@ -1,7 +1,7 @@
 ---
 title: Test Hassan
 slug: hassan
-featuredimage: /assets/1.jpg
+featuredimage: 1.jpg
 date: 2020-12-29T23:53:03.334Z
 dificultad: Secundaria / Preparatoria
 categoria: Español

@@ -76,7 +76,7 @@ module.exports = {
       options: {
         plugins: [
           // gatsby-remark-relative-images must go before gatsby-remark-images
-          {
+/*          {
             resolve: `gatsby-remark-relative-images`,
             options: {
               // [Optional] The root of "media_folder" in your config.yml
@@ -89,7 +89,7 @@ module.exports = {
               // No fields are excluded by default
               // exclude: ['featuredimage'],
             },
-          },
+          },*/
           {
             resolve: `gatsby-remark-images`,
             options: {
