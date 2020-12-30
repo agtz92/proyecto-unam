@@ -31,7 +31,7 @@ export default function Home({data}) {
         {data.allMarkdownRemark.edges.map(({ node }) => { 
           return(
           <Link key={node.id} to={node.frontmatter.slug}>
-              <PostBlock name={node.frontmatter.title} text={node.frontmatter.short_description} nivel={node.frontmatter.dificultad} background={node.frontmatter.featuredimage} />
+              <PostBlock name={node.frontmatter.title} text={node.frontmatter.short_description} nivel={node.frontmatter.dificultad} background={node.frontmatter.featuredimage.startsWith("../static/assets/") ? node.frontmatter.featuredimage.slice(17) : node.frontmatter.featuredimage} />
           </Link>)
         })}
       </Blockcontainer>
