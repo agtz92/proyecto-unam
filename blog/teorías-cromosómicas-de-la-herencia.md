@@ -29,7 +29,6 @@ Cuando Gregor Mendel comenzó a investigar la herencia en 1843, los cromosomas a
 
 Con el tiempo, algunos científicos empezaron a estudiar el trabajo de Mendel, por mucho tiempo ignorado, y a revaluar su modelo en términos del comportamiento de los cromosomas. Aproximadamente a principios del siglo XX, la comunidad biológica empezó a hacer las primeras conexiones tentativas entre los cromosomas, la meiosis y la herencia de los genes
 
-![herencia](/assets/herencia12.png "herencia")
 
 
 

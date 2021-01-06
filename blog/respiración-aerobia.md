@@ -33,7 +33,6 @@ En la respiración aeróbica, el oxígeno logra atravesar las membranas biológi
 
 Es posible dividir la respiración aerobia en distintas etapas. La primera fase se conoce como glucólisis y surge cuando la molécula de glucosa se oxida y se divide en un par de moléculas de ácido pirúvico.
 
-![aerobia](/assets/aerobia1.png "aerobia")
 
 La segunda etapa se conoce como descarboxilación oxidativa del ácido pirúvico. En este periodo, el ácido pirúvico entra en la matriz de la mitocondria, donde el complejo enzimático piruvato deshidrogenasa se encarga de procesarlo.
 

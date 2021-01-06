@@ -25,13 +25,11 @@ El  estado es la organiza política constituida por un conjunto de leyes instit
 
 División política de Europa 
 
-![](https://lh4.googleusercontent.com/1_BV9jvav3Ei5iAJpAwffELowf0wOzcQ2Es1QXb7gZGTxLJmSEaxUWmn4Z5EFeJrfI9rOjLCPmW5r_qgxyvgfCcy2gNP1vvpPEFzpTR9ygWm1zbmFxykOImUa4AhgYJz-JNqH9o)
 
 Albania, Alemania, Andorra, Austria, Bélgica, Bielorrusia, Bosnia y Herzegovina, Bulgaria, Chequia, Chipre, Ciudad del Vaticano, Croacia, Dinamarca, Eslovaquia, Eslovenia, España, Estonia, Finlandia, Francia, Grecia, Hungría, Irlanda, Islandia, Italia, Letonia, Liechtenstein, Lituania, Luxemburgo, Macedonia, Malta, Moldavia, Mónaco, Montenegro, Noruega, Países Bajos, Polonia, Portugal, Reino Unido, Rumania, Rusia, San Marino, Serbia, Suecia, Suiza, Turquía y Ucrania
 
 División política de Asia 
 
-![](https://lh5.googleusercontent.com/W5WoQBy_QQ8H1bYeG3PpXCvcuI7VW6m8hPGH9GVJ_D60uz6gawLjeFlIbvUjG5u_ZmeLICkxEA_AeEmiATqY3YHpNgdkehCHm06kGBB195FBbJVVye04Mox7XF3BarhQ2qfpNwg)
 
 Afganistán, Arabia Saudí, República de Armenia, Azerbaiyán, Bahréin, Bangladesh, Brunei, Bután, Camboya, Catar, China, Chipre, Corea del Norte, Corea del Sur Emiratos Árabes Unidos, Filipinas, Georgia, India, Indonesia, Irak, Irán, Israel, Japón, Jordania, Kazajstán Kirguistán Kuwait, Laos, Líbano, Malasia, Maldivas, Mongolia, Myanmar Nepal, Omán, Pakistán, Rusia, Singapur, Siria, Sri Lanka Tailandia, Tayikistán, Timor, Oriental, Turkmenistán, Turquía, Uzbequistán,  Vietnam, Yemen
 
@@ -39,7 +37,6 @@ Afganistán, Arabia Saudí, República de Armenia, Azerbaiyán, Bahréin, Bangla
 
 División Política de Oceanía 
 
-![](https://lh5.googleusercontent.com/xQbv5hfGXzBO55IAaxAal4dSjfz4tHx_xGKrdcy20Ck-79XkgJr2tBoE5_5GD-bn0jnbXYZ0xqNry2297mTM1AwBjA2cma5i9H3AXiWyuU7ALVXNg3WVpGRghEiCkHuLqVRGJZ0)
 
 Australasia: Australia Nueva Zelanda
 
@@ -51,7 +48,6 @@ Polinesia: Samoa. Tuvalu. Kiribati. Tonga.
 
 División política de áfrica 
 
-![](https://lh4.googleusercontent.com/euNF4DRciiCwp9crqT1_WN3oa4I_N_8y_LNKKanU5CXmwHhav-L6En32WUZJ0h0xD6NqpNASqz8I8vsTJYlPgXTaQLUmnU2n6w4B3H7QMATunf0hBgOqBjYPxxSW07b6D-1sCAU)
 
 Angola: Luanda Argelia: Argel Benín: Porto Novo Botswana: Gaborone Burkin Faso: Uagadugú Burundi: Gitega Cabo Verde: Praia Camerún: YaundoChad: N’DjamenaComoras: MoroniCongo: BrazzavilleCosta deMarfil: YamoussoukroDjibouti: DjiboutiEgipto: El CairoEritrea: AsmaraEtiopía: Adís AbebaGabón: LibrevilleGambia: BanjulGhana: AccraGuinea: ConakryGuinea
 
@@ -63,11 +59,8 @@ División política de Norteamérica 
 
 
 
-![](https://lh6.googleusercontent.com/S_TUW9804J3X1DpnqZk_ZJiQeZ0OrLlISStIxB0ias6TccdWC11gi1Xjz0g10volY5wJIX2FIKlzvKI2D-w064gIpKUbYyqoOEXjB1D_R0qP3Kchb_9XSsEgbSFQIrB-nVbYpTg)
-
 Canadá.Estados Unidos. México.
 
-División política de Centroamérica ![](https://lh4.googleusercontent.com/M4Rdyo4Pa2KQRG8if8DFVYwhN0Z3HI6UYIjTNZ1VzZkMZKlI5KsnDWzyAcjKHS-wbb0U7BXYpPALJ_YsqZcOOjUMFLt47BfG6uEGPcUrqMCGAU-ZJKtnu3WJRCsdvyS6U2b-sdQ)
 
 
 
@@ -77,7 +70,6 @@ División política de Centroamérica ![](https://lh4.googleusercontent.com/M4R
 
 División política de Sudamérica
 
-![](https://lh3.googleusercontent.com/bnIgEFS42qrwSRsLV53zEZVLpbSJv1268bcKk_apF_UThN8dHtAGez3vVdIDuSppPMxRux3F0Dd4Jvngo0EBHl5SwExkxCGRptWQ0GCOC6AGFKdwIiIiJQ-KR3HrCcY_F5gj6z0)
 
 Argentina, Bolivia, Brasil, Chile, Colombia, Ecuador, Guyana, Paraguay, Perú, Surinam, Uruguay, Venezuela
 
@@ -85,6 +77,5 @@ Argentina, Bolivia, Brasil, Chile, Colombia, Ecuador, Guyana, Paraguay, Perú, S
 
 División política de México 
 
-![](https://lh4.googleusercontent.com/9G4tzi29u58-fwsp1rIZTWY6DKekZCacl9AWLkBlvl8qFM9w3XDaQncGaV-W57X0Ik0_6jIliACFPPGsesGSFjI_s9NX2Phm7oGAzzGpDLJPLaKBh5J8ls-ySgnAO6_KJkjxD9U)
 
 Aguascalientes, Baja California, Baja California Sur, Campeche, Chiapas, Chihuahua, Coahuila, Colima, Distrito Federal, Durango, Estado de México, Guanajuato, Guerrero, Hidalgo Jalisco, Michoacán, Morelos, Nayarit, Nuevo León, Oaxaca, Puebla, Querétaro, Quintana Roo, San Luis Potosí, Sinaloa, Sonora, Tabasco, Tamaulipas, Tlaxcala, Veracruz, Yucatán, Zacatecas

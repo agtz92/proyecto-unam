@@ -54,8 +54,7 @@ Al norte y al sur del ecuador y, paralelos al mismo, se pueden trazar una sucesi
 
 **A continuación se nombran los cuatro paralelos particulares.**
 
-El Trópico de Cáncer y el Trópico de Capricornio, los cuales marcan los puntos más al norte y al sur del ecuador donde los rayos del sol caen verticalmente, es decir, son las latitudes máximas que alcanza el sol en su movimiento anual aparente. En el solsticio de junio el sol parece hallarse directamente sobre el Trópico de Cáncer mientras que en el solsticio de diciembre el sol parece estar directamente sobre el Trópico de Capricornio.![](https://lh5.googleusercontent.com/k9TExzPnm4cvMd1ihbMXACfZR3Mj_QtvfFx3_NHAIsCDD9Pkh3M9PaMAiA_WxsbCF2SVOoaQwf7SLV-9a0SGuzwd1eJ5rkxUeYRAtzqgdICXz0uVbu95TfIbN428c6wj1N6GNDs)
-
+El Trópico de Cáncer y el Trópico de Capricornio, los cuales marcan los puntos más al norte y al sur del ecuador donde los rayos del sol caen verticalmente, es decir, son las latitudes máximas que alcanza el sol en su movimiento anual aparente. En el solsticio de junio el sol parece hallarse directamente sobre el Trópico de Cáncer mientras que en el solsticio de diciembre el sol parece estar directamente sobre el Trópico de Capricornio.
 
 
 La geografía: Los husos horarios y el cambio de fecha: ejercicio de aplicación 
@@ -71,8 +70,6 @@ Los 15 grados los cuales miden cada huso horario tiene una representación de un
 El meridiano de Greenwich, es el tiempo universal es coordinado define el meridiano a la hora cero y tomar en cuenta que la tierra gira de oeste a este, por lo que entonces los 24 usos corresponde a las 24 horas del día
 
 El sistema surge debido a que la Tierra gira sobre su eje de oeste a este, ocasionando que el Sol ilumina una porción mientras deja la otra a oscuras, y se hace necesario un método para estandarizar el tiempo.
-
-![husoshorarios ](/assets/husohorario.png "husoshorarios")
 
 **Los husos horarios se calculan:**
 

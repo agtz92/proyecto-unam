@@ -23,7 +23,7 @@ Puede que os estéis preguntando para qué necesitan nuestras células el ARN si
 
 Dentro de la familia del ARN, que es inmensamente numerosa, cada miembro tiene una personalidad única y ha optado por una profesión diferente. Como en todas las familias, algunos de ellos son los favoritos por excelencia: el ARNm, el ARNt y el ARNr. Vamos a hablar un poco de ellos. El ARNm o ARN mensajero es la molécula que se forma al copiar la información el DNA en forma de cadena simple. Así viaja hasta el citoplasma donde es traducido a proteínas. Aquí es donde entra el ARNt o ARN de transferencia. Cada codón del ARNm, formado por tres nucleótidos, es reconocido por un ARNt concreto que va acompañado de un aminoácido. Finalmente, los aminoácidos se van uniendo formando la estructura primaria de las proteínas en los ribosomas, orgánulos celulares compuestos por ARN o ARN ribosómico mayoritariamente.
 
-![arn](/assets/arn1.png "arn")
+![arn](/assets/arn1.jpg "arn")
 
 
 

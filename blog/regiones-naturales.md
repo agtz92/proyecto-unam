@@ -37,13 +37,13 @@ Es de apreciar, que cada región natural presenta sus aspectos bien definidos, q
 
   Regiones climáticas. Aquellas en que se atiende al registro climatológico frecuente.
 
-  Regiones fitogeográficas. Aquellas en que se atiende a la predominancia de algunas [](https://www.caracteristicas.co/reino-vegetal-plantae/)especies, vegetales sobre otras.
+  Regiones fitogeográficas. Aquellas en que se atiende a la predominancia de algunas especies, vegetales sobre otras.
 
 
 
 **Regiones Orográficas** 
 
-Regiones montañosas. Las grandes cordilleras y zonas elevadas, como los Alpes, [](https://www.caracteristicas.co/cordillera-de-los-andes/)los Andes, etc.
+Regiones montañosas. Las grandes cordilleras y zonas elevadas, como los Alpes, los Andes, etc.
 
 Regiones de llanura. Esencialmente planicies prolongadas y de baja altura, como la Pampa Argentina, los llanos venezolanos y la tundra siberiana.
 
@@ -56,7 +56,7 @@ Regiones de colinas. Regiones más o menos planas pero con elevaciones de poca 
 
 
 
-**Zona cálida.** La ubicada alrededor (arriba y abajo) del [](https://www.caracteristicas.co/ecuador/)ecuador  de la [](https://www.caracteristicas.co/planeta-tierra/)Tierra. Predominan las [](https://www.caracteristicas.co/temperatura/)temperaturas  altas pero estables y de poca variación térmica, así como la humedad abundante.
+**Zona cálida.** La ubicada alrededor (arriba y abajo) del ecuador  de la Tierra. Predominan las temperaturas  altas pero estables y de poca variación térmica, así como la humedad abundante.
 
 ![zonas calidas ](/assets/zonascalidas.jpg "zonas calidas ")
 
@@ -64,7 +64,7 @@ Regiones de colinas. Regiones más o menos planas pero con elevaciones de poca 
 
 
 
-**Zona fría o polar.** Las zonas ubicadas alrededor de los [](https://www.caracteristicas.co/polo-norte/)polos, de clima mayoritariamente frío e inviernos largos y crueles, de poca incidencia solar debido a la inclinación del eje terrestre.
+**Zona fría o polar.** Las zonas ubicadas alrededor de los polos, de clima mayoritariamente frío e inviernos largos y crueles, de poca incidencia solar debido a la inclinación del eje terrestre.
 
 **Regiones Fitogeográficas**
 
@@ -76,7 +76,7 @@ Regiones de colinas. Regiones más o menos planas pero con elevaciones de poca 
 
 **Regiones de sabana.** Llanuras de mucha precipitación anual y clima intertropical, idóneas para la agricultura y propicias para la vegetación de pastizal.
 
-**Regiones boscosas**. Regiones de [](https://www.caracteristicas.co/montanas/)montaña o piedemonte, en las que hay inviernos fríos y veranos cálidos, con buena [](https://www.caracteristicas.co/biodiversidad/) biodiversidad Son ciertos de tipos de regiones geográficas, que están delimitadas, principalmente por accidentes físicos, que son relaciones del relieve y también pero en menor medida por el clima, vegetación y la hidrografía. Las regiones son los límites de una región y otras son convencionales y difíciles de precisar científicamente.
+**Regiones boscosas**. Regiones de montaña o piedemonte, en las que hay inviernos fríos y veranos cálidos, con buena biodiversidad Son ciertos de tipos de regiones geográficas, que están delimitadas, principalmente por accidentes físicos, que son relaciones del relieve y también pero en menor medida por el clima, vegetación y la hidrografía. Las regiones son los límites de una región y otras son convencionales y difíciles de precisar científicamente.
  Cada región natural del mundo tiene sus características, según las particularidades principales de la vegetación natural. Se pueden distinguir ocho regiones naturales: sabana, bosque, desierto, tundra, pradera, selva, región ecuatorial y región mediterránea. 
 
 Las regiones naturales son zonas geográficas que poseen cualidades o atributos similares como el relieve, el clima, la vegetación, los suelos, la hidrografía y otros.
@@ -120,7 +120,7 @@ La presencia de animales son más o menos uniforme en todas las regiones natural
 
 
 
-**Regiones selváticas**. Las zonas de mayor biodiversidad tanto vegetal como [](https://www.caracteristicas.co/reino-animal/)animal  son las [](https://www.caracteristicas.co/selva/)selvas tropicales lluviosas, en las que la vegetación es de altura y frondosa copa, mucha variedad y larga vida. Por lo general se ubican en los trópicos.
+**Regiones selváticas**. Las zonas de mayor biodiversidad tanto vegetal comoanimal  son las selvas tropicales lluviosas, en las que la vegetación es de altura y frondosa copa, mucha variedad y larga vida. Por lo general se ubican en los trópicos.
 
 **Fauna de las regiones naturales**
 

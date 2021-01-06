@@ -43,8 +43,6 @@ Durante la fase G1  también llamada fase del primer intervalo, la célula crec
 
 En la fase S, la célula sintetiza una copia completa del ADN en su núcleo. También duplica una estructura de organización de microtúbulos llamada centrosoma. Los centrosomas ayudan a separar el ADN durante la fase M.
 
-![fase](/assets/celular.png "fase")
-
 **Fase G2**
 
 Durante la fase del segundo intervalo, o fase G2 la célula crece más, hace proteínas y organelos, y comienza a reorganizar su contenido en preparación para la mitosis. La fase G termina cuando la mitosis comienza 

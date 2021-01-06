@@ -18,9 +18,9 @@ short-description: |-
 ---
 **Épico**: es aquello relativo a la poesía histórica 
 
- el género épico puede estar basado tanto en hechos verídicos como en inventados. La narración se realiza en tiempo pasado, mientras que el narrador puede aparecer o no en la obra. Esto lo diferencia del género lírico, donde el narrador está siempre presente, y del [género dramático](http://www.poemas-del-alma.com/blog/taller/el-genero-dramatico), donde desaparece por completo.
+ el género épico puede estar basado tanto en hechos verídicos como en inventados. La narración se realiza en tiempo pasado, mientras que el narrador puede aparecer o no en la obra. Esto lo diferencia del género lírico, donde el narrador está siempre presente, y del género dramático, donde desaparece por completo.
 
-La forma más habitual de la [épica](http://www.poemas-del-alma.com/blog/especiales/literatura-epica) es la prosa o el verso largo(hexámetro, verso alejandrino, etc.). Su mayor extensión está determinada por su inclusión del resto de los géneros en determinados pasajes de las obras. Por otra parte, la épica puede presentar divisiones en su estructura, como capítulos y epígrafes.
+La forma más habitual de la épica es la prosa o el verso largo(hexámetro, verso alejandrino, etc.). Su mayor extensión está determinada por su inclusión del resto de los géneros en determinados pasajes de las obras. Por otra parte, la épica puede presentar divisiones en su estructura, como capítulos y epígrafes.
 
 Este es un género épico es un narración hecha en verso que es lo que se incluye un episodio heroico en una historia de un pueblo
 

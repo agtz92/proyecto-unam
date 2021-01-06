@@ -39,7 +39,6 @@ Un ejemplo de esto es el trastorno de coagulación llamado hemofilia. Las mujere
 
 Los hijos varones de estas mujeres tienen una posibilidad del 50 % porciento  de tener hemofilia. Las hijas tienen poca probabilidad de tener hemofilia (a menos que el padre también la tenga) y en cambio tendrán una posibilidad del 50 % por ciento de ser portadoras.
 
-![herencia](/assets/lg.png "herencia")
 
 </br></br>
 

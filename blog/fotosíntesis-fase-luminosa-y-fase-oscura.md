@@ -1,7 +1,7 @@
 ---
 title: Fotosíntesis, Fase Luminosa y fase oscura
 slug: fotosintesis-fases-luminosa-y-fase-oscura
-featuredimage: fotosintesis.png
+featuredimage: ft.jpg
 date: 2020-12-06T07:07:06.516Z
 dificultad: Secundaria / Preparatoria
 categoria: Biología
@@ -29,7 +29,7 @@ La fotosíntesis de la clorofila, también llamada fotosíntesis oxigénica, se 
 
 La fase luminosa o reacción dependiente de la luz es el paso de la fotosíntesis en la que se convierte energía solar en energía química. La clorofila y otros pigmentos fotosintéticos como el caroteno abosorben la luz. La se utiliza para fragmentar una molécula de agua, por lo que se produce oxígeno como residuo.
 
-![fase luminosa](/assets/faseluminusa.png "fase luminosa")
+![fase luminosa](/assets/faseluminusa.jpg "fase luminosa")
 
 
 

@@ -45,7 +45,6 @@ Cuando se produce el vertido, el hidrocarburo forma una mancha negra, una lámin
 
 Los moluscos bivalvos  no han desarrollado la capacidad de asimilar ni eliminar el hidrocarburo, por lo que a pequeñas concentraciones de hidrocarburo en el agua, estos organismos se ven afectados seriamente. En el caso de los peces, encontramos diferentes comportamientos dependiendo de las especies. Existen peces que a 1000 ppm (partes por millón) no se ven afectados, y sin embargo existen larvas que hay pequeñas concentraciones de hidrocarburos mueren. El hidrocarburo afecta a sus estructuras respiratorias y mueren. Si logran sobrevivir, el petróleo se trasmitirá a las especies que se alimenten de ellos.
 
-![](https://lh6.googleusercontent.com/aD03YCCtW_5nyqhifekBG83oFUz5fRSD58aDlCTnPvYLL_kSU1Dk71p0u41NhgdCV4KM0q_iQ8C4zTnIqUmfDauaRgepWIkleZ8tt11LPABTCyIF7Qal3PoluFrenuZDnguqPkk)
 
 
 

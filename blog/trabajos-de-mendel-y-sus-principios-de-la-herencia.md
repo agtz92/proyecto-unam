@@ -45,7 +45,6 @@ Las razas puras están compuestas por alelos versión específica del gen, que d
 
 Asimismo, al igual que en la segunda ley, ésta se manifiesta mejor en la segunda generación filial.
 
-![herencia](/assets/herencia2.png "herencia")
 
 Mendel obtuvo esta información al cruzar guisantes cuyas características, es decir, color y rugosidad, se encontraban en cromosomas diferentes. Fue así que observó que existen caracteres que se pueden heredar de manera independiente.
 

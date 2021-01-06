@@ -73,8 +73,6 @@ Causas: Emisión de contaminante en la atmosfera 
 
 Consecuencias: Aumento de la radioactividad ultravioleta sobre la corteza terrestre lo cual pueden provocar enfermedades en la piel 
 
-![](https://lh5.googleusercontent.com/6BjFOqJGzYtWpRa1uBCRxuVGG5cyL32fM5OapV3orAl2AVF_Z6G2fJURpmWDExEd0UZi92kht4l4d0_lAVlpOqs8pxUhs-Uf9Qi0veH05CPYAZhcxm8TOiV38jamc_jP-1QsAZs)
-
 
 
  Geografía humana el paisaje: El cambio climático global: el efecto invernadero 

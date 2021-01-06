@@ -1,6 +1,6 @@
 ---
-title: "Soluto y disolvente "
-slug: soluto-y-disolvente
+title: Soluto y disolvente
+slug: soluto-y-disolventes
 featuredimage: /assets/quimica.jpg
 date: 2021-01-05T00:34:31.542Z
 dificultad: Preparatoria / Universidad
@@ -10,7 +10,6 @@ tags:
   - disolvente
 short-description: >-
   
-
   Soluto y disolvente 
 
 

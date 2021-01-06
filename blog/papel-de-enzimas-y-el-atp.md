@@ -1,7 +1,7 @@
 ---
 title: "Papel de enzimas y el atp "
 slug: papel-de-enzimas-y-el-atp
-featuredimage: papel.png
+featuredimage: quimica.jpg
 date: 2020-12-17T00:30:36.670Z
 dificultad: Preparatoria / Universidad
 categoria: Biología

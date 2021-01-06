@@ -62,8 +62,6 @@ Los ríos más grandes del mundo son:
 3. Coatzacoalcos (Oaxaca-Veracruz)
 4. Río Pánuco (San Luis Potosí, Tamaulipas)  
 
-   ![rios de mexico ](/assets/riosdemexico.png "rios de mexico ")
-
 **Principales lagos de Europa**
 
 1. Lago Ladoga en Rusia  

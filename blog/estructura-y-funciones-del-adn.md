@@ -35,7 +35,7 @@ El ADN tiene una función común para casi todos los organismos vivientes: lleva
 
 Se le llama macromolécula porque es más grande que las moléculas simples. Un polímero de ADN contiene doble cadena de largas moléculas simples llamadas monómeros, las que a su vez se ordenan una detrás de otra, recibiendo en su conjunto el nombre de nucleótidos.
 
-![adn](/assets/adn.png "adn")
+![adn](/assets/adn.jpg "adn")
 
 
 

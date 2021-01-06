@@ -40,7 +40,6 @@ Con la disolución de la URSS se crearon nuevos estados 
 2. Las repúblicas que formaban la
 3. URSS se separan para estados independientes
 
-![](https://lh5.googleusercontent.com/D5UIbH_pNTH5ksRLlaE1nZM9InqC8EB8xkwyQIqXeJ6LdNpYzI8lYLOJJewkutY2EXnUOkZdLuBvECHlixgjg8cthX9NqLjCxOsAQBLrm3XuQSb-FTWV6wqZEH4e0kbWz2C-Boo)
 
 
 

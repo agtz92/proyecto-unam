@@ -55,7 +55,6 @@ Población total de México 127 millones de personas  
 
 Estado de méxico, ciudad de méxico, Veracruz, Jalisco, puebla y Guanajuato son con las que hay mayor densidad 
 
-![](https://lh5.googleusercontent.com/gk6fqdmN2uGYCgyf5Yc0g_pCih0t8k4S1tV5dwaqZhjuEnuxRk2eWkLZvNTJSBnJWcu2nVMQ4XAylR0LFmvmLNOInXo1w0obP5b7w16cF1fCyOg10KaeKu_sMkW-thhg7EsPEmA)
 
 La geografía humana y su paisaje: El crecimiento acelerado de la población: causas y consecuencias 
 

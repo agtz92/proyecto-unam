@@ -71,7 +71,7 @@ short-description: Respuestas de examen de matemáticas UNAM, Respuestas de
 
 ### y = 3x?
 
-![captura](/assets/captura.png "captura")
+![captura](/assets/captura5252.jpg "captura")
 
 </br></br>
 
