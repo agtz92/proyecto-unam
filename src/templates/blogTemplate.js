@@ -74,7 +74,7 @@ export default function Template({
                   <Link key={frontmatter.categoria} to={`/categorias/${kebabCase(frontmatter.categoria)}/`} ><div className="div-tag marginbottom">{`< Regresar a ${frontmatter.categoria}`}</div></Link>
                     <div className="top-post">
                         <div className="featuredimage" ><img src={`/assets/${ fix_image_path(frontmatter.featuredimage)}`} loading="lazy" width="500" alt="" className="img-large-post"/>
-//                         <Img fluid={data.file.childImageSharp.fluid}>
+                        {/* <Img fluid={data.file.childImageSharp.fluid}> */}
                     </div>
                         
                         <div className="short-description">
