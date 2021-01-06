@@ -22,12 +22,12 @@ function fix_image_path(image_path){
 export default function Template({
   data// this prop will be injected by the GraphQL query below.
 }) {
-    console.log(data)
+    // console.log(data)
     const { markdownRemark } = data // data.markdownRemark holds your post data
     const { frontmatter, html } = markdownRemark
     const perro = "https://www.antesdelexamen.com/" + frontmatter.slug + "/";
-    console.log(frontmatter.featuredimage);
-    console.log(data.file)
+    // console.log(frontmatter.featuredimage);
+    // console.log(data.file)
     const split = String(frontmatter.featuredimage).split("\\");
     console.log("var= " + split[0]);
         return (
@@ -73,8 +73,10 @@ export default function Template({
                 <div className="blog-post">
                   <Link key={frontmatter.categoria} to={`/categorias/${kebabCase(frontmatter.categoria)}/`} ><div className="div-tag marginbottom">{`< Regresar a ${frontmatter.categoria}`}</div></Link>
                     <div className="top-post">
-                        <div className="featuredimage" ><img src={`/assets/${ fix_image_path(frontmatter.featuredimage)}`} loading="lazy" width="500" alt="" className="img-large-post"/>
-                        {/*<Img fluid={data.file.childImageSharp.fluid}>*/}</div>
+                         <div className="featuredimage" > {/*<img src={`/assets/${ fix_image_path(frontmatter.featuredimage)}`} loading="lazy" width="500" alt="" className="img-large-post"/> */}
+                        {/* s{console.log("data file", data.file)} */}
+                        <Img fluid={data.file.childImageSharp.fluid} />
+                    </div>
                         
                         <div className="short-description">
                           
