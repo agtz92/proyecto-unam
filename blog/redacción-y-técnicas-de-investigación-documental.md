@@ -42,7 +42,6 @@ Los objetivos de todo resumen son:
 
 Las Normas APA admiten dos estilos de citación: las citas directas o textuales y las citas indirectas o paráfrasis. Si bien ambos estilos son permitidos y en líneas generales cumplen la misma función, sus usos a nivel de la comprensión del contenido difieren. Por esa razón vamos a profundizar en los usos y recomendaciones de los estilos de citas APA.
 
-![resumen](/assets/resumen.gif "resumen")
 
 Directas o textuales: son aquellas que reproducen de manera idéntica las palabras de un autor o un trabajo propio previamente publicado. La intención de este tipo de citas es poner de manifiesto de manera íntegra el contenido de la fuente consultada y resulta muy útil para los siguientes casos:
 

@@ -1,7 +1,7 @@
 ---
 title: " Principales zonas de tensión política en el mundo"
 slug: principales-zonas-de-tension-politica
-featuredimage: tensionpolitic.webp
+featuredimage: tensionpolitic.jpg
 date: 2020-12-11T05:21:33.907Z
 dificultad: Preparatoria / Universidad
 categoria: Geografía
@@ -33,7 +33,7 @@ Otro conflicto que hay en el mundo es el conflicto sirio los cuales los involucr
 
 Irán La muerte de Qasem Soleimani remueve la posibilidad de negociaciones entre Washington y Teherán del escenario político.
 
-![tension](/assets/tensionpolitica.webp "tension")
+
 
 \
 Libia La violencia se intensifica en la guerra civil libia ya que la rivalidad entre los actores locales, regionales e internacionales continúa luego de la caída del líder Muammar Gadafi en 2011.\

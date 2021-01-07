@@ -1,7 +1,7 @@
 ---
 title: "Reacciones del oxígeno "
 slug: reacciones-del-oxigeno
-featuredimage: /assets/quimica.jpg
+featuredimage: quimica.jpg
 date: 2021-01-04T22:11:07.683Z
 dificultad: Preparatoria / Universidad
 categoria: Química

@@ -1,7 +1,7 @@
 ---
 title: Soluto y disolvente
-slug: soluto-y-disolventes
-featuredimage: /assets/quimica.jpg
+slug: soluto-disolventes
+featuredimage: quimica.jpg
 date: 2021-01-05T00:34:31.542Z
 dificultad: Preparatoria / Universidad
 categoria: Química
@@ -34,8 +34,6 @@ Además de todo lo expuesto tenemos que establecer que el término soluto es emp
 </br>
 
 Es importante tener en cuenta que un soluto puede ser sólido, líquido o gaseoso. El azúcar es un ejemplo de un soluto sólido que se disuelve en agua. El agua también es solvente cuando se mezcla con el etanol, que actúa como soluto líquido en este caso. Otro ejemplo de soluto que se disuelve en agua es el anhídrido carbónico, un gas que se emplea en las bebidas carbónicas. Esto muestra que los solutos pueden aparecer en cualquier estado de agregación de la materia.
-
-![quimica](/assets/quimica.jpg "soluto y disolvente")
 
 </br>
 

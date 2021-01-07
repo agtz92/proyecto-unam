@@ -29,7 +29,7 @@ En otras palabras, la respiración anaerobia es un proceso que se desarrolla sin
 
 Las bacterias que dependen de este tipo de respiración, también cuentan con lo que se denomina cadena de transporte de electrones, la cual se halla en la membrana interna de la mitocondria, en las membranas llamadas tilacoides (sacos planos en el interior del cloroplasto que participan de la fotosíntesis, por ejemplo) o en la membrana plasmática; a través de reacciones bioquímicas, esta cadena de electrones es capaz de generar trifosfato de adenosina, un compuesto energético usado por los seres vivos.
 
-![anaerobia](/assets/anaerobia1.jpeg "anaerobia")
+![anaerobia](/assets/anaerobia1.jpg "anaerobia")
 
 
 
