@@ -35,7 +35,7 @@ export default function Template({
             <React.Fragment>
               <Helmet >
                 <meta charSet="utf-8" />
-                <title>{frontmatter.title}</title>
+                <title>"Bancos de preguntas de examen| {frontmatter.title}"</title>
                 <meta name="description" content={frontmatter.short_description} />
                 <script type="application/ld+json">
                   {`
@@ -72,6 +72,7 @@ export default function Template({
                 <div className="div-grey-post"></div>
                 <div className="blog-post">
                   <Link key={frontmatter.categoria} to={`/categorias/${kebabCase(frontmatter.categoria)}/`} ><div className="div-tag marginbottom">{`< Regresar a ${frontmatter.categoria}`}</div></Link>
+                  <Link key={frontmatter.categoria} to={"/categorias/preguntas-de-examen/"} ><div className="div-tag marginbottom">Ve las preguntas de examen</div></Link>
                     <div className="top-post">
                          <div className="featuredimage" > {/*<img src={`/assets/${ fix_image_path(frontmatter.featuredimage)}`} loading="lazy" width="500" alt="" className="img-large-post"/> */} 
                          {/*console.log("data file", data.file)*/} 
@@ -93,7 +94,8 @@ export default function Template({
                         </div>
                     </div>
                     <div className="div-text-post" dangerouslySetInnerHTML={{ __html: html }}/>
-                                      <Link key={frontmatter.categoria} to={`/categorias/${kebabCase(frontmatter.categoria)}/`} ><div className="div-tag marginbottom">{`< Regresar a ${frontmatter.categoria}`}</div></Link>
+                  <Link key={frontmatter.categoria} to={`/categorias/${kebabCase(frontmatter.categoria)}/`} ><div className="div-tag marginbottom">{`< Regresar a ${frontmatter.categoria}`}</div></Link>
+                  <Link key={frontmatter.categoria} to={`/categorias/${kebabCase(frontmatter.categoria)}/`} ><div className="div-tag marginbottom">{`< Regresar a ${frontmatter.categoria}`}</div></Link>
 
                 </div>
                 
