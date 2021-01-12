@@ -18,7 +18,11 @@ const TagsPage = ({
   },
 }) => (
         <Layout>
-          <Helmet title={title} />
+          <Helmet>
+                <meta charSet="utf-8" />
+                <title>"Bancos de preguntas de examen| Tags"</title>
+                <meta name="description" content="Ve todos los tags de bancos de preguntas de examen y resumenes para temas de estudio. Estudia antes del examen con nosotros" />
+            </Helmet>
         <div>
             <div>
                 <Heading color="dark" alignment="center">Todos los Tags</Heading>

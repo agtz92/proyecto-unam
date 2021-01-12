@@ -30,7 +30,11 @@ const CategoriasPage = ({
   },
 }) => (
         <Layout>
-          <Helmet title={title} />
+          <Helmet>
+                <meta charSet="utf-8" />
+                <title>"Bancos de preguntas de examen| Materias"</title>
+                <meta name="description" content="Ve todas las categorías de bancos de preguntas de examen y resumenes para temas de estudio. Estudia antes del examen con nosotros" />
+            </Helmet>
           <meta name="description" content={`AntesDelExamen | Respuestas de examen de secundaria, preparatoria y universidad`}/>
         <div>
             <div>
