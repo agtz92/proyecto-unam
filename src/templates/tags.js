@@ -5,6 +5,7 @@ import Layout from "../layouts/layout"
 import PostBlockLarge from "../components/postblocklarge"
 import Heading from "../components/heading"
 import InfoBlock from "../components/infoblock"
+import CallToAction from "../components/calltoaction"
 import matmarkt from '../images/partners/matmarkt.jpg'
 import corthw from '../images/partners/corthw.jpg'
 
@@ -63,6 +64,9 @@ const Tags = ({ pageContext, data }) => {
             <Link to="/categorias"> categorías</Link> y busques dentro de nuestro contenido algo que sea relevante para ti. También te invitamos a usar nuestro <Link to="/search">buscador </Link> 
             donde podrás acceder de una manera mucho más rápida a nuestro contenido.</p>
             </div>
+
+            <CallToAction/>
+
             <Heading color="dark" alignment="center">Te podría interesar</Heading>
             <li>
                 <a href="https://www.matmarkt.com/productos"  rel="noopener ">

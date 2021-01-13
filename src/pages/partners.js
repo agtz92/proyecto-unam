@@ -5,11 +5,17 @@ import matmarkt from '../images/partners/matmarkt.jpg'
 import corthw from '../images/partners/corthw.jpg'
 import InfoBlock from "../components/infoblock"
 // Components
+import { Helmet } from "react-helmet"
 export default function Home() {
     return (
 
         <React.Fragment>
             <Layout>
+                <Helmet>
+                <meta charSet="utf-8" />
+                <title>"Bancos de preguntas de examen| Negocios que nos apoyan"</title>
+                <meta name="description" content="Ve quienes hacen posible mantener esto como un proyecto gratuito" />
+            </Helmet>
             <Heading color="dark" alignment="center">Directorio de Negocios</Heading>
             <li>
                 <a href="https://www.matmarkt.com/"  rel="noopener norefferer">
