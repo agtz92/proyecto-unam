@@ -1,0 +1,48 @@
+---
+title: "Masa molar "
+slug: masa-molar
+featuredimage: /assets/masa-molar.jpg
+date: 2021-01-14T02:43:36.898Z
+dificultad: Preparatoria / Universidad
+categoria: Química
+tags:
+  - masa
+  - molar
+  - sustancias
+short-description: >-
+  
+
+  Masa molar 
+
+
+
+
+  Qué es Masa molar La masa molar (M) es la cantidad de masa que una sustancia contiene en un mol. Un mol se define como 6.022 * 10 elevado a 23 partículas.
+---
+<br/>
+
+En la tabla periódica, se puede encontrar la masa molar de los elementos, también llamada masa atómica o peso atómico, en la parte inferior del elemento. El hidrógeno, por ejemplo, tiene una masa molecular de 1.008 y el nitrógeno de 14.01.
+
+<br/><br/>
+
+Para calcular la masa molecular de un compuesto, también llamado masa o peso molecular, como el amoníaco (NH3) se debe sumar la masa molar de los elementos del compuesto multiplicado por las veces que aparecen, por ejemplo:
+
+<br/><br/>
+
+### Masa molar de NH3 =
+
+<br/><br/>
+
+1 molécula de Nitrógeno por su masa atómica de 14.01 más 3 moléculas de Hidrógeno por su masa atómica de 1.008 = (1 \* 14.01) + (3 \* 1.008) = 14.01 + 3.024 = 43.038 u = 17.03 masa molecular = 17.03 g/mol de masa molar en el amoníaco.
+
+<br/><br/>
+
+Cuando se conoce la masa molar de un compuesto, se sabe a su vez la cantidad de mol por gramo, recordando que cada mol es 6.022 * 10^23 partículas.
+
+<br/><br/>
+
+Por lo tanto, conociendo la masa molar se podrá calcular la cantidad de moles en un recipiente usando la fórmula: mol= masa / masa molar. Por ejemplo, en 100 gramos de amoniaco (NH3) para encontrar la cantidad de moles debemos dividir 100 / 17.03 g/mol que da un resultado aproximado de 5.8 moles en 100 gramos de amoniaco.
+
+<br/><br/>
+
+En química, la masa molar es importante para determinar el peso de la cantidad de masa que se requiere de una sustancia, ya que, nuestras balanzas están calibradas por peso y no por masa. Es por ello que la masa molar es expresada generalmente por kilogramos por mol (kg/mol) o gramos por mol (g/mol).
