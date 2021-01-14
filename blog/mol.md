@@ -1,7 +1,7 @@
 ---
 title: MOL
 slug: mol
-featuredimage: /assets/moll.jpg
+featuredimage: moll.jpg
 date: 2021-01-14T02:29:24.284Z
 dificultad: Preparatoria / Universidad
 categoria: Química

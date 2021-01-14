@@ -1,7 +1,7 @@
 ---
 title: "la regla del octeto de Lewis "
 slug: la-regla-del-octeto-de-lewis
-featuredimage: /assets/rl.jpg
+featuredimage: rl.jpg
 date: 2021-01-14T01:52:50.892Z
 dificultad: Preparatoria / Universidad
 categoria: Química
