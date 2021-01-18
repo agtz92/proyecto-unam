@@ -36,12 +36,14 @@ export default function Footer() {
                     <ul  className="list-footer w-list-unstyled">
                         <li ><Link  to="/privacidad/"  className="footer-link">Política de Privacidad</Link></li>
                         <li ><Link  to="/partners/"  className="footer-link">Directorio de Negocios</Link></li>
+                        <li ><Link  to="/about/"  className="footer-link">¿Quiénes Somos?</Link></li>
                     </ul>
                     </div>
                     <div>
-                    <h2 className="footer-heading">Información Extra</h2>
+                    <h2 className="footer-heading">Partners</h2>
                     <ul  className="list-footer w-list-unstyled">
-                        <li ><Link  to="/about/"  className="footer-link">¿Quiénes Somos?</Link></li>
+                        <li><a className="footer-link" href="https://www.matmarkt.com/productos"  rel="noopener noreferrer">MatMarkt. Tapetes para todo uso</a></li>
+                        <li><a className="footer-link" href="https://www.corthw.com/productos"  rel="noopener noreferrer">Cortina Hawaiana. Cortinas PVC</a></li>
                     </ul>
                     </div>
                 </div>
