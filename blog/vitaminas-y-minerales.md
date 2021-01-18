@@ -1,7 +1,7 @@
 ---
 title: "Vitaminas y minerales  "
 slug: vitaminas-y-minerales
-featuredimage: /assets/vitaminas.jpg
+featuredimage: vitaminas.jpg
 date: 2021-01-18T18:09:54.893Z
 dificultad: Preparatoria / Universidad
 categoria: Química

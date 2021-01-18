@@ -1,7 +1,7 @@
 ---
 title: Propiedades del agua
 slug: propiedades-del-agua
-featuredimage: /assets/propiedades.jpg
+featuredimage: propiedades.jpg
 date: 2021-01-18T18:33:31.640Z
 dificultad: Preparatoria / Universidad
 categoria: Química

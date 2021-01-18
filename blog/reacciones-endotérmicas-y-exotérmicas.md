@@ -1,7 +1,7 @@
 ---
 title: "Reacciones endotérmicas y exotérmicas "
 slug: reacciones-endotermicas-y-exotermicas
-featuredimage: /assets/reaccioneeesee.jpg
+featuredimage: reaccioneeesee.jpg
 date: 2021-01-18T18:27:41.608Z
 dificultad: Preparatoria / Universidad
 categoria: Química
