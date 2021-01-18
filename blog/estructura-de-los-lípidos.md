@@ -1,7 +1,7 @@
 ---
 title: Estructura de los lípidos
 slug: estrucutra-de-los-lipidos
-featuredimage: /assets/lipidos-.jpg
+featuredimage: lipidos-.jpg
 date: 2021-01-18T07:04:52.236Z
 dificultad: Preparatoria / Universidad
 categoria: Química

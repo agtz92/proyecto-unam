@@ -1,7 +1,7 @@
 ---
 title: "Los Carbohidratos "
 slug: carbohidratos
-featuredimage: /assets/carb.jpg
+featuredimage: carb.jpg
 date: 2021-01-17T07:13:22.964Z
 dificultad: Preparatoria / Universidad
 categoria: Química
