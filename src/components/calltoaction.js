@@ -20,9 +20,9 @@ export default function CallToAction(props) {
                 <Link to="/categorias/" ><button className="button-call-to-action w-button">Ve todas las Materias</button></Link>
             </div>
             <div className="call-to-action">
-                <Heading color="dark" alignment="center" size="medium">Colabora con Nosotros</Heading>
-                <p className="par-call-to-action">Si tienes un tema que quisieras publicar, aquí te decimos como subirlo. Tu colaboración es muy importante para nosotros para seguir creciendo el proyecto</p>
-                <Link to="/about/" ><button className="button-call-to-action w-button">¡Colabora ya!</button></Link>
+                <Heading color="dark" alignment="center" size="medium">Guías Oficiales</Heading>
+                <p className="par-call-to-action">Aquí estamos juntando las guías oficiales para todas las universidades, puedes consultarlas directamente en este botón.</p>
+                <Link to="/guias/" ><button className="button-call-to-action w-button">Ir a guías</button></Link>
             </div>
         </div>
         

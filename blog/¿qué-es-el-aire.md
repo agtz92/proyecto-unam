@@ -27,6 +27,7 @@ El aire logra permanecer alrededor del planeta Tierra gracias a la acción de la
 
 Es importante resaltar la importancia que tiene el aire así como el agua para la vida en el planeta Tierra y el papel fundamental que juega en la sobrevivencia del ser humano y los seres vivos. Dicha mezcla de gases es transparente en distancias cortas y medias.
 
+
 Las propiedades físicas que caracterizan al aire que se respira son: el volumen, la masa, densidad, presión atmosférica, contracción y expansión del mismo.
 
 ![quimica](/assets/quimica.jpg "aire")
