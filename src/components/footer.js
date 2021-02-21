@@ -42,7 +42,7 @@ export default function Footer() {
                     <div>
                     <h2 className="footer-heading">Partners</h2>
                     <ul  className="list-footer w-list-unstyled">
-                        <li><a className="footer-link" href="https://www.matmarkt.com/productos"  rel="noopener noreferrer">MatMarkt. Piso y tapetes de hule y PVC/a></li>
+                        <li><a className="footer-link" href="https://www.matmarkt.com/productos"  rel="noopener noreferrer">MatMarkt. Piso y tapetes de hule y PVC</a></li>
                         <li><a className="footer-link" href="https://www.corthw.com/productos"  rel="noopener noreferrer">Cortina Hawaiana. Cortinas Hawaianas de PVC</a></li>
                     </ul>
                     </div>
