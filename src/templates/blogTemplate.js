@@ -73,6 +73,7 @@ export default function Template({
                 <div className="blog-post">
                   <Link key={frontmatter.categoria} to={`/categorias/${kebabCase(frontmatter.categoria)}/`} ><div className="div-tag marginbottom">{`< Regresar a ${frontmatter.categoria}`}</div></Link>
                   <Link key={frontmatter.categoria} to={"/categorias/preguntas-de-examen/"} ><div className="div-tag marginbottom">Ve las preguntas de examen</div></Link>
+                    <div className="parpost light">Tenemos bancos de preguntas UNAM, bancos de preguntas IPN, guía oficial UNAM gratis, guía oficial IPN gratis y muchos más recursos para tu examen de universidad gratuitos.</div>
                     <div className="top-post">
                          <div className="featuredimage" > {/*<img src={`/assets/${ fix_image_path(frontmatter.featuredimage)}`} loading="lazy" width="500" alt="" className="img-large-post"/> */} 
                          {/*console.log("data file", data.file)*/} 
