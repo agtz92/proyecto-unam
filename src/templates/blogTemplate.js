@@ -97,7 +97,7 @@ export default function Template({
                     <div className="div-text-post" dangerouslySetInnerHTML={{ __html: html }}/>
                   <Link key={frontmatter.categoria} to={`/categorias/${kebabCase(frontmatter.categoria)}/`} ><div className="div-tag marginbottom">{`< Regresar a ${frontmatter.categoria}`}</div></Link>
                   <Link key={frontmatter.categoria} to={`/categorias/${kebabCase(frontmatter.categoria)}/`} ><div className="div-tag marginbottom">{`< Regresar a ${frontmatter.categoria}`}</div></Link>
-                    <div className="parpost light">antesdelexamen es una página de internet gratuita con bancos de preguntas para UNAM, IPN y todas las demás universidades más importantes de México. Tenemos bancos de preguntas por materia y por area. 
+                    <div className="parpost light">antesdelexamen es una página de internet gratuita con bancos de preguntas de examen para UNAM, IPN y todas las demás universidades más importantes de México. Tenemos bancos de preguntas por materia y por area. 
                     Bancos de preguntas Area 1, Bancos de preguntas Area 2, Bancos de preguntas area 3, Bancos de preguntas Area 4. Simulacros UNAM , IPN, UAM, UAEM. Guía UNAM 2021, Guía IPN 2021. <br></br>Agréganos en facebook buscando @antesdelexamen</div>
 
                 </div>
