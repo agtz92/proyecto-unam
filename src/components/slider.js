@@ -9,12 +9,13 @@ import bg4 from '../images/slider/historia.jpg'
 import bg5 from '../images/slider/historiamexico.jpg'
 import bg6 from '../images/slider/biologia.jpg'
 import bg7 from '../images/slider/preguntasdeexamen.jpg'
+import bg8 from '../images/slider/cursosdepreparacion.jpg'
 
 import '../../node_modules/slick-carousel/slick/slick.css'
 import '../../node_modules/slick-carousel/slick/slick-theme.css'
 
 
-const bg = [bg1,bg2,bg3,bg4,bg5,bg6,bg7];
+const bg = [bg1,bg2,bg3,bg4,bg5,bg6,bg7,bg8];
 
 
 export default class SimpleSlider extends Component{
@@ -57,6 +58,14 @@ export default class SimpleSlider extends Component{
                             background={bg[6]}
                             title="Preguntas de Examen"
                             text="Cientos de preguntas de examen para UNAM, IPN, UAEM y más!. Tenemos exámenes completos de Español, Historia de México, Historia Universal, Geografía, Biología, Literatura y más!"
+                        />
+                    </React.Fragment>
+                    <React.Fragment>
+                        <Slide
+                            to="/categorias/espanol/"
+                            background={bg[7]}
+                            title="Mejores Cursos de Preparacion"
+                            text="Los mejores cursos de preparacion para UNAM, IPN, UAM, UAEM y más!"
                         />
                     </React.Fragment>
                     <React.Fragment>

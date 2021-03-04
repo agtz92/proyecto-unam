@@ -18,7 +18,8 @@ const imageMapper ={
   HistoriadeMéxico: require("../images/slider/historiamexico.jpg"),
   Biología: require("../images/slider/biologia.jpg"),
   PreguntasdeExamen: require("../images/slider/preguntasdeexamen.jpg"),
-  Química: require("../images/slider/quimica.jpg")
+  Química: require("../images/slider/quimica.jpg"),
+  MejorescursosdepreparacionUNAMIPNUAMUAEM: require("../images/slider/cursosdepreparacion.jpg")
 }
 
 const CategoriasPage = ({
