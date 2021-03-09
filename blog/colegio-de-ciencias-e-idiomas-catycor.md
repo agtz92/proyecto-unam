@@ -1,7 +1,7 @@
 ---
 title: Colegio de Ciencias e Idiomas CATyCOR
 slug: colegio-de-ciencias-e-idiomas-catycor
-featuredimage: cursosdepreparacion.jpg
+featuredimage: /assets/adalberto-min.jpg
 date: 2021-03-04T04:37:01.702Z
 dificultad: Preparatoria / Universidad
 categoria: Mejores cursos de preparacion UNAM IPN UAM UAEM
@@ -11,7 +11,9 @@ tags:
   - IPN
   - UAM
   - UAEM
-short-description: El colegio de ciencias e idiomas Coronel Adalberto Tejeda y Carmen Osorio Ruiz ofrecen cursos de Matemáticas, Física, Química, Biología e Inglés desde 0 al nivel que desees. Precios muy accesibles y clases gratuitas.
+short-description: El colegio de ciencias e idiomas Coronel Adalberto Tejeda y
+  Carmen Osorio Ruiz ofrecen cursos de Matemáticas, Física, Química, Biología e
+  Inglés desde 0 al nivel que desees. Precios muy accesibles y clases gratuitas.
 ---
 **¿Quiénes son?**<br>
 El colegio de Ciencias e Idiomas Coronel Adalberto Tejeda y Carmen Osorio Ruiz, son una institución con maestros experimentados (más de 30 años algunos) y aseguran que si decides prepararte con ellos, tendrás el nivel académico que quieras en las materias de Matemáticas, Física, Química, Bología e Inglés.<br>
