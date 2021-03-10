@@ -62,7 +62,7 @@ export default class SimpleSlider extends Component{
                     </React.Fragment>
                     <React.Fragment>
                         <Slide
-                            to="/categorias/espanol/"
+                            to="/categorias/mejores-cursos-de-preparacion-unam-ipn-uam-uaem/"
                             background={bg[7]}
                             title="Mejores Cursos de Preparacion"
                             text="Los mejores cursos de preparacion para UNAM, IPN, UAM, UAEM y más!"
