@@ -11,7 +11,11 @@ tags:
   - IPN
   - UAM
   - UAEM
-short-description: El colegio de ciencias e idiomas Coronel Adalberto Tejeda y
+short-description: >-
+  **OPCION GRATIS Y DE PAGA**
+  
+
+  El colegio de ciencias e idiomas Coronel Adalberto Tejeda y
   Carmen Osorio Ruiz ofrecen cursos de Matemáticas, Física, Química, Biología e
   Inglés desde 0 al nivel que desees. Precios muy accesibles y clases gratuitas.
 ---
