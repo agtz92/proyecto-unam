@@ -1,7 +1,7 @@
 ---
 title: Movimiento Juvenil Mexicano
 slug: movimiento-juvenil-mexicano
-featuredimage: /assets/156210155_1618273348562363_5799279317729915584_n.jpg
+featuredimage: 156210155_1618273348562363_5799279317729915584_n.jpg
 date: 2021-03-24T03:02:03.517Z
 dificultad: Secundaria / Preparatoria
 categoria: Mejores cursos de preparacion UNAM IPN UAM UAEM
