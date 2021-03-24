@@ -1,7 +1,7 @@
 ---
 title: Movimiento Juvenil Mexicano
 slug: movimiento-juvenil-mexicano
-featuredimage: 156210155_1618273348562363_5799279317729915584_n.jpg
+featuredimage: /assets/captura-de-pantalla-2021-03-23-211157.jpg
 date: 2021-03-24T03:02:03.517Z
 dificultad: Secundaria / Preparatoria
 categoria: Mejores cursos de preparacion UNAM IPN UAM UAEM
@@ -26,6 +26,10 @@ El horario es de lunes a viernes de 5 a 8 por la tarde <br>
 **Precio:** <br>
 
 $30 la hora. Puedes armar tu propio paquete
+
+
+
+![mjm](/assets/156210155_1618273348562363_5799279317729915584_n.jpg "mjm")
 
 **Nota**<br>
 antesdelexamen.com es una página con recursos gratis para estudiar antes del examen de admisión. Los cursos recomendados en esta página son basados en opiniones de cientos de estudiantes publicando información en Facebook. No nos hacemos responsables por los resultados obtenidos con cada curso ni con los trámites para inscribirse a uno. Si tienes una queja de algún curso anunciado en este sitio, contáctanos en contacto@antesdelexamen.com
