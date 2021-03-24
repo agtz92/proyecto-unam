@@ -30,17 +30,17 @@ El grupo de estudio Desde el Principio  incluye: <br>
 
 Las sesiones son de lunes a viernes <br>
 
-
 **Precio**<br>
 Inscripción $150 mxn<br>
 
 Semanalmente $1000<br>
 
-
 **¿Cómo contactarlos?**<br>
 **Manda un mensaje por Whatsapp al (55) 85 48 56 56 o al (55) 28 88 73 87** y pregunta por la directora de la escuela, Aurea Osorio. En nuestra opinión muy personal, la maestra es una persona muy accesible, amable y con ideas muy innovadoras que te ayudarán a conseguir el éxito que tanto buscas. <br>
-Puedes seguirlos en Facebook aquí: https://www.facebook.com/Colegio-de-Ciencias-e-Idiomas-Coronel-Adalberto-Tejeda-y-Carmen-Osorio-Ruiz-100186151869100/
+Puedes seguirlos en Facebook [aquí](https://www.facebook.com/Colegio-de-Ciencias-e-Idiomas-Coronel-Adalberto-Tejeda-y-Carmen-Osorio-Ruiz-100186151869100)
 
-<br>También puedes unirte a su grupo de facebook aquí: https://www.facebook.com/groups/1305077653192177/?ref=share <br><br><br>
+<br>También puedes unirte a su grupo de facebook [aquí ](https://www.facebook.com/groups/1305077653192177/?ref=share)
+
+
 **Nota**<br>
 antesdelexamen.com es una página con recursos gratis para estudiar antes del examen de admisión. Los cursos recomendados en esta página son basados en opiniones de cientos de estudiantes publicando información en Facebook. No nos hacemos responsables por los resultados obtenidos con cada curso ni con los trámites para inscribirse a uno. Si tienes una queja de algún curso anunciado en este sitio, contáctanos en contacto@antesdelexamen.com
