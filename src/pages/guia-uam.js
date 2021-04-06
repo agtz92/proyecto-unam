@@ -25,13 +25,13 @@ export default function Home() {
         <Heading color="dark" alignment="center">Guías UAM 2021</Heading>
         <h2>En esta página puedes encontrar las guías más recientes de la UAM. Da click en el botón para descargarlas</h2>
         <p>Arquitectura, Diseño, Diseño de la Comunicación Gráfica, Diseño Industrial, Planeación Territorial</p>
-        <a href="https://www.admision.uam.mx/guias/uam_guia_cad.pdf"><div className="div-tag">Descargar Guía CAD</div></a>
+        <a target='_blank' href="https://www.admision.uam.mx/guias/uam_guia_cad.pdf"><div className="div-tag">Descargar Guía CAD</div></a>
         <p>Agronomía, Bilogía, Medicina, Enfermería, Química y más</p>
-        <a href="https://www.admision.uam.mx/guias/uam_guia_cbs.pdf"><div className="div-tag">Descargar Guía CBS</div></a>
+        <a target='_blank' href="https://www.admision.uam.mx/guias/uam_guia_cbs.pdf"><div className="div-tag">Descargar Guía CBS</div></a>
         <p>Administración, Derecho, Economía, Filosofía, Psicología y más</p>
-        <a href="https://www.admision.uam.mx/guias/uam_guia_csh.pdf"><div className="div-tag">Descargar Guía CSH</div></a>
+        <a target='_blank' href="https://www.admision.uam.mx/guias/uam_guia_csh.pdf"><div className="div-tag">Descargar Guía CSH</div></a>
         <p>Ingenierías, Física, Computación y más</p>
-        <a href="https://www.admision.uam.mx/guias/uam_guia_cbi.pdf"><div className="div-tag">Descargar Guía CBI</div></a>
+        <a target='_blank' href="https://www.admision.uam.mx/guias/uam_guia_cbi.pdf"><div className="div-tag">Descargar Guía CBI</div></a>
         <Heading color="gold" alignment ="left">Te puede interesar también</Heading>
         <li>
             <Link to={`/guiaarea1unam/`}>
