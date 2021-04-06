@@ -6,6 +6,7 @@ import PostBlockLarge from "../components/postblocklarge"
 import Layout from "../layouts/layout"
 import unam from "../images/UNAM.jpg"
 import ipn from "../images/IPN.jpg"
+import uam from "../images/uam.png"
 import '../styles/normalize.css'
 import "../styles/webflow.css"
 import "../styles/soynuevo.webflow.css"
@@ -38,6 +39,9 @@ export default function Home() {
             </Link>
             <Link to={`/guiaarea4unam/`}>
                 <PostBlockLarge title="Guia Area 4 UNAM" img={unam} nivel="Universidad" description="Guía UNAM Area 4 2021. Guía más reciente para Area 4 admisión de la UNAM."/>
+            </Link>
+            <Link to={`/guia-uam/`}>
+                <PostBlockLarge title="Guias para la UAM" img={uam} nivel="Universidad" description="Las 4 Guías UAM 2021. Guías más recientes para admisión UAM."/>
             </Link>
         </li>
 
