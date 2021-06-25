@@ -44,6 +44,7 @@ export default function Footer() {
                     <ul  className="list-footer w-list-unstyled">
                         <li><a className="footer-link" href="https://www.matmarkt.com/productos"  rel="noopener noreferrer">MatMarkt. Piso y tapetes de hule y PVC</a></li>
                         <li><a className="footer-link" href="https://www.corthw.com/productos"  rel="noopener noreferrer">Cortina Hawaiana. Cortinas Hawaianas de PVC</a></li>
+                        <li><a className="footer-link" href="https://www.10datos.com"  rel="noopener noreferrer">10 datos curiosos sobre cientos de temas</a></li>
                     </ul>
                     </div>
                 </div>
