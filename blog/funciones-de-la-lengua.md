@@ -14,8 +14,6 @@ short-description: >-
 
   La función principal del lenguaje humano es comunicar La comunicación humana, sin embargo, opera de maneras distintas según el tipo de mensaje que queramos transmitir o el tipo de comunicación que busquemos sostener con uno o varios interlocutores.
 ---
-
-
 **Funciones referencial:**  
 Es una función del lenguaje que es empleado para mencionar los factores externos esto lo que permite exponer la realidad de manera concreta y objetiva, a esta también se le conoce como función denotativa 
 
@@ -58,9 +56,6 @@ Como las formas gramaticales de las interrogaciones, las exhortantes, las órden
 
 “José, ¿puedes ayudarme a cargar esta maleta?”; “¡Deténgase o disparo!”; “Lea todo el examen antes de responder”; “Te ruego que lo pienses mejor”, “¿Cuándo llegaste?”, 
 
- 
-
-
 **Funciones de la lengua poética** 
 La función también es conocida como función estética al modo donde las formas de enunciar adquieren un grado de importancia, el centro de la función es la forma del mensaje que le imprime mayor significado y contundencia.
 
@@ -75,3 +70,9 @@ Ejemplo: 
 ;"¡Compadre, cómpreme coco! / ¡Compadre, coco no compro!
 
  / Porque el que poco coco come / poco coco compra"  “Una golondrina no hace verano“Obras son amores, que no buenas razones”
+
+
+
+Repasa tu inglés leyendo un artículo interesante:
+
+Find the advantage of working with a [digital marketer](https://suggestionsforyou.com/importance-of-digital-marketing-for-small-businesses/)
