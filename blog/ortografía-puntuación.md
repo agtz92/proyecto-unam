@@ -47,8 +47,6 @@ Ejemplo: se puede usar el siguiente ejemplo: “Punto y seguido en el juicio con
 
 Coloca La coma (,) marca una pausa breve dentro de un enunciado.
 
-
-
 Se emplea para separar componentes de la oración o sintagma, salvo que esté precedido por alguna conjunción como y, e, o, u, ni. Por ejemplo, “Andrea llegó de la escuela, hizo los deberes, tomó el baño y se durmió”.
 
 Se usa para encerrar incisos o aclaraciones y para señalar omisiones. Por ejemplo, “Si vienes, te esperamos; si no, nos vamos”.
@@ -83,8 +81,6 @@ Al final de las enumeraciones abiertas, con el mismo valor que el etcétera. Por
 
 Cuando se deja una expresión incompleta o en suspenso. Por ejemplo, “A pocas palabras…”.
 
- 
-
 **Signos de interrogación y de admiración**
 
 El uso de los signos de interrogación (¿?) marca el principio y el fin de una pregunta formulada de manera directa. Por ejemplo, “¿Qué quieres?”.
@@ -109,8 +105,6 @@ En la lengua española, la diéresis (¨) es un signo gráfico que permite leer 
 
 El apóstrofo (ʼ) en español tiene varios usos. Podemos enumerar los siguientes:
 
- 
-
 **Paréntesis**
 
 Los paréntesis () sirven para delimitar. A través de ellos, pueden aislarse palabras, frases o párrafos incluso. Esto permite aclarar o aportar alguna información complementaria al texto principal.a letra en la escritura antigua. Por ejemplo, "DE' ellos"
@@ -120,3 +114,5 @@ Los paréntesis () sirven para delimitar. A través de ellos, pueden aislarse pa
 Los corchetes (\[]) se usan de una forma similar a los paréntesis, pero son menos frecuentes y se ajustan a determinadas salvedades.
 
 Se usa corchete para introducir información adicional a un texto que ya está entre paréntesis. Por ejemplo, "El último disco de Violeta Parra
+
+En Inglés los signos de puntuación son diferentes, cuáles encuentras en este articulo: [disadvantages of digital marketing](https://suggestionsforyou.com/how-to-make-a-living-as-a-freelance-digital-marketer/)
