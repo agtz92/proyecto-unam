@@ -51,7 +51,7 @@ export default function Footer() {
                     </ul>
                     </div>
                 </div>
-                <div className="text-bottom-footer">Copyright © 2021 antesdelexamen.com . Todos los derechos reservados.</div>
+                <div className="text-bottom-footer">Copyright © 2022 antesdelexamen.com . Todos los derechos reservados.</div>
                 <div className="text-bottom-footer">En este sitio se recolectan cookies utilizados para Google Analytics</div>
                 </div>
         </footer>

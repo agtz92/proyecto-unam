@@ -10,6 +10,7 @@ import matmarkt from '../images/partners/matmarkt.jpg'
 import corthw from '../images/partners/corthw.jpg'
 
 
+
 // Components
 import { Link, graphql } from "gatsby"
 
