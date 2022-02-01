@@ -11,6 +11,8 @@ import "../styles/soynuevo.webflow.css"
 import matmarkt from '../images/partners/matmarkt.jpg'
 import corthw from '../images/partners/corthw.jpg'
 import InfoBlock from "../components/infoblock"
+import funko from "../../static/assets/funko.jpg"
+import PostBlockLarge from "../components/postblocklarge"
 // Utilities
 import kebabCase from "lodash/kebabCase"
 import Img from "gatsby-image"
@@ -94,6 +96,12 @@ export default function Template({
                             <p className="parpost">{frontmatter.short_description}</p>
                         </div>
                     </div>
+                   <a target="_blank" href="https://www.amazon.com.mx/gp/search/ref=as_li_qf_sp_sr_tl?ie=UTF8&tag=jagg1992-20&keywords=Funko Pop! Star Wars: Across The Galaxy - The Mandalorian Holding Grogu with Pin&index=aps&camp=1789&creative=9325&linkCode=ur2&linkId=c5a59b9c73504fd95501aa5f7ac7b5b9">
+                   <PostBlockLarge title="Funko Pop! Star Wars: Across The Galaxy" img={funko} nivel="" description="Los funkos más vendidos de Star Wars , The Mandalorian y Marvel con el mejor precio y envío gratis* Da click para ver todos los modelos"/>
+                   </a>
+                                
+                            
+                    
                     <div className="div-text-post" dangerouslySetInnerHTML={{ __html: html }}/>
                   <Link key={frontmatter.categoria} to={`/categorias/${kebabCase(frontmatter.categoria)}/`} ><div className="div-tag marginbottom">{`< Regresar a ${frontmatter.categoria}`}</div></Link>
                   <Link key={frontmatter.categoria} to={`/categorias/${kebabCase(frontmatter.categoria)}/`} ><div className="div-tag marginbottom">{`< Regresar a ${frontmatter.categoria}`}</div></Link>
