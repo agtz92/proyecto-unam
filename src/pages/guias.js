@@ -1,5 +1,5 @@
 import React from "react"
-import { Link, graphql } from "gatsby"
+import { Link} from "gatsby"
 import { Helmet } from "react-helmet"
 import Heading from "../components/heading"
 import PostBlockLarge from "../components/postblocklarge"

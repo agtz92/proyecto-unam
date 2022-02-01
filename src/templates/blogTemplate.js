@@ -5,12 +5,13 @@ import { Helmet } from "react-helmet"
 import Layout from "../layouts/layout"
 import Heading from "../components/heading"
 import logoChico from "../images/logo_small.png"
+import showdown from 'showdown'
 import '../styles/normalize.css'
 import "../styles/webflow.css"
 import "../styles/soynuevo.webflow.css"
-import matmarkt from '../images/partners/matmarkt.jpg'
-import corthw from '../images/partners/corthw.jpg'
-import InfoBlock from "../components/infoblock"
+//import matmarkt from '../images/partners/matmarkt.jpg'
+//import corthw from '../images/partners/corthw.jpg'
+//import InfoBlock from "../components/infoblock"
 import funko from "../../static/assets/funko.jpg"
 import PostBlockLarge from "../components/postblocklarge"
 // Utilities
@@ -20,8 +21,9 @@ import Img from "gatsby-image"
 function fix_image_path(image_path){
   return image_path.startsWith("../static/assets/") ? image_path.slice(17) : image_path
 }
-
+const converter = new showdown.Converter()
 export default function Template({
+  
   data// this prop will be injected by the GraphQL query below.
 }) {
     // console.log(data)
@@ -99,10 +101,17 @@ export default function Template({
                    <a target="_blank" href="https://www.amazon.com.mx/gp/search/ref=as_li_qf_sp_sr_tl?ie=UTF8&tag=jagg1992-20&keywords=Funko Pop! Star Wars: Across The Galaxy - The Mandalorian Holding Grogu with Pin&index=aps&camp=1789&creative=9325&linkCode=ur2&linkId=c5a59b9c73504fd95501aa5f7ac7b5b9">
                    <PostBlockLarge title="Funko Pop! Star Wars: Across The Galaxy" img={funko} nivel="" description="Los funkos más vendidos de Star Wars , The Mandalorian y Marvel con el mejor precio y envío gratis* Da click para ver todos los modelos"/>
                    </a>
-                                
+
+
+                     <div className="div-text-post" dangerouslySetInnerHTML={frontmatter.mk1 ? ({ __html: converter.makeHtml(frontmatter.mk1) }) : ({ __html: converter.makeHtml(frontmatter.categoria) })} />
+                     <div className="div-text-post" dangerouslySetInnerHTML={frontmatter.mk2 ? ({ __html: converter.makeHtml(frontmatter.mk2) }) : ({ __html: converter.makeHtml(frontmatter.categoria) })} />
+                     <div className="div-text-post" dangerouslySetInnerHTML={frontmatter.mk3 ? ({ __html: converter.makeHtml(frontmatter.mk3) }) : ({ __html: converter.makeHtml(frontmatter.categoria) })} />
+                     <div className="div-text-post" dangerouslySetInnerHTML={frontmatter.mk4 ? ({ __html: converter.makeHtml(frontmatter.mk4) }) : ({ __html: converter.makeHtml(frontmatter.categoria) })} />
+                     <div className="div-text-post" dangerouslySetInnerHTML={frontmatter.mk5 ? ({ __html: converter.makeHtml(frontmatter.mk5) }) : ({ __html: converter.makeHtml(frontmatter.categoria) })} />
                             
-                    
-                    <div className="div-text-post" dangerouslySetInnerHTML={{ __html: html }}/>
+
+                  <div className="div-text-post" dangerouslySetInnerHTML={{ __html: html }}/>
+
                   <Link key={frontmatter.categoria} to={`/categorias/${kebabCase(frontmatter.categoria)}/`} ><div className="div-tag marginbottom">{`< Regresar a ${frontmatter.categoria}`}</div></Link>
                   <Link key={frontmatter.categoria} to={`/categorias/${kebabCase(frontmatter.categoria)}/`} ><div className="div-tag marginbottom">{`< Regresar a ${frontmatter.categoria}`}</div></Link>
                     <div className="parpost light">antesdelexamen es una página de internet gratuita con bancos de preguntas de examen para UNAM, IPN y todas las demás universidades más importantes de México. 
@@ -138,6 +147,11 @@ export const pageQuery = graphql`
         title
         categoria
         short_description
+        mk1
+        mk2
+        mk3
+        mk4
+        mk5
       }
     }
     file(relativePath: {eq: $featuredimage}) {
