@@ -12,6 +12,31 @@ tags:
 short-description: >-
   
   La glucólisis o glicólisis es una ruta metabólica que sirve de paso inicial para el catabolismo de carbohidratos en los seres vivos. Consiste fundamentalmente en la ruptura de las moléculas de glucosa mediante la oxidación de la molécula de glucosa, obteniendo así cantidades de energía química aprovechable por las células.
+mk1: "**Primera fase**: gasto de energía. En esta primera etapa se transforma la
+  molécula de glucosa en dos de gliceraldehído, una molécula de bajo rendimiento
+  energético. Para ello se consumen dos unidades de energía bioquímica (ATP,
+  Adenosín Trifosfato). Sin embargo, en la siguiente fase se duplicará la
+  energía obtenida gracias a esta inversión inicial."
+mk2: "**Primera fase**: gasto de energía. En esta primera etapa se transforma la
+  molécula de glucosa en dos de gliceraldehído, una molécula de bajo rendimiento
+  energético. Para ello se consumen dos unidades de energía bioquímica (ATP,
+  Adenosín Trifosfato). Sin embargo, en la siguiente fase se duplicará la
+  energía obtenida gracias a esta inversión inicial."
+mk3: "**Primera fase**: gasto de energía. En esta primera etapa se transforma la
+  molécula de glucosa en dos de gliceraldehído, una molécula de bajo rendimiento
+  energético. Para ello se consumen dos unidades de energía bioquímica (ATP,
+  Adenosín Trifosfato). Sin embargo, en la siguiente fase se duplicará la
+  energía obtenida gracias a esta inversión inicial."
+mk4: "**Primera fase**: gasto de energía. En esta primera etapa se transforma la
+  molécula de glucosa en dos de gliceraldehído, una molécula de bajo rendimiento
+  energético. Para ello se consumen dos unidades de energía bioquímica (ATP,
+  Adenosín Trifosfato). Sin embargo, en la siguiente fase se duplicará la
+  energía obtenida gracias a esta inversión inicial."
+mk5: "**Primera fase**: gasto de energía. En esta primera etapa se transforma la
+  molécula de glucosa en dos de gliceraldehído, una molécula de bajo rendimiento
+  energético. Para ello se consumen dos unidades de energía bioquímica (ATP,
+  Adenosín Trifosfato). Sin embargo, en la siguiente fase se duplicará la
+  energía obtenida gracias a esta inversión inicial."
 ---
 La glucólisis no es un proceso simple, sino que consiste en una serie de diez reacciones químicas enzimáticas consecutivas, que transforman una molécula de glucosa (C6H12O6) en dos de piruvato (C3H4O3), útiles para otros procesos metabólicos que siguen aportando energía al organismo.
 
