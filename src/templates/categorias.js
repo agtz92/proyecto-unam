@@ -8,7 +8,7 @@ import InfoBlock from "../components/infoblock"
 import CategoryHeader from "../components/categoryHeader"
 import matmarkt from '../images/partners/matmarkt.jpg'
 import corthw from '../images/partners/corthw.jpg'
-
+import tiktok from "../../static/assets/tiktok2.jpg"
 
 
 // Components
@@ -45,8 +45,11 @@ const Categorias = ({ pageContext, data }) => {
         </Helmet>
         <Layout>
             <div>
-            <CategoryHeader background={imageMapper[(categoria).split(' ').join('')]} category={categoria} descripcion={categoriaHeader} />  
             
+            <CategoryHeader background={imageMapper[(categoria).split(' ').join('')]} category={categoria} descripcion={categoriaHeader} />  
+            <a target="_blank" href="https://www.amazon.com.mx/gp/product/B08FCKNVS6/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B08FCKNVS6&linkCode=as2&tag=jagg1992-20&linkId=51965a9ca4e460ea1241e4f7e4fefbe1">
+                   <PostBlockLarge title="Accesorios para grabar los mejores videos" img={tiktok} nivel="" description="Checa todos los productos para grabar en TikTok, Instagram y Youtube por menos de $300!!!!"/>
+                   </a>
 
 
 
