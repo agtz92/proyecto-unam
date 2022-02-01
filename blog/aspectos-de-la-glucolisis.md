@@ -12,7 +12,16 @@ tags:
 short-description: >-
   
   La glucólisis o glicólisis es una ruta metabólica que sirve de paso inicial para el catabolismo de carbohidratos en los seres vivos. Consiste fundamentalmente en la ruptura de las moléculas de glucosa mediante la oxidación de la molécula de glucosa, obteniendo así cantidades de energía química aprovechable por las células.
-
+mk1: >-
+ **ANTES DEL EXAMEN** 
+mk2: >-
+ **ANTES DEL EXAMEN** 
+mk3: >-
+ **ANTES DEL EXAMEN** 
+mk4: >- 
+ **ANTES DEL EXAMEN** 
+mk5: >-
+ **ANTES DEL EXAMEN** 
 ---
 La glucólisis no es un proceso simple, sino que consiste en una serie de diez reacciones químicas enzimáticas consecutivas, que transforman una molécula de glucosa (C6H12O6) en dos de piruvato (C3H4O3), útiles para otros procesos metabólicos que siguen aportando energía al organismo.
 
