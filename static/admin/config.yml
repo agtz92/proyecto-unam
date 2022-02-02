@@ -22,6 +22,11 @@ collections:
       - { collection: categoria, valueField: categoria, searchFields: ["categoria"], displayFields: ["categoria"], widget: relation, name: categoria, label: Materia, required: true, multiple: false, hint: Poner Materia a la que corresponde el tema. Campo obligatorio}
       - {label: "Tags", name: "tags", widget: "list", hint: Separar con comas cada tag relacionado al post (ej. revolucion francesa, Napoleón, Historia de Francia) poner al menos 3 tags por post, ideal 5, required: true}
       - { name: short-description, label: Descripcion Corta, widget: markdown, hint: Descripcion corta de al menos 5 líneas, required: true}
+      - { name: mk1, label: facts 1-2, widget: markdown }
+      - { name: mk2, label: facts 3-4, widget: markdown }
+      - { name: mk3, label: facts 5-6, widget: markdown }
+      - { name: mk4, label: facts 7-8, widget: markdown }
+      - { name: mk5, label: facts 9-10, widget: markdown }
       - { name: body, label: Body, widget: markdown, mode: rich_text, hint: Estructura debe ser parrafo -> imagen/video -> parrafo -> imagen/video -> parrafo, required: true}
       
      
