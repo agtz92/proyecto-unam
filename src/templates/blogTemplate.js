@@ -4,9 +4,9 @@ import { Link, graphql } from "gatsby"
 import { Helmet } from "react-helmet"
 import Layout from "../layouts/layout"
 import Heading from "../components/heading"
-import logoChico from "../images/logo_small.png"
-import showdown from 'showdown'
-import '../styles/normalize.css'
+//import logoChico from "../images/logo_small.png"
+import showdown from "showdown"
+import "../styles/normalize.css"
 import "../styles/webflow.css"
 import "../styles/soynuevo.webflow.css"
 //import matmarkt from '../images/partners/matmarkt.jpg'
@@ -17,126 +17,178 @@ import PostBlockLarge from "../components/postblocklarge"
 // Utilities
 import kebabCase from "lodash/kebabCase"
 import Img from "gatsby-image"
+import Metatags from "../components/metatags"
 
-function fix_image_path(image_path){
-  return image_path.startsWith("../static/assets/") ? image_path.slice(17) : image_path
+function fix_image_path(image_path) {
+  return image_path.startsWith("../static/assets/")
+    ? image_path.slice(17)
+    : image_path
 }
 const converter = new showdown.Converter()
 export default function Template({
-  
-  data// this prop will be injected by the GraphQL query below.
+  data, // this prop will be injected by the GraphQL query below.
 }) {
-    // console.log(data)
-    const { markdownRemark } = data // data.markdownRemark holds your post data
-    const { frontmatter, html } = markdownRemark
-    const perro = "https://www.antesdelexamen.com/" + frontmatter.slug + "/";
-    // console.log(frontmatter.featuredimage);
-    // console.log(data.file)
-    const split = String(frontmatter.featuredimage).split("\\");
-    console.log("var= " + split[0]);
-        return (
-          
-            <React.Fragment>
-              <Helmet >
-                <meta charSet="utf-8" />
-                <title>"Bancos de preguntas de examen| {frontmatter.title}"</title>
-                <meta name="description" content={frontmatter.short_description} />
-                <script type="application/ld+json">
-                  {`
-                {
-                  "@context": "https://schema.org",
-                  "@type": "BlogPosting",
-                  "mainEntityOfPage": {
-                    "@type": "WebPage",
-                    "@id":\"${perro}\"
-                  },
-                  "headline": \"${frontmatter.title}\",
-                  "description": \"${frontmatter.short_description}\",
-                  "image": "https://www.antesdelexamen.com/assets/${ fix_image_path(frontmatter.featuredimage)}",  
-                  "author": {
-                    "@type": "Organization",
-                    "name": "antesdelexamen.com"
-                  },  
-                  "publisher": {
-                    "@type": "Organization",
-                    "name": "antesdelexamen",
-                    "logo": {
-                      "@type": "ImageObject",
-                      "url": \"https://www.antesdelexamen.com/${logoChico}\"
-                    }
-                  },
-                  "datePublished": \"${frontmatter.date}\",
-                  "dateModified": \"${frontmatter.date}\"
-                }
-                `}
-                </script>
-              </Helmet>
-            <Layout>
-            <div className="blog-post-container">
-                <div className="div-grey-post"></div>
-                <div className="blog-post">
-                  <Link key={frontmatter.categoria} to={`/categorias/${kebabCase(frontmatter.categoria)}/`} ><div className="div-tag marginbottom">{`< Regresar a ${frontmatter.categoria}`}</div></Link>
-                  <Link key={frontmatter.categoria} to={"/categorias/preguntas-de-examen/"} ><div className="div-tag marginbottom">Ve las preguntas de examen</div></Link>
-                    <div className="parpost light">Tenemos bancos de preguntas UNAM, bancos de preguntas IPN, guía oficial UNAM gratis, guía oficial IPN gratis y muchos más recursos para tu examen de universidad gratuitos.</div>
-                    <div className="top-post">
-                         <div className="featuredimage" > {/*<img src={`/assets/${ fix_image_path(frontmatter.featuredimage)}`} loading="lazy" width="500" alt="" className="img-large-post"/> */} 
-                         {/*console.log("data file", data.file)*/} 
-                        <Img fluid={data.file.childImageSharp.fluid} />
-                    </div>
-                        
-                        <div className="short-description">
-                          
-                            <Heading color="dark">{frontmatter.title}</Heading>
-                            <div className="parpost light">{frontmatter.date}</div>
-                                <div className="tags-div">
-                                    {frontmatter.tags.map((tag) => (
-                                            <Link key={tag + `tag`} to={`/tags/${kebabCase(tag)}/`}><div className="div-tag">{tag}</div></Link> 
-                                    ))}</div>
-                                
-                                
-                            <div><div className="parpost bold">Nivel de experiencia : {frontmatter.dificultad}</div></div>
-                            <p className="parpost">{frontmatter.short_description}</p>
-                        </div>
-                    </div>
-                   <a target="_blank" href="https://www.amazon.com.mx/gp/search/ref=as_li_qf_sp_sr_tl?ie=UTF8&tag=jagg1992-20&keywords=Funko Pop! Star Wars: Across The Galaxy - The Mandalorian Holding Grogu with Pin&index=aps&camp=1789&creative=9325&linkCode=ur2&linkId=c5a59b9c73504fd95501aa5f7ac7b5b9">
-                   <PostBlockLarge title="Funko Pop! Star Wars: Across The Galaxy" img={funko} nivel="" description="Los funkos más vendidos de Star Wars , The Mandalorian y Marvel con el mejor precio y envío gratis* Da click para ver todos los modelos"/>
-                   </a>
+  // console.log(data)
+  const { markdownRemark } = data // data.markdownRemark holds your post data
+  const { frontmatter, html } = markdownRemark
+  const perro = "https://www.antesdelexamen.com/" + frontmatter.slug + "/"
+  // console.log(frontmatter.featuredimage);
+  // console.log(data.file)
+  const split = String(frontmatter.featuredimage).split("\\")
+  return (
+    <React.Fragment>
+      <Metatags
+        title={frontmatter.title}
+        short_description={frontmatter.short_description}
+        featuredimage={frontmatter.featuredimage}
+        date={frontmatter.date}
+        perro={perro}
+      />
 
-
-                     <div className="div-text-post" dangerouslySetInnerHTML={frontmatter.mk1 ? ({ __html: converter.makeHtml(frontmatter.mk1) }) : ({ __html: converter.makeHtml(frontmatter.categoria) })} />
-                     <div className="div-text-post" dangerouslySetInnerHTML={frontmatter.mk2 ? ({ __html: converter.makeHtml(frontmatter.mk2) }) : ({ __html: converter.makeHtml(frontmatter.categoria) })} />
-                     <div className="div-text-post" dangerouslySetInnerHTML={frontmatter.mk3 ? ({ __html: converter.makeHtml(frontmatter.mk3) }) : ({ __html: converter.makeHtml(frontmatter.categoria) })} />
-                     <div className="div-text-post" dangerouslySetInnerHTML={frontmatter.mk4 ? ({ __html: converter.makeHtml(frontmatter.mk4) }) : ({ __html: converter.makeHtml(frontmatter.categoria) })} />
-                     <div className="div-text-post" dangerouslySetInnerHTML={frontmatter.mk5 ? ({ __html: converter.makeHtml(frontmatter.mk5) }) : ({ __html: converter.makeHtml(frontmatter.categoria) })} />
-                            
-
-                  <div className="div-text-post" dangerouslySetInnerHTML={{ __html: html }}/>
-
-                  <Link key={frontmatter.categoria} to={`/categorias/${kebabCase(frontmatter.categoria)}/`} ><div className="div-tag marginbottom">{`< Regresar a ${frontmatter.categoria}`}</div></Link>
-                  <Link key={frontmatter.categoria} to={`/categorias/${kebabCase(frontmatter.categoria)}/`} ><div className="div-tag marginbottom">{`< Regresar a ${frontmatter.categoria}`}</div></Link>
-                    <div className="parpost light">antesdelexamen es una página de internet gratuita con bancos de preguntas de examen para UNAM, IPN y todas las demás universidades más importantes de México. 
-                    Tenemos bancos de preguntas por materia y por area. Bancos de preguntas Area 1, Bancos de preguntas Area 2, Bancos de preguntas area 3, Bancos de preguntas Area 4. Simulacros UNAM , IPN, 
-                    UAM, UAEM. Guía UNAM 2021, Guía IPN 2021. <br></br>Agréganos en facebook buscando @antesdelexamen</div>
-
-                </div>
-                
-                <div className="div-grey-post"></div>
-                
+      <Layout>
+        <div className="blog-post-container">
+          <div className="div-grey-post"></div>
+          <div className="blog-post">
+            <Link
+              key={frontmatter.categoria}
+              to={`/categorias/${kebabCase(frontmatter.categoria)}/`}
+            >
+              <div className="div-tag marginbottom">{`< Regresar a ${frontmatter.categoria}`}</div>
+            </Link>
+            <Link
+              key={frontmatter.categoria}
+              to={"/categorias/preguntas-de-examen/"}
+            >
+              <div className="div-tag marginbottom">
+                Ve las preguntas de examen
+              </div>
+            </Link>
+            <div className="parpost light">
+              Tenemos bancos de preguntas UNAM, bancos de preguntas IPN, guía
+              oficial UNAM gratis, guía oficial IPN gratis y muchos más recursos
+              para tu examen de universidad gratuitos.
             </div>
-            
-            </Layout>
-            </React.Fragment>
-        )
-    
-    
+            <div className="top-post">
+              <div className="featuredimage">
+                {" "}
+                {/*<img src={`/assets/${ fix_image_path(frontmatter.featuredimage)}`} loading="lazy" width="500" alt="" className="img-large-post"/> */}
+                {/*console.log("data file", data.file)*/}
+                <Img fluid={data.file.childImageSharp.fluid} />
+              </div>
+
+              <div className="short-description">
+                <Heading color="dark">{frontmatter.title}</Heading>
+                <div className="parpost light">{frontmatter.date}</div>
+                <div className="tags-div">
+                  {frontmatter.tags.map(tag => (
+                    <Link key={tag + `tag`} to={`/tags/${kebabCase(tag)}/`}>
+                      <div className="div-tag">{tag}</div>
+                    </Link>
+                  ))}
+                </div>
+
+                <div>
+                  <div className="parpost bold">
+                    Nivel de experiencia : {frontmatter.dificultad}
+                  </div>
+                </div>
+                <p className="parpost">{frontmatter.short_description}</p>
+              </div>
+            </div>
+            <a
+              target="_blank"
+              href="https://www.amazon.com.mx/gp/search/ref=as_li_qf_sp_sr_tl?ie=UTF8&tag=jagg1992-20&keywords=Funko Pop! Star Wars: Across The Galaxy - The Mandalorian Holding Grogu with Pin&index=aps&camp=1789&creative=9325&linkCode=ur2&linkId=c5a59b9c73504fd95501aa5f7ac7b5b9"
+            >
+              <PostBlockLarge
+                title="Funko Pop! Star Wars: Across The Galaxy"
+                img={funko}
+                nivel=""
+                description="Los funkos más vendidos de Star Wars , The Mandalorian y Marvel con el mejor precio y envío gratis* Da click para ver todos los modelos"
+              />
+            </a>
+
+            <div
+              className="div-text-post"
+              dangerouslySetInnerHTML={
+                frontmatter.mk1
+                  ? { __html: converter.makeHtml(frontmatter.mk1) }
+                  : { __html: converter.makeHtml(frontmatter.categoria) }
+              }
+            />
+            <div
+              className="div-text-post"
+              dangerouslySetInnerHTML={
+                frontmatter.mk2
+                  ? { __html: converter.makeHtml(frontmatter.mk2) }
+                  : { __html: converter.makeHtml(frontmatter.categoria) }
+              }
+            />
+            <div
+              className="div-text-post"
+              dangerouslySetInnerHTML={
+                frontmatter.mk3
+                  ? { __html: converter.makeHtml(frontmatter.mk3) }
+                  : { __html: converter.makeHtml(frontmatter.categoria) }
+              }
+            />
+            <div
+              className="div-text-post"
+              dangerouslySetInnerHTML={
+                frontmatter.mk4
+                  ? { __html: converter.makeHtml(frontmatter.mk4) }
+                  : { __html: converter.makeHtml(frontmatter.categoria) }
+              }
+            />
+            <div
+              className="div-text-post"
+              dangerouslySetInnerHTML={
+                frontmatter.mk5
+                  ? { __html: converter.makeHtml(frontmatter.mk5) }
+                  : { __html: converter.makeHtml(frontmatter.categoria) }
+              }
+            />
+
+            <div
+              className="div-text-post"
+              dangerouslySetInnerHTML={{ __html: html }}
+            />
+
+            <Link
+              key={frontmatter.categoria}
+              to={`/categorias/${kebabCase(frontmatter.categoria)}/`}
+            >
+              <div className="div-tag marginbottom">{`< Regresar a ${frontmatter.categoria}`}</div>
+            </Link>
+            <Link
+              key={frontmatter.categoria}
+              to={`/categorias/${kebabCase(frontmatter.categoria)}/`}
+            >
+              <div className="div-tag marginbottom">{`< Regresar a ${frontmatter.categoria}`}</div>
+            </Link>
+            <div className="parpost light">
+              antesdelexamen es una página de internet gratuita con bancos de
+              preguntas de examen para UNAM, IPN y todas las demás universidades
+              más importantes de México. Tenemos bancos de preguntas por materia
+              y por area. Bancos de preguntas Area 1, Bancos de preguntas Area
+              2, Bancos de preguntas area 3, Bancos de preguntas Area 4.
+              Simulacros UNAM , IPN, UAM, UAEM. Guía UNAM 2021, Guía IPN 2021.{" "}
+              <br></br>Agréganos en facebook buscando @antesdelexamen
+            </div>
+          </div>
+
+          <div className="div-grey-post"></div>
+        </div>
+      </Layout>
+    </React.Fragment>
+  )
 }
 
 export const pageQuery = graphql`
   query($slug: String!, $featuredimage: String!) {
     markdownRemark(
-      fileAbsolutePath: {regex: "/blog/"}
+      fileAbsolutePath: { regex: "/blog/" }
       frontmatter: { slug: { eq: $slug } }
-      ) {
+    ) {
       html
       frontmatter {
         date(formatString: "DD MMMM, YYYY")
@@ -154,7 +206,7 @@ export const pageQuery = graphql`
         mk5
       }
     }
-    file(relativePath: {eq: $featuredimage}) {
+    file(relativePath: { eq: $featuredimage }) {
       childImageSharp {
         fluid(maxWidth: 600, quality: 100) {
           ...GatsbyImageSharpFluid
