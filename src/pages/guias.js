@@ -17,7 +17,7 @@ export default function Home() {
   return (
     
     <React.Fragment> 
-      <Helmet title="Guias UNAM IPN UAM GRATIS | Antesdelexamen.com">
+      <Helmet title="Guias UNAM IPN UAM 2022 GRATIS | Antesdelexamen.com">
                 <meta name="description" content="Preparate para tu examen con las guias actualizadas 2021 para la UNAM"/>
       </Helmet>
     <Layout>
