@@ -14,18 +14,44 @@ short-description: >-
 
 
   Las revoluciones burguesas que fueron  producidas entre 1789 y 1848 dieron a un nuevo tipo de Estado
+mk1: Las revoluciones burguesas que fueron  producidas entre 1789 y 1848 dieron
+  a un nuevo tipo de Estado que los historiadores denominan liberal la ideología
+  que sustentaba estos regímenes es el denominado liberalismo que a mediados del
+  siglo XIX presentaba un doble aspecto político y económico
+mk2: >-
+  El liberalismo económico significaba respeto a las libertades ciudadanas e
+  individuales libertad de expresión, asociación, reunión, existencia de una
+  constitución inviolable que determinase los derechos y deberes de ciudadanos y
+  gobernantes; separación de poderes legislativo, ejecutivo y judicial para
+  evitar cualquier impedimento  y el derecho al voto, muchas veces limitado a
+  minorías.
+
+
+  La alta burguesía europea veía con preocupación cómo alrededor de las ciudades industriales iba surgiendo una masa de trabajadores necesita por tanto una doctrina que explicase esta hecho como inevitable lo cual tendrían  en consecuencia lo cual  sirviese para tranquilizar su propia inquietud.
+mk3: " Tal doctrina fue desarrollada por dos brillantes pensadores los cuales
+  eran  el escocés Adam Smith y el británico Thomas Malthus  Smith pensaba que
+  todo el sistema económico debía basarse en la ley de la oferta y la demanda
+  Para que un país prosperase los gobiernos debían abstenerse de intervenir en
+  el funcionamiento de esa ley natural los precios y los salarios se regularán
+  por sí solos, sin intervención alguna del estado no podía ser de otra manera
+  por cuanto si se dejaba una absoluta libertad económica, cada hombre, al
+  actuar buscando su propio beneficio, provocaría el enriquecimiento de la
+  sociedad en su conjunto."
+mk4: >-
+  **Socialismo Utópico** 
+
+
+  Con la revolución industrial, iniciada en la Inglaterra de fines del siglo XVIII el poder de la burguesía fue en aumento y el capitalismo contemporáneo se consolidó Este capitalismo basado en la propiedad privada de los medios de producción tenía como doctrina liberalismo económico el estado no debía intervenir en las cuestiones sociales y económicas Esto ocasionó la desprotección obrera y un indisimulable fortalecimiento de los grupos patronales.
+
+
+  Ese cuadro de situación explica la aparición durante la primera mitad del siglo XIX de la ideología socialista como oposición a las desmesuradas y falta de equidad del sistema capitalista Este primer socialismo de carácter predominantemente moral evidencia en su teorización, las influencias cristianas y románticas europeas de la época y propone a modo de solución a la problemática social una solución mística de la vida y las relaciones laborales y empresariales
+mk5: " recordaremos a tres grandes representantes de esa corriente Saint Simon
+  Ricardo Owen  y Louis Blanc El primero abogó por una sociedad basada en un
+  fuerte desarrollo industrial y gobernada por un conjunto de sabios banqueros y
+  empresarios que respetando normas morales básicas favorecieron a las clases
+  más humildes. El segundo, abogó por la organización obrera"
 ---
-Las revoluciones burguesas que fueron  producidas entre 1789 y 1848 dieron a un nuevo tipo de Estado que los historiadores denominan liberal la ideología que sustentaba estos regímenes es el denominado liberalismo que a mediados del siglo XIX presentaba un doble aspecto político y económico
 
-El liberalismo económico significaba respeto a las libertades ciudadanas e individuales libertad de expresión, asociación, reunión, existencia de una constitución inviolable que determinase los derechos y deberes de ciudadanos y gobernantes; separación de poderes legislativo, ejecutivo y judicial para evitar cualquier impedimento  y el derecho al voto, muchas veces limitado a minorías.
-
-La alta burguesía europea veía con preocupación cómo alrededor de las ciudades industriales iba surgiendo una masa de trabajadores necesita por tanto una doctrina que explicase esta hecho como inevitable lo cual tendrían  en consecuencia lo cual  sirviese para tranquilizar su propia inquietud. Tal doctrina fue desarrollada por dos brillantes pensadores los cuales eran  el escocés Adam Smith y el británico Thomas Malthus  Smith pensaba que todo el sistema económico debía basarse en la ley de la oferta y la demanda Para que un país prosperase los gobiernos debían abstenerse de intervenir en el funcionamiento de esa ley natural los precios y los salarios se regularán por sí solos, sin intervención alguna del estado no podía ser de otra manera por cuanto si se dejaba una absoluta libertad económica, cada hombre, al actuar buscando su propio beneficio, provocaría el enriquecimiento de la sociedad en su conjunto.
-
-**Socialismo Utópico** 
-
-Con la revolución industrial, iniciada en la Inglaterra de fines del siglo XVIII el poder de la burguesía fue en aumento y el capitalismo contemporáneo se consolidó Este capitalismo basado en la propiedad privada de los medios de producción tenía como doctrina liberalismo económico el estado no debía intervenir en las cuestiones sociales y económicas Esto ocasionó la desprotección obrera y un indisimulable fortalecimiento de los grupos patronales.
-
-Ese cuadro de situación explica la aparición durante la primera mitad del siglo XIX de la ideología socialista como oposición a las desmesuradas y falta de equidad del sistema capitalista Este primer socialismo de carácter predominantemente moral evidencia en su teorización, las influencias cristianas y románticas europeas de la época y propone a modo de solución a la problemática social una solución mística de la vida y las relaciones laborales y empresariales  recordaremos a tres grandes representantes de esa corriente Saint Simon Ricardo Owen  y Louis Blanc El primero abogó por una sociedad basada en un fuerte desarrollo industrial y gobernada por un conjunto de sabios banqueros y empresarios que respetando normas morales básicas favorecieron a las clases más humildes. El segundo, abogó por la organización obrera
 
 ![socialismo utópico](/assets/socialismoutopico.jpg "socialismo utópico ")
 
