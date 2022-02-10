@@ -19,11 +19,7 @@ import kebabCase from "lodash/kebabCase"
 import Img from "gatsby-image"
 import Metatags from "../components/metatags"
 
-function fix_image_path(image_path) {
-  return image_path.startsWith("../static/assets/")
-    ? image_path.slice(17)
-    : image_path
-}
+
 const converter = new showdown.Converter()
 export default function Template({
   data, // this prop will be injected by the GraphQL query below.

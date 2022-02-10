@@ -1,5 +1,4 @@
-
-import React from 'react'
+import React from "react"
 import { Helmet } from "react-helmet"
 import logoChico from "../images/logo_small.png"
 function fix_image_path(image_path) {
@@ -7,14 +6,14 @@ function fix_image_path(image_path) {
     ? image_path.slice(17)
     : image_path
 }
-const Metatags = (props) =>{
-return(
-        <Helmet >
-                <meta charSet="utf-8" />
-                <title>"Bancos de preguntas de examen| {props.title}"</title>
-                <meta name="description" content={props.short_description} />
-                <script type="application/ld+json">
-                  {`
+const Metatags = props => {
+  return (
+    <Helmet>
+      <meta charSet="utf-8" />
+      <title>"Bancos de preguntas de examen| {props.title}"</title>
+      <meta name="description" content={props.short_description} />
+      <script type="application/ld+json">
+        {`
                 {
                   "@context": "https://schema.org",
                   "@type": "BlogPosting",
@@ -24,7 +23,9 @@ return(
                   },
                   "headline": \"${props.title}\",
                   "description": \"${props.short_description}\",
-                  "image": "https://www.antesdelexamen.com/assets/${ fix_image_path(props.featuredimage)}",  
+                  "image": "https://www.antesdelexamen.com/assets/${fix_image_path(
+                    props.featuredimage
+                  )}",  
                   "author": {
                     "@type": "Organization",
                     "name": "antesdelexamen.com"
@@ -41,8 +42,8 @@ return(
                   "dateModified": \"${props.date}\"
                 }
                 `}
-                </script>
-        </Helmet>
-);
+      </script>
+    </Helmet>
+  )
 }
-export default Metatags;
+export default Metatags

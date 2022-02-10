@@ -10,7 +10,7 @@ import kebabCase from "lodash/kebabCase"
 // Components
 import { Helmet } from "react-helmet"
 
-const imageMapper ={
+const imageMapper = {
   Español: require("../images/slider/espanol.jpg"),
   Literatura: require("../images/slider/literatura.jpg"),
   Geografía: require("../images/slider/geografia.jpg"),
@@ -19,73 +19,84 @@ const imageMapper ={
   Biología: require("../images/slider/biologia.jpg"),
   PreguntasdeExamen: require("../images/slider/preguntasdeexamen.jpg"),
   Química: require("../images/slider/quimica.jpg"),
-  MejorescursosdepreparacionUNAMIPNUAMUAEM: require("../images/slider/cursosdepreparacion.jpg")
+  MejorescursosdepreparacionUNAMIPNUAMUAEM: require("../images/slider/cursosdepreparacion.jpg"),
 }
 
 const CategoriasPage = ({
   data: {
-    allMarkdownRemark: { group},
+    allMarkdownRemark: { group },
     site: {
       siteMetadata: { title },
     },
   },
 }) => (
-        <Layout>
-          <Helmet>
-                <meta charSet="utf-8" />
-                <title>"Bancos de preguntas de examen| Materias"</title>
-                <meta name="description" content="Ve todas las categorías de bancos de preguntas de examen y resumenes para temas de estudio. Estudia antes del examen con nosotros" />
-            </Helmet>
-          <meta name="description" content={`AntesDelExamen | Respuestas de examen de secundaria, preparatoria y universidad`}/>
-        <div>
-            <div>
-                <Heading color="dark" alignment="center">Todas las Materias Disponibles</Heading>
-                <div className="divpadding">
-                    {group.map(categoria => (
-                        <ul key={categoria.fieldValue}>
-                            <Link to={`/categorias/${kebabCase(categoria.fieldValue)}/`}>
-                                <InfoBlock title={categoria.fieldValue}  img={imageMapper[(categoria.fieldValue).split(' ').join('')]} description={`Ve todos los temas que tenemos para preparar tu examen de ${categoria.fieldValue}`}/>
-                            </Link>
-                        </ul>
-                        
-                    ))}
-                </div>
-            </div>
+  <Layout>
+    <Helmet>
+      <meta charSet="utf-8" />
+      <title>"Bancos de preguntas de examen| Materias"</title>
+      <meta
+        name="description"
+        content="Ve todas las categorías de bancos de preguntas de examen y resumenes para temas de estudio. Estudia antes del examen con nosotros"
+      />
+    </Helmet>
+    <meta
+      name="description"
+      content={`AntesDelExamen | Respuestas de examen de secundaria, preparatoria y universidad`}
+    />
+    <div>
+      <div>
+        <Heading color="dark" alignment="center">
+          Todas las Materias Disponibles
+        </Heading>
+        <div className="divpadding">
+          {group.map(categoria => (
+            <ul key={categoria.fieldValue}>
+              <Link to={`/categorias/${kebabCase(categoria.fieldValue)}/`}>
+                <InfoBlock
+                  title={categoria.fieldValue}
+                  img={imageMapper[categoria.fieldValue.split(" ").join("")]}
+                  description={`Ve todos los temas que tenemos para preparar tu examen de ${categoria.fieldValue}`}
+                />
+              </Link>
+            </ul>
+          ))}
         </div>
-        </Layout>
-    )
+      </div>
+    </div>
+  </Layout>
+)
 
 CategoriasPage.propTypes = {
-    data: PropTypes.shape({
-        allMarkdownRemark: PropTypes.shape({
-            group: PropTypes.arrayOf(
-                PropTypes.shape({
-                    fieldValue: PropTypes.string.isRequired,
-                    totalCount: PropTypes.number.isRequired,
-                }).isRequired
-            ),
-        }),
-        site: PropTypes.shape({
-            siteMetadata: PropTypes.shape({
-                title: PropTypes.string.isRequired,
-            }),
-        }),
+  data: PropTypes.shape({
+    allMarkdownRemark: PropTypes.shape({
+      group: PropTypes.arrayOf(
+        PropTypes.shape({
+          fieldValue: PropTypes.string.isRequired,
+          totalCount: PropTypes.number.isRequired,
+        }).isRequired
+      ),
     }),
+    site: PropTypes.shape({
+      siteMetadata: PropTypes.shape({
+        title: PropTypes.string.isRequired,
+      }),
+    }),
+  }),
 }
 
 export default CategoriasPage
 
 export const pageQuery = graphql`
   query {
-  site {
-    siteMetadata {
-      title
+    site {
+      siteMetadata {
+        title
+      }
+    }
+    allMarkdownRemark(limit: 2000) {
+      group(field: frontmatter___categoria) {
+        fieldValue
+      }
     }
   }
-  allMarkdownRemark(limit: 2000) {
-    group(field: frontmatter___categoria) {
-      fieldValue
-    }
-  }
-}
 `

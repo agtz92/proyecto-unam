@@ -17,45 +17,52 @@ const TagsPage = ({
     },
   },
 }) => (
-        <Layout>
-          <Helmet>
-                <meta charSet="utf-8" />
-                <title>"Bancos de preguntas de examen| Tags"</title>
-                <meta name="description" content="Ve todos los tags de bancos de preguntas de examen y resumenes para temas de estudio. Estudia antes del examen con nosotros" />
-            </Helmet>
-        <div>
-            <div>
-                <Heading color="dark" alignment="center">Todos los Tags</Heading>
-                <ul>
-                    {group.map(tag => (
-                        <li key={tag.fieldValue}>
-                            <Link to={`/tags/${kebabCase(tag.fieldValue)}/`}>
-                               <h3>{tag.fieldValue} ({tag.totalCount})</h3> 
-                            </Link>
-                        </li>
-                    ))}
-                </ul>
-            </div>
-        </div>
-        </Layout>
-    )
+  <Layout>
+    <Helmet>
+      <meta charSet="utf-8" />
+      <title>"Bancos de preguntas de examen| Tags"</title>
+      <meta
+        name="description"
+        content="Ve todos los tags de bancos de preguntas de examen y resumenes para temas de estudio. Estudia antes del examen con nosotros"
+      />
+    </Helmet>
+    <div>
+      <div>
+        <Heading color="dark" alignment="center">
+          Todos los Tags
+        </Heading>
+        <ul>
+          {group.map(tag => (
+            <li key={tag.fieldValue}>
+              <Link to={`/tags/${kebabCase(tag.fieldValue)}/`}>
+                <h3>
+                  {tag.fieldValue} ({tag.totalCount})
+                </h3>
+              </Link>
+            </li>
+          ))}
+        </ul>
+      </div>
+    </div>
+  </Layout>
+)
 
 TagsPage.propTypes = {
-    data: PropTypes.shape({
-        allMarkdownRemark: PropTypes.shape({
-            group: PropTypes.arrayOf(
-                PropTypes.shape({
-                    fieldValue: PropTypes.string.isRequired,
-                    totalCount: PropTypes.number.isRequired,
-                }).isRequired
-            ),
-        }),
-        site: PropTypes.shape({
-            siteMetadata: PropTypes.shape({
-                title: PropTypes.string.isRequired,
-            }),
-        }),
+  data: PropTypes.shape({
+    allMarkdownRemark: PropTypes.shape({
+      group: PropTypes.arrayOf(
+        PropTypes.shape({
+          fieldValue: PropTypes.string.isRequired,
+          totalCount: PropTypes.number.isRequired,
+        }).isRequired
+      ),
     }),
+    site: PropTypes.shape({
+      siteMetadata: PropTypes.shape({
+        title: PropTypes.string.isRequired,
+      }),
+    }),
+  }),
 }
 
 export default TagsPage

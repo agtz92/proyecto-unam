@@ -1,5 +1,3 @@
-
-
 module.exports = {
   siteMetadata: {
     title: `Antes del Examen | Temas resumidos para cualquier materia`,
@@ -7,7 +5,7 @@ module.exports = {
     description: `Estudia antes de tu examen de Espanol, Geografia, Literatura, Biologia, Historia y mas!`,
   },
   plugins: [
-     {
+    {
       resolve: `gatsby-plugin-google-gtag`,
       options: {
         // You can add multiple tracking ids and a pageview event will be fired for all of them.
@@ -39,29 +37,28 @@ module.exports = {
     `gatsby-plugin-react-helmet`,
     `gatsby-plugin-sitemap`,
     {
-      resolve: 'gatsby-plugin-robots-txt',
+      resolve: "gatsby-plugin-robots-txt",
       options: {
-        host: 'https://www.antesdelexamen.com/',
-        sitemap: 'https://www.antesdelexamen.com/sitemap.xml',
-        policy: [{ userAgent: '*', allow: '/' }]
-      }
+        host: "https://www.antesdelexamen.com/",
+        sitemap: "https://www.antesdelexamen.com/sitemap.xml",
+        policy: [{ userAgent: "*", allow: "/" }],
+      },
     },
     {
       //assets go above everything else to avoid failures when using gatsby-remark-relative-images
       resolve: `gatsby-source-filesystem`,
       options: {
-          path: `${__dirname}/src/images/slider`,
-          name: 'images-slider',
-               },
+        path: `${__dirname}/src/images/slider`,
+        name: "images-slider",
+      },
     },
     {
       //assets go above everything else to avoid failures when using gatsby-remark-relative-images
       resolve: `gatsby-source-filesystem`,
       options: {
-          name: 'images',
-          path: `${__dirname}/static/assets`,
-          
-               },
+        name: "images",
+        path: `${__dirname}/static/assets`,
+      },
     },
     {
       resolve: `gatsby-source-filesystem`,
@@ -70,7 +67,7 @@ module.exports = {
         path: `${__dirname}/blog`,
       },
     },
-     "gatsby-plugin-sharp",
+    "gatsby-plugin-sharp",
     "gatsby-transformer-sharp",
     {
       resolve: `gatsby-transformer-remark`,
@@ -82,7 +79,7 @@ module.exports = {
             options: {
               // [Optional] The root of "media_folder" in your config.yml
               // Defaults to "static"
-              staticFolderName: 'static',
+              staticFolderName: "static",
               // [Optional] Include the following fields, use dot notation for nested fields
               // All fields are included by default
               //include: ['featured'],
@@ -100,48 +97,47 @@ module.exports = {
         ],
       },
     },
-    
-     {
-      resolve: 'gatsby-plugin-flexsearch',
+
+    {
+      resolve: "gatsby-plugin-flexsearch",
       options: {
-        languages: ['en'],
-        type: 'MarkdownRemark',
+        languages: ["en"],
+        type: "MarkdownRemark",
         fields: [
           {
-            name: 'title',
+            name: "title",
             indexed: true,
-            resolver: 'frontmatter.title',
+            resolver: "frontmatter.title",
             attributes: {
-              encode: 'balance',
-              tokenize: 'forward',
+              encode: "balance",
+              tokenize: "forward",
               threshold: 6,
               depth: 3,
             },
             store: true,
           },
           {
-            name: 'description',
+            name: "description",
             indexed: true,
-            resolver: 'frontmatter.short_description',
+            resolver: "frontmatter.short_description",
             attributes: {
-              encode: 'balance',
-              tokenize: 'forward',
+              encode: "balance",
+              tokenize: "forward",
               threshold: 9,
               depth: 3,
             },
             store: true,
           },
           {
-            name: 'url',
+            name: "url",
             indexed: false,
-            resolver: 'frontmatter.slug',
+            resolver: "frontmatter.slug",
             store: true,
           },
         ],
       },
     },
-    
-    
+
     /*{
       resolve: `gatsby-source-filesystem`,
       options: {
@@ -149,8 +145,7 @@ module.exports = {
         path: `${__dirname}/cms/categorias`,
       },
     },*/
-    
-    `gatsby-plugin-netlify-cms`
-    
-  ]
+
+    `gatsby-plugin-netlify-cms`,
+  ],
 }

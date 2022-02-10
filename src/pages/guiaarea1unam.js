@@ -7,41 +7,62 @@ import PostBlockLarge from "../components/postblocklarge"
 import Layout from "../layouts/layout"
 import guia from "../images/guias/GuiaArea1.pdf"
 import unam from "../images/UNAM.jpg"
-import '../styles/normalize.css'
+import "../styles/normalize.css"
 import "../styles/webflow.css"
 import "../styles/soynuevo.webflow.css"
 
-
 export default function Home() {
-  
   return (
-    
-    <React.Fragment> 
+    <React.Fragment>
       <Helmet title="Temas resumidos para antes del examen | Guias UNAM 2021">
-                <meta name="description" content="Preparate para tu examen con las guias actualizadas 2021 para la UNAM"/>
+        <meta
+          name="description"
+          content="Preparate para tu examen con las guias actualizadas 2021 para la UNAM"
+        />
       </Helmet>
-    <Layout>
-    <div style={{margin: "2%"}}>
-        <Heading color="dark" alignment="center">Guías para Area 1 UNAM</Heading>
-        <h2>En esta página puedes encontrar la guía más reciente publicada por la UNAM. Da click en el botón para descargarla</h2>
-        <a href={guia} download><div className="div-tag">Descargar Guía</div></a>
-        <Heading color="gold" alignment ="left">Te puede interesar también</Heading>
-        <li>
+      <Layout>
+        <div style={{ margin: "2%" }}>
+          <Heading color="dark" alignment="center">
+            Guías para Area 1 UNAM
+          </Heading>
+          <h2>
+            En esta página puedes encontrar la guía más reciente publicada por
+            la UNAM. Da click en el botón para descargarla
+          </h2>
+          <a href={guia} download>
+            <div className="div-tag">Descargar Guía</div>
+          </a>
+          <Heading color="gold" alignment="left">
+            Te puede interesar también
+          </Heading>
+          <li>
             <Link to={`/guiaarea2unam/`}>
-                <PostBlockLarge title="Guia Area 2 UNAM" img={unam} nivel="Universidad" description="Guía UNAM Area 2 2021. Guía más reciente para Area 2 admisión de la UNAM."/>
+              <PostBlockLarge
+                title="Guia Area 2 UNAM"
+                img={unam}
+                nivel="Universidad"
+                description="Guía UNAM Area 2 2021. Guía más reciente para Area 2 admisión de la UNAM."
+              />
             </Link>
             <Link to={`/guiaarea3unam/`}>
-                <PostBlockLarge title="Guia Area 3 UNAM" img={unam} nivel="Universidad" description="Guía UNAM Area 3 2021. Guía más reciente para Area 3 admisión de la UNAM."/>
+              <PostBlockLarge
+                title="Guia Area 3 UNAM"
+                img={unam}
+                nivel="Universidad"
+                description="Guía UNAM Area 3 2021. Guía más reciente para Area 3 admisión de la UNAM."
+              />
             </Link>
             <Link to={`/guiaarea4unam/`}>
-                <PostBlockLarge title="Guia Area 4 UNAM" img={unam} nivel="Universidad" description="Guía UNAM Area 4 2021. Guía más reciente para Area 4 admisión de la UNAM."/>
+              <PostBlockLarge
+                title="Guia Area 4 UNAM"
+                img={unam}
+                nivel="Universidad"
+                description="Guía UNAM Area 4 2021. Guía más reciente para Area 4 admisión de la UNAM."
+              />
             </Link>
-        </li>
-      </div>
+          </li>
+        </div>
       </Layout>
     </React.Fragment>
-
-    
   )
-  
 }
