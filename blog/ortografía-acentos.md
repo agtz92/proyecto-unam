@@ -13,42 +13,75 @@ short-description: |-
   Uso de los diferentes tipos de acentos:
 
   Acento diacrítico, Acento enfático, Acento prosódico, Acento ortográfico.
+mk1: >-
+  El acento unas veces se escribe y otras veces no, siguiendo determinadas
+  reglas que veremos más adelante. Cuando se escribe, se llama acento gráfico o
+  tilde. Cómo se escribe el acento en español: a veces se escribe, a veces no
+
+
+  Hay ciertas reglas que rigen cuando se escribe el acento en español. Cuando se escribe, se llama acento gráfico o tilde. En este artículo, exploraremos cuándo se debe y cuándo no se debe escribir el acento, y proporcionaremos algunos consejos para hacerlo correctamente.
+mk2: El acento generalmente no se escribe cuando no se pronuncia. Por ejemplo,
+  la palabra cámara no lleva tilde porque la a no se pronuncia. Sin embargo, la
+  palabra café lleva tilde porque la e se pronuncia.  Hay ciertas reglas que se
+  aplican al escribir el acento en español. Cuando se escribe, se denomina
+  acento gráfico o tilde. En este artículo, exploraremos cuándo se debe escribir
+  el acento y cuándo no
+mk3: >-
+  **Acento diacrítico**- El acento diacrítico es la que permite distinguir de
+  una sílaba tónica a una sílaba átona, estas son llevadas a cabo en un
+  monosílaba que se utilizan en diferente modo, si es que lleva un acento
+  diacrítico con su tilde corresponde  a un adverbio comparativo.
+
+
+  El uso del acento diacrítico también aparece en pronombres, exclamativos y en los pronombres interrogativos es el que se usa cuando si es una pregunta o exclamación.
+
+
+   Ejemplos:
+
+
+  Aún- Adverbio de tiempo
+
+
+  Cuándo- Adverbio interrogativo de tiempo
+
+
+  Cómo- Adverbio interrogativo o exclamativo  
+
+
+  Cuál- Adverbio interrogativo o exclamativo 
+
+
+  Cuánto- Adverbio interrogativo o exclamativo
+mk4: >-
+  ![acentos ](/assets/acentos.jpg "acentos ")
+
+
+  **Acento Enfático-**  El acento enfático permite diferenciar entre dos palabras a través de la pronunciación y esta se lleva a cabo en la escritura pero no siempre está representado por una tilde en la sílaba, este hace más referencia a un aspecto oral, ya que estas no alteran el sentido básico del lenguaje.
+mk5: >-
+  Ejemplos:
+
+
+  ¡Quién te crees que eres!
+
+
+  No sé quién es el dueño de esta empresa 
+
+
+  ¿Cuánto le debo, Don Jorge?
+
+
+  No me digas por cuánto tiempo te vas 
+
+
+  ¿Qué te gustaría que te regale? 
+
+
+  **Acento Prosódico-**  El acento prosódico es con la que se pronuncia determinada sílaba de una palabra  esto hace que se diferencie de otras palabras, estas NO se marca con tilde
+
+
+  Esta se nota en la sílaba donde recae la mayor fuerza en pronunciarla, este acento solo existe en el habla, es el único que no se presenta en la escritura.
 ---
-**Acento diacrítico**- El acento diacrítico es la que permite distinguir de una sílaba tónica a una sílaba átona, estas son llevadas a cabo en un monosílaba que se utilizan en diferente modo, si es que lleva un acento diacrítico con su tilde corresponde  a un adverbio comparativo.
 
-El uso del acento diacrítico también aparece en pronombres, exclamativos y en los pronombres interrogativos es el que se usa cuando si es una pregunta o exclamación.
-
- Ejemplos:
-
-Aún- Adverbio de tiempo
-
-Cuándo- Adverbio interrogativo de tiempo
-
-Cómo- Adverbio interrogativo o exclamativo  
-
-Cuál- Adverbio interrogativo o exclamativo 
-
-Cuánto- Adverbio interrogativo o exclamativo 
-
-![acentos ](/assets/acentos.jpg "acentos ")
-
-**Acento Enfático-**  El acento enfático permite diferenciar entre dos palabras a través de la pronunciación y esta se lleva a cabo en la escritura pero no siempre está representado por una tilde en la sílaba, este hace más referencia a un aspecto oral, ya que estas no alteran el sentido básico del lenguaje.
-
-Ejemplos:
-
-¡Quién te crees que eres!
-
-No sé quién es el dueño de esta empresa 
-
-¿Cuánto le debo, Don Jorge?
-
-No me digas por cuánto tiempo te vas 
-
-¿Qué te gustaría que te regale? 
-
-**Acento Prosódico-**  El acento prosódico es con la que se pronuncia determinada sílaba de una palabra  esto hace que se diferencie de otras palabras, estas NO se marca con tilde
-
-Esta se nota en la sílaba donde recae la mayor fuerza en pronunciarla, este acento solo existe en el habla, es el único que no se presenta en la escritura.
 
 Ejemplos:
 
