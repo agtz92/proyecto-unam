@@ -16,7 +16,7 @@ short-description: |-
 mk1: >-
   El acento unas veces se escribe y otras veces no, siguiendo determinadas
   reglas que veremos más adelante. Cuando se escribe, se llama acento gráfico o
-  tilde. Cómo se escribe el acento en español: a veces se escribe, a veces no
+  tilde. Cómo se escribe el acento en español: a veces se escribe, a 
 
 
   Hay ciertas reglas que rigen cuando se escribe el acento en español. Cuando se escribe, se llama acento gráfico o tilde. En este artículo, exploraremos cuándo se debe y cuándo no se debe escribir el acento, y proporcionaremos algunos consejos para hacerlo correctamente.
