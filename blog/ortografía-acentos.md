@@ -20,12 +20,16 @@ mk1: >-
 
 
   Hay ciertas reglas que rigen cuando se escribe el acento en español. Cuando se escribe, se llama acento gráfico o tilde. En este artículo, exploraremos cuándo se debe y cuándo no se debe escribir el acento, y proporcionaremos algunos consejos para hacerlo correctamente.
-mk2: El acento generalmente no se escribe cuando no se pronuncia. Por ejemplo,
-  la palabra cámara no lleva tilde porque la a no se pronuncia. Sin embargo, la
-  palabra café lleva tilde porque la e se pronuncia.  Hay ciertas reglas que se
-  aplican al escribir el acento en español. Cuando se escribe, se denomina
-  acento gráfico o tilde. En este artículo, exploraremos cuándo se debe escribir
-  el acento y cuándo no
+mk2: >-
+  Para diferenciar palabras que se escriben de la misma forma pero tienen
+  distinto significado, según donde lleven el acento, se utiliza la tilde
+  diacrítica,.
+
+
+  Los monosílabos, en general, no llevan tilde, porque no es necesario saber cual es la sílaba tónica, únicamente utilizan la tilde diacrítica
+
+
+  Según las últimas modificaciones de la RAE, un grupo de palabras que se escribían tradicionalmente con tilde por resultar bisílabas (terminadas en -n, -s o vocal), pasan a considerarse monosílabas a efectos de acentuación gráfica y por tanto se escriben sin tilde.
 mk3: >-
   **Acento diacrítico**- El acento diacrítico es la que permite distinguir de
   una sílaba tónica a una sílaba átona, estas son llevadas a cabo en un
