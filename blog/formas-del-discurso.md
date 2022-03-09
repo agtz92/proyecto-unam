@@ -19,6 +19,9 @@ mk1: >-
   las cuales son empleadas
 
   Podemos entender el texto como el conjunto de ideas expresadas a través de oraciones ordenadas; es por medio de los textos que un mensaje de gran impacto es comunicado. Dentro de la lengua española hay diferentes tipos de textos y su clasificación dependerá de la intención comunicativa
+
+
+  Podemos entender el texto como el conjunto de ideas expresadas a través de oraciones ordenadas; es por medio de los textos que un mensaje de gran impacto es comunicado. Dentro de la lengua española hay diferentes tipos de textos y su clasificación dependerá de la intención comunicativa, es decir, del propósito que se quiere alcanzar a la hora de su presentación
 mk2: >-
   **° Formas del discurso**- son diferentes modos de expresión que pueden
   adoptar en algún texto, tradicionalmente se desarrollan como 5: Narración,
