@@ -37,13 +37,14 @@ mk3: >-
   pasión o situaciones a ciertos estados de tensión lo que significa nudo, el
   cual siempre acaba en un desenlace funesto o trágico para estos personajes 
 
+
   ### Las claves de la tragedia
 
 
   Personajes: nobles e ilustres 
 
 
-  \*\*Final: Trágico y funesto\*\* 
+  Final: Trágico y funesto
 
 
   ### Comedia 
