@@ -9,39 +9,65 @@ tags:
   - polaridad
   - puentesgidrogenos
   - enlace
-short-description: >-
-  
+short-description: "## Polaridad y puente de hidrógeno"
+mk1: El enlace o “puente” de hidrógeno es un tipo de enlace muy particular, que
+  aunque en algunos aspectos resulta similar a las interacciones de tipo
+  dipolo-dipolo, tiene características especiales.
+mk2: >-
+  **El enlace o “puente” de hidrógeno** es un tipo de enlace muy particular, que
+  aunque en algunos aspectos resulta similar a las interacciones de tipo
+  dipolo-dipolo, tiene características especiales. Es un tipo específico de
+  interacción polar que se establece entre dos átomos significativamente
+  electronegativos, generalmente O o N, y un átomo de H, unido covalentemente a
+  uno de los dos átomos electronegativos. En un enlace de hidrógeno tenemos que
+  distinguir entre el átomo DADOR del hidrógeno (aquel al que está unido
+  covalentemente el hidrógeno) y el ACEPTOR, que es al átomo de O o N al cual se
+  va a enlazar el hidrógeno.
 
-  Polaridad y puente de hidrógeno 
+
+  </br></br>
+mk3: >-
+  **La noción de puente de hidrógeno** se emplea en el ámbito de la química. El
+  concepto se refiere a una clase de enlace que se produce a partir de la
+  atracción existente entre un átomo de hidrógeno y un átomo de oxígeno, flúor o
+  nitrógeno con carga negativa. Dicha atracción, por su parte, se conoce como
+  interacción dipolo-dipolo y vincula el polo positivo de una molécula con el
+  polo negativo de otra.
 
 
-  El enlace o “puente” de hidrógeno es un tipo de enlace muy particular, que aunque en algunos aspectos resulta similar a las interacciones de tipo dipolo-dipolo, tiene características especiales.
+  **El puente de hidrógeno** puede vincular distintas moléculas e incluso sectores diferentes de una misma molécula. El átomo de hidrógeno, que cuenta con carga positiva, se conoce como átomo donante, mientras que el átomo de oxígeno, flúor o nitrógeno es el átomo aceptor del enlace.
+
+
+  </br></br>
+mk4: >-
+  Los puentes de hidrógeno aparecen en el ADN, el agua y las proteínas, por
+  ejemplo. Debido a su existencia, se producen fenómenos de gran importancia,
+  que incluso aparecen de manera cotidiana. El punto de ebullición del agua, la
+  menor densidad del hielo respecto al agua líquida y la consistencia de la
+  glicerina están vinculados a la presencia de puentes de hidrógeno en las
+  moléculas.
+
+
+  ![quimica](/assets/quimica.jpg "puente")
+mk5: >-
+  </br></br>
+
+
+  Además de todo lo expuesto, merece la pena conocer a fondo otra serie de datos importantes acerca de los llamados puentes de hidrógeno:
+
+
+  **\-En la sustancia en la que resultan más efectivos es en el agua.**
+
+
+  \-Diversos son los trabajos e investigaciones que, a lo largo de los años, se han realizado sobre los puentes de ese tipo. No obstante, una de las más significativas es la que establece que la distancia entre los átomos de oxígeno que toman parte en aquellos es de 0,28 nm, es decir, 0,28 nanómetros.
+
+
+  \-Se puede decir que vienen a ser un caso singular en cuanto a la interacción de clase dipolo – dipolo.
+
+
+  \-De entre todo el conjunto de fuerzas intermoleculares que existen, se considera que los puentes que estamos abordando son, sin lugar a dudas, los que tienen mayor entidad. Y es que su fuerza puede alcanzar hasta los 155 KJ por mol.
 ---
-El enlace o “puente” de hidrógeno es un tipo de enlace muy particular, que aunque en algunos aspectos resulta similar a las interacciones de tipo dipolo-dipolo, tiene características especiales. Es un tipo específico de interacción polar que se establece entre dos átomos significativamente electronegativos, generalmente O o N, y un átomo de H, unido covalentemente a uno de los dos átomos electronegativos. En un enlace de hidrógeno tenemos que distinguir entre el átomo DADOR del hidrógeno (aquel al que está unido covalentemente el hidrógeno) y el ACEPTOR, que es al átomo de O o N al cual se va a enlazar el hidrógeno.
 
-</br></br>
-
-La noción de puente de hidrógeno se emplea en el ámbito de la química. El concepto se refiere a una clase de enlace que se produce a partir de la atracción existente entre un átomo de hidrógeno y un átomo de oxígeno, flúor o nitrógeno con carga negativa. Dicha atracción, por su parte, se conoce como interacción dipolo-dipolo y vincula el polo positivo de una molécula con el polo negativo de otra.
-
-El puente de hidrógeno puede vincular distintas moléculas e incluso sectores diferentes de una misma molécula. El átomo de hidrógeno, que cuenta con carga positiva, se conoce como átomo donante, mientras que el átomo de oxígeno, flúor o nitrógeno es el átomo aceptor del enlace.
-
-</br></br>
-
-Los puentes de hidrógeno aparecen en el ADN, el agua y las proteínas, por ejemplo. Debido a su existencia, se producen fenómenos de gran importancia, que incluso aparecen de manera cotidiana. El punto de ebullición del agua, la menor densidad del hielo respecto al agua líquida y la consistencia de la glicerina están vinculados a la presencia de puentes de hidrógeno en las moléculas.
-
-![quimica](/assets/quimica.jpg "puente")
-
-</br></br>
-
-Además de todo lo expuesto, merece la pena conocer a fondo otra serie de datos importantes acerca de los llamados puentes de hidrógeno:
-
-\-En la sustancia en la que resultan más efectivos es en el agua.
-
-\-Diversos son los trabajos e investigaciones que, a lo largo de los años, se han realizado sobre los puentes de ese tipo. No obstante, una de las más significativas es la que establece que la distancia entre los átomos de oxígeno que toman parte en aquellos es de 0,28 nm, es decir, 0,28 nanómetros.
-
-\-Se puede decir que vienen a ser un caso singular en cuanto a la interacción de clase dipolo – dipolo.
-
-\-De entre todo el conjunto de fuerzas intermoleculares que existen, se considera que los puentes que estamos abordando son, sin lugar a dudas, los que tienen mayor entidad. Y es que su fuerza puede alcanzar hasta los 155 KJ por mol.
 
 \-Los átomos que, por regla general, son los que participan en el desarrollo y creación de puentes de hidrógeno son el flúor, el nitrógeno o el cloro.
 
