@@ -19,7 +19,9 @@ const imageMapper = {
   Biología: require("../images/slider/biologia.jpg"),
   PreguntasdeExamen: require("../images/slider/preguntasdeexamen.jpg"),
   Química: require("../images/slider/quimica.jpg"),
+  Contabilidad: require("../images/slider/contabilidad.jpg"),
   MejorescursosdepreparacionUNAMIPNUAMUAEM: require("../images/slider/cursosdepreparacion.jpg"),
+  
 }
 
 const CategoriasPage = ({

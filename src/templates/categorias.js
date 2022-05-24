@@ -8,7 +8,7 @@ import InfoBlock from "../components/infoblock"
 import CategoryHeader from "../components/categoryHeader"
 import matmarkt from "../images/partners/matmarkt.jpg"
 import corthw from "../images/partners/corthw.jpg"
-import tiktok from "../../static/assets/cuadborrable.jpg"
+import tiktok from "../images/slider/contabilidad.jpg"
 
 // Components
 import { Link, graphql } from "gatsby"
@@ -22,7 +22,9 @@ const imageMapper = {
   Biología: require("../images/slider/biologia.jpg"),
   PreguntasdeExamen: require("../images/slider/preguntasdeexamen.jpg"),
   Química: require("../images/slider/quimica.jpg"),
+  Contabilidad: require("../images/slider/contabilidad.jpg"),
   MejorescursosdepreparacionUNAMIPNUAMUAEM: require("../images/slider/cursosdepreparacion.jpg"),
+  
 }
 
 function fix_image_path(image_path) {
@@ -56,13 +58,13 @@ const Categorias = ({ pageContext, data }) => {
           />
           <a
             target="_blank"
-            href="https://www.amazon.com.mx/gp/product/B0876RCSBK/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0876RCSBK&linkCode=as2&tag=jagg1992-20&linkId=ccd5ec4f65489ea53416aef87a7071a7"
+            href="https://amzn.to/3yVEl41"
           >
             <PostBlockLarge
-              title="Cuaderno Inteligente Borrable para que estudies!"
+              title="Ahorra en estos productos con Amazon!"
               img={tiktok}
               nivel=""
-              description="YL TRD Cuaderno inteligente borrable Cuaderno de tapa dura reutilizable de 50 hojas en tamaño A5 (215 mm * 145 mm) incluye 3 bolígrafos borrables (A5)"
+              description="Da click en el link para ver todos los productos donde puedes ahorrar!!!!"
             />
           </a>
 
