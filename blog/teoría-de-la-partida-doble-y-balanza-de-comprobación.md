@@ -1,6 +1,6 @@
 ---
 title: TEORÍA DE LA PARTIDA DOBLE Y BALANZA DE COMPROBACIÓN
-slug: teoria
+slug: teoria-de-la-partida-doble
 featuredimage: /assets/doble.jpg
 date: 2022-06-28T17:30:14.980Z
 dificultad: Preparatoria / Universidad
