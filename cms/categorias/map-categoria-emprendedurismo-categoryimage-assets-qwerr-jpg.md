@@ -1,4 +1,4 @@
 ---
 categoria: Emprendedurismo
-categoryimage: /assets/qwerr.jpg
+categoryimage: /assets/emprendedurismo.jpg
 ---
