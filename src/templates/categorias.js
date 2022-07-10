@@ -13,21 +13,11 @@ import tiktok from "../images/slider/contabilidad.jpg"
 // Components
 import { Link, graphql } from "gatsby"
 
-const imageMapper = {
-  Español: require("../images/slider/espanol.jpg"),
-  Literatura: require("../images/slider/literatura.jpg"),
-  Geografía: require("../images/slider/geografia.jpg"),
-  HistoriaUniversal: require("../images/slider/historia.jpg"),
-  HistoriadeMéxico: require("../images/slider/historiamexico.jpg"),
-  Biología: require("../images/slider/biologia.jpg"),
-  PreguntasdeExamen: require("../images/slider/preguntasdeexamen.jpg"),
-  Química: require("../images/slider/quimica.jpg"),
-  Contabilidad: require("../images/slider/contabilidad.jpg"),
-  Mercadotencia: require("../images/slider/mercadotecnia.jpg"),
-  Emprendedurismo: require("../images/slider/emprendedurismo.jpg"),
-  MejorescursosdepreparacionUNAMIPNUAMUAEM: require("../images/slider/cursosdepreparacion.jpg"),
-  
-}
+//Array de materias con imagenes
+let materias = require("../exports/exports.js");
+
+//image mapper ligado a array de materias
+const imageMapper = materias.array;
 
 function fix_image_path(image_path) {
   return image_path.startsWith("../static/assets/")
