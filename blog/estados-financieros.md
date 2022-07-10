@@ -1,7 +1,7 @@
 ---
 title: ESTADOS FINANCIEROS
 slug: ESTADOS-FINANCIEROS
-featuredimage: /assets/caa.jpg
+featuredimage: caa.jpg
 date: 2022-07-04T02:30:40.629Z
 dificultad: Preparatoria / Universidad
 categoria: Contabilidad

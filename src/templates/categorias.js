@@ -23,6 +23,8 @@ const imageMapper = {
   PreguntasdeExamen: require("../images/slider/preguntasdeexamen.jpg"),
   Química: require("../images/slider/quimica.jpg"),
   Contabilidad: require("../images/slider/contabilidad.jpg"),
+  Mercadotencia: require("../images/slider/mercadotecnia.jpg"),
+  Emprendedurismo: require("../images/slider/emprendedurismo.jpg"),
   MejorescursosdepreparacionUNAMIPNUAMUAEM: require("../images/slider/cursosdepreparacion.jpg"),
   
 }
