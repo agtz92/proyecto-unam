@@ -1,4 +1,4 @@
 ---
 categoria: Emprendedurismo
-categoryimage: /assets/emprendedurismo.jpg
+categoryimage: /assets/webp.net-resizeimage-3-min.jpg
 ---
