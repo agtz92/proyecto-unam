@@ -1,7 +1,7 @@
 ---
 title: CONTABILIDAD ADMINISTRATIVA
 slug: contabilidad-administrativa
-featuredimage: /assets/qedc.jfif
+featuredimage: qedc.jfif
 date: 2022-07-13T03:51:48.966Z
 dificultad: Preparatoria / Universidad
 categoria: Contabilidad
