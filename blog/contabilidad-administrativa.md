@@ -1,14 +1,14 @@
 ---
-title: CONTABILIDAD ADMINISTRATIVA
+title: Contabilidad Administrativa
 slug: contabilidad-administrativa
-featuredimage: qedc.jfif
+featuredimage: /assets/contabilidad.jpg
 date: 2022-07-13T03:51:48.966Z
 dificultad: Preparatoria / Universidad
 categoria: Contabilidad
 tags:
   - "#Contabilidad"
   - "#administracion"
-  - "#diferecnicas"
+  - "#diferencias"
 short-description: Con este post aprendemos un poco mas de la contabilidad administrativa
 mk1: >-
   ## CONCEPTO DE CONTABILIDAD ADMINISTRATIVA
@@ -162,12 +162,15 @@ mk3: >-
 
 
   La ciencia actuarial incluye una serie de temas interrelacionados avanzados en probabilidad La ciencia actuarial incluye una serie de temas interrelacionados avanzados en probabilidad, matemáticas La ciencia actuarial incluye una serie de temas interrelacionados avanzados en probabilidad, matemáticas, estadística La ciencia actuarial incluye una serie de temas interrelacionados avanzados en probabilidad, matemáticas, estadística, econometría La ciencia actuarial incluye una serie de temas interrelacionados avanzados en probabilidad, matemáticas, estadística, econometría, demografía, La ciencia actuarial incluye una serie de temas interrelacionados avanzados en probabilidad, matemáticas, estadística, econometría, demografía, finanzas La ciencia actuarial incluye una serie de temas interrelacionados avanzados en probabilidad, matemáticas, estadística, econometría, demografía, finanzas, economía La ciencia actuarial incluye una serie de temas interrelacionados avanzados en probabilidad, matemáticas, estadística, econometría, demografía, finanzas, economía, economía financiera La ciencia actuarial incluye una serie de temas interrelacionados avanzados en probabilidad, matemáticas, estadística, econometría, demografía, finanzas, economía, economía financiera y la programación de computadoras.
-mk4: |-
+mk4: >-
   **SISTEMA DE INFORMACIÓN ADMINISTRATIVA**
 
-  ![AS](/assets/asass.png "AS")
 
-  **<BR/>**
+  ![contabilidad administrativa](/assets/asass.png "contabilidad administrativa")
+
+
+  **</br>**
+
 
   **CONTABILIDAD DE COSTOS**
 mk5: >-
@@ -178,24 +181,22 @@ mk5: >-
   de las operaciones 
 
 
-
-
   <BR/>
 
 
   **ESQUEMA DE LA CONTABILIDAD DE COSTOS**
 
 
-  ![WZ](/assets/wsxc.png "WZ")
+  ![contabilidad administrativa](/assets/wsxc.png "contabilidad administrativa")
 
 
   ### <BR/>\
+
 
   **CLASIFICACIÓN DE LOS COSTOS**
 
 
   ### 1.- DE ACUERDO CON LA FUNCIÓN EN LA QUE SE INCURREN:
-
 
 
   a) Costos de producción: Son los que se generan en el proceso de transformar la materia prima en productos terminados y a su vez se subdividen en:
