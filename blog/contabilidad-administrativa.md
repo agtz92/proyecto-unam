@@ -1,7 +1,7 @@
 ---
 title: Contabilidad Administrativa
 slug: contabilidad-administrativa
-featuredimage: /assets/contabilidad.jpg
+featuredimage: contabilidad.jpg
 date: 2022-07-13T03:51:48.966Z
 dificultad: Preparatoria / Universidad
 categoria: Contabilidad
