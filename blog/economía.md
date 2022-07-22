@@ -1,7 +1,7 @@
 ---
 title: ECONOMÍA
 slug: "Economía "
-featuredimage: /assets/qweerref.jpg
+featuredimage: qweerref.jpg
 date: 2022-07-15T02:07:36.057Z
 dificultad: Preparatoria / Universidad
 categoria: Contabilidad

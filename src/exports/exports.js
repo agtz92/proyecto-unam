@@ -12,6 +12,7 @@ exports.array = {
     Contabilidad: require("../images/slider/contabilidad.jpg"),
     Mercadotencia: require("../images/slider/mercadotecnia.jpg"),
     Emprendedurismo: require("../images/slider/emprendedurismo.jpg"),
+    Economia: require("../images/slider/economia.jpg"),
     MejorescursosdepreparacionUNAMIPNUAMUAEM: require("../images/slider/cursosdepreparacion.jpg"),
     
   }
