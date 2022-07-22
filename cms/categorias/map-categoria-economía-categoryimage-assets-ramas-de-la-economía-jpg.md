@@ -1,4 +1,4 @@
 ---
-categoria: "Economía "
+categoria: Economia
 categoryimage: /assets/economia.jpg
 ---
