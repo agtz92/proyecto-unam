@@ -71,6 +71,9 @@ const Categorias = ({ pageContext, data }) => {
               )
             })}
           </ul>
+          <div styles={{display: categoria=="Preguntas de Examen" ? 'block' : 'none'}}>
+              <p>Prueba</p>
+          </div>
           {/*
               This links to a page that does not yet exist.
               You'll come back to it!
