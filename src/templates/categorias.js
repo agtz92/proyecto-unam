@@ -85,6 +85,7 @@ const Categorias = ({ pageContext, data }) => {
                 </div>
               </div>
             </div>
+            <div className="div-grey-post"></div>
           </div>
 
           <Heading color="dark" alignment="center">
