@@ -151,17 +151,7 @@ export default function Template({
             >
               <div className="div-tag marginbottom">{`< Regresar a ${frontmatter.categoria}`}</div>
             </Link>
-            <a
-              target="_blank"
-              href="https://www.amazon.com.mx/gp/search/ref=as_li_qf_sp_sr_tl?ie=UTF8&tag=jagg1992-20&keywords=Funko Pop! Star Wars: Across The Galaxy - The Mandalorian Holding Grogu with Pin&index=aps&camp=1789&creative=9325&linkCode=ur2&linkId=c5a59b9c73504fd95501aa5f7ac7b5b9"
-            >
-              <PostBlockLarge
-                title="Funko Pop! Star Wars: Across The Galaxy"
-                img={funko}
-                nivel=""
-                description="Los funkos más vendidos de Star Wars , The Mandalorian y Marvel con el mejor precio y envío gratis* Da click para ver todos los modelos"
-              />
-            </a>
+            
             <div className="parpost light">
               antesdelexamen es una página de internet gratuita con bancos de
               preguntas de examen para UNAM, IPN y todas las demás universidades
