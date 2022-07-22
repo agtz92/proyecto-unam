@@ -4,7 +4,7 @@ slug: POLÍTICA-MACROECONÓMICA
 featuredimage: qwqwqwq.png
 date: 2022-07-19T03:54:46.350Z
 dificultad: Preparatoria / Universidad
-categoria: "Economía "
+categoria: Economia
 tags:
   - "#Economia"
   - "#Numeros"

@@ -48,17 +48,7 @@ const Categorias = ({ pageContext, data }) => {
             category={categoria}
             descripcion={categoriaHeader}
           />
-          <a
-            target="_blank"
-            href="https://amzn.to/3yVEl41"
-          >
-            <PostBlockLarge
-              title="Ahorra en estos productos con Amazon!"
-              img={tiktok}
-              nivel=""
-              description="Da click en el link para ver todos los productos donde puedes ahorrar!!!!"
-            />
-          </a>
+          
 
           <ul className="list-posts">
             {edges.map(({ node }) => {
