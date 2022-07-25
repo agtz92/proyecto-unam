@@ -1,7 +1,7 @@
 ---
 title: INTERÉS SIMPLE E INTERÉS COMPUESTO
 slug: INTERÉS-SIMPLE-E-INTERÉS-COMPUESTO
-featuredimage: /assets/que-es-el-interes-compuesto-2.jpg
+featuredimage: que-es-el-interes-compuesto-2.jpg
 date: 2022-07-25T03:27:01.224Z
 dificultad: Preparatoria / Universidad
 categoria: Economia
