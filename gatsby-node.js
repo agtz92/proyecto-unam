@@ -12,6 +12,21 @@ const _ = require("lodash")
   createTypes(typeDefs)
 }*/
 
+function ext(url) {
+  // Remove everything to the last slash in URL
+  url = url.substr(1 + url.lastIndexOf("/"));
+  url = url.substr(1 + url.lastIndexOf("\\"));
+
+  // Break URL at ? and take first part (file name, extension)
+  url = url.split('?')[0];
+
+  // Sometimes URL doesn't have ? but #, so we should aslo do the same for #
+  url = url.split('#')[0];
+
+  // Now we have only extension
+  return url;
+}
+
 exports.createPages = async ({ actions, graphql, reporter }) => {
     const { createPage } = actions
 
@@ -60,6 +75,9 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
 
     // Create post detail pages
     posts.forEach(({ node }) => {
+        if (['fermentacion-lactica-y-fermentacion-alcholica', 'analisis-de-estados-financieros'].includes(node.frontmatter.slug)) {
+          console.log({ featuredimage: node.frontmatter.featuredimage})
+        }
         createPage({
           
             path: node.frontmatter.slug,
@@ -67,7 +85,7 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
             context: {
                 //featuredimage: node.frontmatter.featuredimage,
                 //featuredimage: node.frontmatter.featuredimage.startsWith("../static/assets/") ? node.frontmatter.featuredimage.slice(17) : node.frontmatter.featuredimage,
-                featuredimage: node.frontmatter.featuredimage.startsWith("/assets/") ? node.frontmatter.featuredimage.slice(8) : node.frontmatter.featuredimage,
+                featuredimage: ext(node.frontmatter.featuredimage),
                 // additional data can be passed via context s
                 slug: node.frontmatter.slug,
             },

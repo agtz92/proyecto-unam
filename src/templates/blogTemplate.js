@@ -31,6 +31,7 @@ export default function Template({
   // console.log(frontmatter.featuredimage);
   // console.log(data.file)
   const split = String(frontmatter.featuredimage).split("\\")
+  console.log({ data: data })
   return (
     <React.Fragment>
       <Metatags
