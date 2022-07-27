@@ -1,17 +1,7 @@
 const path = require("path")
 const _ = require("lodash")
 
-/*exports.createSchemaCustomization = ({ actions }) => {
-  const { createTypes } = actions
-  const typeDefs = [
-    `type MarkdownRemark implements Node { frontmatter: Frontmatter }`,
-    `type Frontmatter {
-      featuredimage: File
-    }`
-  ]
-  createTypes(typeDefs)
-}*/
-
+//Función para eliminar problema de paths en gatsby image featured image
 function ext(url) {
   // Remove everything to the last slash in URL
   url = url.substr(1 + url.lastIndexOf("/"));
@@ -83,10 +73,8 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
             path: node.frontmatter.slug,
             component: blogPostTemplate,
             context: {
-                //featuredimage: node.frontmatter.featuredimage,
-                //featuredimage: node.frontmatter.featuredimage.startsWith("../static/assets/") ? node.frontmatter.featuredimage.slice(17) : node.frontmatter.featuredimage,
+                //funcion para corregir path de featuredimage: 
                 featuredimage: ext(node.frontmatter.featuredimage),
-                // additional data can be passed via context s
                 slug: node.frontmatter.slug,
             },
             
