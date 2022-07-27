@@ -1,7 +1,7 @@
 ---
 title: PRUEBA
 slug: prueba-topo
-featuredimage: /assets/pexels-victor-freitas-703012-1-.jpg
+featuredimage: pexels-victor-freitas-703012-1-.jpg
 date: 2022-07-27T19:43:12.138Z
 dificultad: Secundaria / Preparatoria
 categoria: Biología
