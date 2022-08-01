@@ -1,5 +1,5 @@
 ---
-title: ANÁLISIS DE ESTADOS FINANCIEROS
+title: Análisis de Estados Financieros
 slug: analisis-de-estados-financieros
 featuredimage: pooi.jpg
 date: 2022-07-03T22:22:41.324Z
