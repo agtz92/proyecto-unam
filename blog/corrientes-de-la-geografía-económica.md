@@ -1,6 +1,6 @@
 ---
-title: CORRIENTES DE LA GEOGRAFÍA ECONÓMICA
-slug: CORRIENTES-DE-LA-GEOGRAFÍA-ECONÓMICA
+title: Corrientes de la Geografía Económica
+slug: corrientes-de-la-geografia-economica
 featuredimage: /assets/fggfg.png
 date: 2022-08-01T04:28:51.512Z
 dificultad: Preparatoria / Universidad
