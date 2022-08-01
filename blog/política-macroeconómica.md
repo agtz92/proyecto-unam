@@ -1,6 +1,6 @@
 ---
-title: POLÍTICA MACROECONÓMICA
-slug: POLÍTICA-MACROECONÓMICA
+title: Política Macroeconómica
+slug: politica-macroeconomica
 featuredimage: qwqwqwq.png
 date: 2022-07-19T03:54:46.350Z
 dificultad: Preparatoria / Universidad
