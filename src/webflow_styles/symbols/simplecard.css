@@ -1,0 +1,26 @@
+.about-us-card {
+  
+  padding: 20px;
+  box-shadow: 3px 3px 6px 1px #c5c5c5;
+  color:#000;
+}
+.margin-right{
+  margin-right: 40px;
+}
+.label-titles {
+  font-family: Exo, sans-serif;
+  font-size: 14px;
+  font-weight: 600;
+  letter-spacing: 3px;
+  text-transform: uppercase;
+}
+
+.paragraph-regular {
+  font-family: Exo, sans-serif;
+}
+@media screen and (max-width: 767px) {
+  .about-us-card {
+    margin-right: auto;
+    margin-bottom: 20px;
+  }
+}

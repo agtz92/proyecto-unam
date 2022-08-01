@@ -1,0 +1,17 @@
+.percentagediv{
+    height: 100%;
+}
+
+.offsetimage{
+    margin-left:-200px;
+}
+
+@media screen and (max-width: 767px) {
+    .percentagediv{
+        width: 100%!important;
+        padding: 20px!important;
+    }
+    .offsetimage{
+        margin: auto;
+    }
+}

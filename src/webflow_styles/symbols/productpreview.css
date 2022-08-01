@@ -1,0 +1,79 @@
+.div-shadow {
+    box-shadow: 3px 3px 8px -2px #c5c5c5;
+  }
+  
+  .cards-image-mask {
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+    padding-top: 100%;
+    border-radius: 0%;
+  }
+  
+  .cards-image {
+    position: absolute;
+    left: 0%;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    width: 100%;
+    height: 100%;
+    max-width: none;
+    -o-object-fit: cover;
+    object-fit: cover;
+    -o-object-position: 50% 50%;
+    object-position: 50% 50%;
+  }
+  
+  .div-product-description {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    min-height: 300px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    -webkit-box-pack: justify;
+    -webkit-justify-content: space-between;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    -webkit-box-align: start;
+    -webkit-align-items: flex-start;
+    -ms-flex-align: start;
+    align-items: flex-start;
+  }
+  
+  .text-big {
+    font-family: Exo, sans-serif;
+    font-size: 2em;
+    line-height: 1em;
+    font-weight: 500;
+  }
+  
+  .label-prices {
+    font-family: Exo, sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+  }
+  
+  .paragraph-regular {
+    font-family: Exo, sans-serif;
+  }
+  
+  .button-regular {
+    font-family: Exo, sans-serif;
+  }
+  
+  @media screen and (max-width: 767px) {
+    .text-big {
+      font-size: 1em;
+    }
+  }

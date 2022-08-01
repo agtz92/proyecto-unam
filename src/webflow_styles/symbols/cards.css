@@ -1,0 +1,83 @@
+.div-cards {
+  padding: 20px;
+}
+
+.margin-bottom {
+  margin-bottom: 20px;
+}
+
+.spacing {
+  margin: 40px 20px;
+}
+
+.div-cards.white {
+  background-color: #f1f1f1;
+}
+
+.div-cards.black {
+  background-color: #161925;
+  color: #ffffff;
+}
+
+.div-cards.transparent {
+  background-color: #ffffff;
+  color: #000;
+}
+
+.div-cards.padding {
+  padding: 20px;
+}
+
+.div-number-circle {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  overflow: hidden;
+  width: 50px;
+  height: 50px;
+  margin-bottom: 20px;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+  border-radius: 50%;
+  background-color: #f1f1f1;
+  font-family: Lato, sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+}
+
+.cards-title {
+  width: auto;
+  margin-bottom: 20px;
+  font-family: Lato, sans-serif;
+  font-size: 1.2em;
+  font-weight: 700;
+}
+
+.label-titles {
+  font-family: Exo, sans-serif;
+  font-size: 14px;
+  font-weight: 600;
+  letter-spacing: 3px;
+  text-transform: uppercase;
+}
+
+.paragraph-regular {
+  font-family: Exo, sans-serif;
+}
+
+.paragraph-regular.margin {
+  margin-top: 20px;
+}
+
+@media screen and (max-width: 767px) {
+  .spacing {
+    margin: 20px 20px;
+  }
+}

@@ -1,0 +1,84 @@
+.contact-form {
+    padding-top: 100px;
+    padding-bottom: 100px;
+  }
+  
+  .contact-form-grid {
+    display: -ms-grid;
+    display: grid;
+    margin-top: 40px;
+    grid-auto-columns: 1fr;
+    grid-column-gap: 20px;
+    grid-row-gap: 20px;
+    -ms-grid-columns: 1fr 1fr;
+    grid-template-columns: 1fr 1fr;
+    -ms-grid-rows: auto;
+    grid-template-rows: auto;
+  }
+  
+  .textarea {
+    min-height: 100px;
+  }
+  
+  @media screen and (max-width: 767px) {
+    .contact-form {
+      padding: 40px 20px;
+    }
+  }
+  
+  #w-node-_3088c118-2c7e-bfc0-8285-96b6a9bffd77-3923db54 {
+    -ms-grid-row: span 1;
+    grid-row-start: span 1;
+    -ms-grid-row-span: 1;
+    grid-row-end: span 1;
+    -ms-grid-column: span 2;
+    grid-column-start: span 2;
+    -ms-grid-column-span: 2;
+    grid-column-end: span 2;
+  }
+  
+  @media screen and (max-width: 479px) {
+    #w-node-_3088c118-2c7e-bfc0-8285-96b6a9bffd67-3923db54 {
+      -ms-grid-column: span 2;
+      grid-column-start: span 2;
+      -ms-grid-column-span: 2;
+      grid-column-end: span 2;
+      -ms-grid-row: span 1;
+      grid-row-start: span 1;
+      -ms-grid-row-span: 1;
+      grid-row-end: span 1;
+    }
+  
+    #w-node-_3088c118-2c7e-bfc0-8285-96b6a9bffd6b-3923db54 {
+      -ms-grid-column: span 2;
+      grid-column-start: span 2;
+      -ms-grid-column-span: 2;
+      grid-column-end: span 2;
+      -ms-grid-row: span 1;
+      grid-row-start: span 1;
+      -ms-grid-row-span: 1;
+      grid-row-end: span 1;
+    }
+  
+    #w-node-_3088c118-2c7e-bfc0-8285-96b6a9bffd6f-3923db54 {
+      -ms-grid-column: span 2;
+      grid-column-start: span 2;
+      -ms-grid-column-span: 2;
+      grid-column-end: span 2;
+      -ms-grid-row: span 1;
+      grid-row-start: span 1;
+      -ms-grid-row-span: 1;
+      grid-row-end: span 1;
+    }
+  
+    #w-node-_3088c118-2c7e-bfc0-8285-96b6a9bffd73-3923db54 {
+      -ms-grid-column: span 2;
+      grid-column-start: span 2;
+      -ms-grid-column-span: 2;
+      grid-column-end: span 2;
+      -ms-grid-row: span 1;
+      grid-row-start: span 1;
+      -ms-grid-row-span: 1;
+      grid-row-end: span 1;
+    }
+  }

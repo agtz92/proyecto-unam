@@ -1,0 +1,46 @@
+.div-5050-holder {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+  }
+
+  .padding{
+      padding:100px;
+  }
+
+  .nopaddingside{
+      padding-top: 100px;
+      padding-bottom: 100px;
+  }
+  
+  .div-5050 {
+    padding-right: 20px;
+    padding-left: 20px;
+  }
+  
+  @media screen and (max-width: 767px) {
+    .div-5050-holder {
+      -webkit-box-orient: vertical;
+      -webkit-box-direction: normal;
+      -webkit-flex-direction: column;
+      -ms-flex-direction: column;
+      flex-direction: column;
+      -webkit-box-pack: center;
+      -webkit-justify-content: center;
+      -ms-flex-pack: center;
+      justify-content: center;
+      -webkit-box-align: stretch;
+      -webkit-align-items: stretch;
+      -ms-flex-align: stretch;
+      align-items: stretch;
+      padding-top: 20px;
+    }
+    .padding{
+        padding:0px;
+        padding-top: 20px;
+    }
+    .div-5050 {
+        padding-top: 20px;
+      }
+  }

@@ -1,0 +1,40 @@
+._5050wrapper {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+  }
+  
+  ._5050div {
+    width: 50%;
+  }
+
+.padding{
+  padding: 150px;
+}
+  
+  @media screen and (max-width: 767px) {
+    ._5050wrapper {
+      -webkit-box-orient: vertical;
+      -webkit-box-direction: normal;
+      -webkit-flex-direction: column;
+      -ms-flex-direction: column;
+      flex-direction: column;
+      -webkit-box-pack: center;
+      -webkit-justify-content: center;
+      -ms-flex-pack: center;
+      justify-content: center;
+      -webkit-box-align: center;
+      -webkit-align-items: center;
+      -ms-flex-align: center;
+      align-items: center;
+    }
+  
+    ._5050div {
+      width: 100%;
+    }
+
+    .padding{
+      padding: 40px;
+    }
+  }
