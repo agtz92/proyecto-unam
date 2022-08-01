@@ -1,6 +1,6 @@
 ---
-title: ECONOMÍA
-slug: "Economía "
+title: Economía
+slug: economia-tema
 featuredimage: qweerref.jpg
 date: 2022-07-15T02:07:36.057Z
 dificultad: Preparatoria / Universidad
