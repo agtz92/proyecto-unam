@@ -1,6 +1,6 @@
 ---
-title: "CAMBIO HISTÓRICO MUNDIAL, DESARROLLO Y GLOBALIZACIÓN "
-slug: "CAMBIO-HISTÓRICO MUNDIAL-DESARROLLO-Y-GLOBALIZACIÓN "
+title: Cambio Histórico Mundial, Desarrollo y Globalización
+slug: cambio-historico-mundial-desarrollo-y-globalizacion
 featuredimage: /assets/121215.jpeg
 date: 2022-08-01T04:17:20.272Z
 dificultad: Preparatoria / Universidad
