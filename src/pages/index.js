@@ -2,14 +2,19 @@ import React from "react"
 import { Link, graphql } from "gatsby"
 import { Helmet } from "react-helmet"
 import Heading from "../components/heading"
-import SimpleSlider from "../components/slider"
 import PostBlock from "../components/postblock"
 import CallToAction from "../components/calltoaction"
 import Blockcontainer from "../components/blocksContainer"
 import Layout from "../layouts/layout"
+import Grid3x3 from "../components/wrappers/Grid3x3"
+import Img from "gatsby-image"
+import Container from "../components/wrappers/Container"
 import "../styles/normalize.css"
 import "../styles/webflow.css"
 import "../styles/soynuevo.webflow.css"
+import "../webflow_styles/symbols/productpreview.css"
+
+
 
 export default function Home({ data }) {
   return (
@@ -21,7 +26,78 @@ export default function Home({ data }) {
         />
       </Helmet>
       <Layout>
-        <SimpleSlider />
+        <Heading alignment="center" size="big">Preguntas de Examen</Heading>
+        <Grid3x3
+          products={
+            <React.Fragment>
+
+              <div className="div-shadow" key="01">
+                <Img fluid={data.biologia.childImageSharp.fluid} />
+                <div className="div-product-description">
+                  <h1 className="text-big">Preguntas para Examen Biología</h1>
+                  <div className="label-prices color2">
+
+                  </div>
+                  <p className="paragraph-regular">
+
+                  </p>
+                  <Link to={`/respuestas-unam-biologia`} className="button-regular w-button bck-color1">
+                    Ver Más
+                  </Link>
+                </div>
+              </div>
+              <div className="div-shadow" key="02">
+                <Img fluid={data.literatura.childImageSharp.fluid} />
+                <div className="div-product-description">
+                  <h1 className="text-big">Preguntas para Examen Literatura</h1>
+                  <div className="label-prices color2">
+
+                  </div>
+                  <p className="paragraph-regular">
+
+                  </p>
+                  <Link to={`/examen-%20muestra-ipn-unam-uaem-literatura`} className="button-regular w-button bck-color1">
+                    Ver Más
+                  </Link>
+                </div>
+              </div>
+              <div className="div-shadow" key="03">
+                <Img fluid={data.historia.childImageSharp.fluid} />
+                <div className="div-product-description">
+                  <h1 className="text-big">Preguntas para Examen Historia</h1>
+                  <div className="label-prices color2">
+
+                  </div>
+                  <p className="paragraph-regular">
+
+                  </p>
+                  <Link to={`/examen-unam-historia-mexico`} className="button-regular w-button bck-color1">
+                    Ver Más
+                  </Link>
+                </div>
+              </div>
+              <div className="div-shadow" key="03">
+                <Img fluid={data.geografia.childImageSharp.fluid} />
+                <div className="div-product-description">
+                  <h1 className="text-big">Preguntas para Examen Geografía</h1>
+                  <div className="label-prices color2">
+
+                  </div>
+                  <p className="paragraph-regular">
+
+                  </p>
+                  <Link to={`/respuestas-de-examen-unam-uaem-ipn-de-geografia`} className="button-regular w-button bck-color1">
+                    Ver Más
+                  </Link>
+                </div>
+              </div>
+
+            </React.Fragment>
+          }
+        />
+
+        <Container><Link to="/categorias/preguntas-de-examen/" ><button style={{backgroundColor:"#fca311", color:"black", fontSize:"1.5em"}} className="button-call-to-action w-button">Ver todas las preguntas de examen</button></Link></Container>
+
         <CallToAction />
         <div style={{ marginLeft: "2%", marginRight: "2%" }}>
           <Link to="/categorias/">
@@ -36,7 +112,7 @@ export default function Home({ data }) {
             </h2>
           </Link>
           <Blockcontainer>
-            {data.allMarkdownRemark.edges.map(({ node }) => {
+            {data.temas.edges.map(({ node }) => {
               return (
                 <Link key={node.id} to={node.frontmatter.slug}>
                   <PostBlock
@@ -49,89 +125,7 @@ export default function Home({ data }) {
               )
             })}
           </Blockcontainer>
-          {/*
-      <Link to="/categorias/espanol/"><h2 className="heading-categoria" style={{color:"#003049"}}>Ve todo en Español {">"}</h2></Link>
-      <Blockcontainer>
-        {data.allMarkdownRemark.edges.map(({ node }) => {
-          if(node.frontmatter.categoria.includes('Español')){ return(
-            <Link key={node.id} to={node.frontmatter.slug}>
-              <PostBlock name={node.frontmatter.title} text={node.frontmatter.short_description} nivel={node.frontmatter.dificultad} background={node.frontmatter.featuredimage} />
-          </Link>)
-          }else
-          {
-            return (null)
-          }
-        })}
-      </Blockcontainer>
-      <Link to="/categorias/literatura/"><h2 className="heading-categoria" style={{color:"#003049"}}>Ve todo en Literatura {">"}</h2></Link>
-      <Blockcontainer>
-        {data.allMarkdownRemark.edges.map(({ node }) => {
-          if (node.frontmatter.categoria.includes('Literatura')) {
-            return (
-              <Link key={node.id} to={node.frontmatter.slug}>
-                <PostBlock name={node.frontmatter.title} text={node.frontmatter.short_description} nivel={node.frontmatter.dificultad} background={node.frontmatter.featuredimage} />
-              </Link>)
-          }else
-          { 
-            return (null)
-          }
-        })}
-      </Blockcontainer>
-      <Link to="/categorias/geografia/"><h2 className="heading-categoria" style={{color:"#003049"}}>Ve todo en Geografía {">"}</h2></Link>
-      <Blockcontainer>
-        {data.allMarkdownRemark.edges.map(({ node }) => {
-          if(node.frontmatter.categoria.includes('Geografía')){ return(
-            <Link key={node.id} to={node.frontmatter.slug}>
-              <PostBlock name={node.frontmatter.title} text={node.frontmatter.short_description} nivel={node.frontmatter.dificultad} background={node.frontmatter.featuredimage} />
-          </Link>)
-          }else
-          {
-            return (null)
-          }
-        })}
-      </Blockcontainer>
-      <Link to="/categorias/historia-universal/"><h2 className="heading-categoria" style={{color:"#003049"}}>Ve todo en Historia Universal {">"}</h2></Link>
-      <Blockcontainer>
-        {data.allMarkdownRemark.edges.map(({ node }) => {
-          if (node.frontmatter.categoria.includes('Historia') && !node.frontmatter.categoria.includes('México')) {
-            return (
-              <Link key={node.id} to={node.frontmatter.slug}>
-                <PostBlock name={node.frontmatter.title} text={node.frontmatter.short_description} nivel={node.frontmatter.dificultad} background={node.frontmatter.featuredimage} />
-              </Link>)
-          }else
-          {
-            return (null)
-          } 
-        })}
-      </Blockcontainer>
-      <Link to="/categorias/historia-de-mexico/"><h2 className="heading-categoria" style={{color:"#003049"}}>Ve todo en Historia de México {">"}</h2></Link>
-      <Blockcontainer>
-        {data.allMarkdownRemark.edges.map(({ node }) => {
-          if (node.frontmatter.categoria.includes('México')) {
-            return (
-              <Link key={node.id} to={node.frontmatter.slug}>
-                <PostBlock name={node.frontmatter.title} text={node.frontmatter.short_description} nivel={node.frontmatter.dificultad} background={node.frontmatter.featuredimage} />
-              </Link>)
-          }else
-          {
-            return (null)
-          }
-        })}
-      </Blockcontainer>
-      <Link to="/categorias/biologia/"><h2 className="heading-categoria" style={{color:"#003049"}}>Ve todo en Biología {">"}</h2></Link>
-      <Blockcontainer>
-        {data.allMarkdownRemark.edges.map(({ node }) => {
-          if (node.frontmatter.categoria.includes('Biología')) {
-            return (
-              <Link key={node.id} to={node.frontmatter.slug}>
-                <PostBlock name={node.frontmatter.title} text={node.frontmatter.short_description} nivel={node.frontmatter.dificultad} background={node.frontmatter.featuredimage} />
-              </Link>)
-          }else
-          {
-            return (null)
-          }
-        })}
-      </Blockcontainer> */}
+
         </div>
       </Layout>
     </React.Fragment>
@@ -140,7 +134,7 @@ export default function Home({ data }) {
 
 export const query = graphql`
   query {
-    allMarkdownRemark(
+    temas:allMarkdownRemark(
       limit: 12
       sort: { fields: [frontmatter___date], order: DESC }
     ) {
@@ -159,6 +153,34 @@ export const query = graphql`
             short_description
           }
           excerpt
+        }
+      }
+    }
+    biologia: file(relativePath: { eq: "biology.jpg" }) {
+      childImageSharp {
+        fluid(maxWidth: 600, quality: 100) {
+          ...GatsbyImageSharpFluid
+        }
+      }
+    }
+    literatura: file(relativePath: { eq: "espanol.jpg" }) {
+      childImageSharp {
+        fluid(maxWidth: 600, quality: 100) {
+          ...GatsbyImageSharpFluid
+        }
+      }
+    }
+    historia: file(relativePath: { eq: "historiam.jpg" }) {
+      childImageSharp {
+        fluid(maxWidth: 600, quality: 100, fit: COVER) {
+          ...GatsbyImageSharpFluid
+        }
+      }
+    }
+    geografia: file(relativePath: { eq: "geografiam.jpg" }) {
+      childImageSharp {
+        fluid(maxWidth: 600, quality: 100, fit: COVER) {
+          ...GatsbyImageSharpFluid
         }
       }
     }

@@ -36,6 +36,7 @@ export default function Home() {
           <a
             target="_blank"
             href="https://www.admision.uam.mx/guias/uam_guia_cad.pdf"
+            rel="noreferrer"
           >
             <div className="div-tag">Descargar Guía CAD</div>
           </a>
@@ -43,6 +44,7 @@ export default function Home() {
           <a
             target="_blank"
             href="https://www.admision.uam.mx/guias/uam_guia_cbs.pdf"
+            rel="noreferrer"
           >
             <div className="div-tag">Descargar Guía CBS</div>
           </a>
@@ -50,6 +52,7 @@ export default function Home() {
           <a
             target="_blank"
             href="https://www.admision.uam.mx/guias/uam_guia_csh.pdf"
+            rel="noreferrer"
           >
             <div className="div-tag">Descargar Guía CSH</div>
           </a>
@@ -57,6 +60,7 @@ export default function Home() {
           <a
             target="_blank"
             href="https://www.admision.uam.mx/guias/uam_guia_cbi.pdf"
+            rel="noreferrer"
           >
             <div className="div-tag">Descargar Guía CBI</div>
           </a>

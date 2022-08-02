@@ -7,7 +7,7 @@ import "../styles/soynuevo.webflow.css"
 
 
 export default function CallToAction(props) {
-    return(
+    return (
         <div className="div-call-to-action">
             <div className="call-to-action">
                 <Heading color="dark" alignment="center" size="medium">Preguntas de Examen</Heading>
@@ -25,6 +25,6 @@ export default function CallToAction(props) {
                 <Link to="/guias/" ><button className="button-call-to-action w-button">Ir a guías</button></Link>
             </div>
         </div>
-        
-    ) 
+
+    )
 }

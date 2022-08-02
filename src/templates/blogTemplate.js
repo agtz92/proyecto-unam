@@ -1,7 +1,6 @@
 import React from "react"
 import { Link, graphql } from "gatsby"
 // Components
-import { Helmet } from "react-helmet"
 import Layout from "../layouts/layout"
 import Heading from "../components/heading"
 //import logoChico from "../images/logo_small.png"
@@ -9,11 +8,6 @@ import showdown from "showdown"
 import "../styles/normalize.css"
 import "../styles/webflow.css"
 import "../styles/soynuevo.webflow.css"
-//import matmarkt from '../images/partners/matmarkt.jpg'
-//import corthw from '../images/partners/corthw.jpg'
-//import InfoBlock from "../components/infoblock"
-import funko from "../../static/assets/funko.jpg"
-import PostBlockLarge from "../components/postblocklarge"
 // Utilities
 import kebabCase from "lodash/kebabCase"
 import Img from "gatsby-image"
@@ -21,16 +15,10 @@ import Metatags from "../components/metatags"
 
 
 const converter = new showdown.Converter()
-export default function Template({
-  data, // this prop will be injected by the GraphQL query below.
-}) {
-  // console.log(data)
+export default function Template({data}) {
   const { markdownRemark } = data // data.markdownRemark holds your post data
   const { frontmatter, html } = markdownRemark
   const perro = "https://www.antesdelexamen.com/" + frontmatter.slug + "/"
-  // console.log(frontmatter.featuredimage);
-  // console.log(data.file)
-  const split = String(frontmatter.featuredimage).split("\\")
   console.log({ data: data })
   return (
     <React.Fragment>
@@ -92,7 +80,7 @@ export default function Template({
                 <p className="parpost">{frontmatter.short_description}</p>
               </div>
             </div>
-            
+
 
             <div
               className="div-text-post"
@@ -152,7 +140,7 @@ export default function Template({
             >
               <div className="div-tag marginbottom">{`< Regresar a ${frontmatter.categoria}`}</div>
             </Link>
-            
+
             <div className="parpost light">
               antesdelexamen es una página de internet gratuita con bancos de
               preguntas de examen para UNAM, IPN y todas las demás universidades

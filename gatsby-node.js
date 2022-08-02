@@ -3,29 +3,28 @@ const _ = require("lodash")
 
 //Función para eliminar problema de paths en gatsby image featured image
 function ext(url) {
-  // Remove everything to the last slash in URL
-  url = url.substr(1 + url.lastIndexOf("/"));
-  url = url.substr(1 + url.lastIndexOf("\\"));
 
-  // Break URL at ? and take first part (file name, extension)
-  url = url.split('?')[0];
+  if (url != null) {
+    // Remove everything to the last slash in URL
+    url = url.substr(1 + url.lastIndexOf("/"));
+    url = url.substr(1 + url.lastIndexOf("\\"));
 
-  // Sometimes URL doesn't have ? but #, so we should aslo do the same for #
-  url = url.split('#')[0];
-
+    // Break URL at ? and take first part (file name, extension)
+    url = url.split('?')[0];
+  }
   // Now we have only extension
   return url;
 }
 
 exports.createPages = async ({ actions, graphql, reporter }) => {
-    const { createPage } = actions
+  const { createPage } = actions
 
-    const blogPostTemplate = path.resolve("./src/templates/blogTemplate.js")
-    const tagTemplate = path.resolve("./src/templates/tags.js")
-    const categoriaTemplate = path.resolve("./src/templates/categorias.js")
+  const blogPostTemplate = path.resolve("./src/templates/blogTemplate.js")
+  const tagTemplate = path.resolve("./src/templates/tags.js")
+  const categoriaTemplate = path.resolve("./src/templates/categorias.js")
 
-    //add filter: {fileAbsolutePath: {regex: "/blog/"}} to create new source file systems
-    const result = await graphql(`
+  //add filter: {fileAbsolutePath: {regex: "/blog/"}} to create new source file systems
+  const result = await graphql(`
    {
   postsRemark: allMarkdownRemark(
         sort: { order: DESC, fields: [frontmatter___date] }
@@ -55,57 +54,57 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
     }
   `)
 
-    // handle errors
-    if (result.errors) {
-        reporter.panicOnBuild(`Error while running GraphQL query.`)
-        return
+  // handle errors
+  if (result.errors) {
+    reporter.panicOnBuild(`Error while running GraphQL query.`)
+    return
+  }
+
+  const posts = result.data.postsRemark.edges
+
+  // Create post detail pages
+  posts.forEach(({ node }) => {
+    if (['fermentacion-lactica-y-fermentacion-alcholica', 'analisis-de-estados-financieros'].includes(node.frontmatter.slug)) {
+      console.log({ featuredimage: node.frontmatter.featuredimage })
     }
+    createPage({
 
-    const posts = result.data.postsRemark.edges
+      path: node.frontmatter.slug,
+      component: blogPostTemplate,
+      context: {
+        //funcion para corregir path de featuredimage: 
+        featuredimage: ext(node.frontmatter.featuredimage),
+        slug: node.frontmatter.slug,
+      },
 
-    // Create post detail pages
-    posts.forEach(({ node }) => {
-        if (['fermentacion-lactica-y-fermentacion-alcholica', 'analisis-de-estados-financieros'].includes(node.frontmatter.slug)) {
-          console.log({ featuredimage: node.frontmatter.featuredimage})
-        }
-        createPage({
-          
-            path: node.frontmatter.slug,
-            component: blogPostTemplate,
-            context: {
-                //funcion para corregir path de featuredimage: 
-                featuredimage: ext(node.frontmatter.featuredimage),
-                slug: node.frontmatter.slug,
-            },
-            
-        })
     })
-    
-    // Extract tag data from tags query
-    const tags = result.data.tagsGroup.group
+  })
 
-    // Make tag pages
-    tags.forEach(tag => {
-        createPage({
-            path: `/tags/${_.kebabCase(tag.fieldValue)}/`,
-            component: tagTemplate,
-            context: {
-                tag: tag.fieldValue,
-            },
-        })
+  // Extract tag data from tags query
+  const tags = result.data.tagsGroup.group
+
+  // Make tag pages
+  tags.forEach(tag => {
+    createPage({
+      path: `/tags/${_.kebabCase(tag.fieldValue)}/`,
+      component: tagTemplate,
+      context: {
+        tag: tag.fieldValue,
+      },
     })
+  })
 
-    // Extract tag data from categories query
-    const categories = result.data.categoriesGroup.group
+  // Extract tag data from categories query
+  const categories = result.data.categoriesGroup.group
 
-    // Make category pages
-    categories.forEach(categoria => {
-        createPage({
-            path: `/categorias/${_.kebabCase(categoria.fieldValue)}/`,
-            component: categoriaTemplate,
-            context: {
-                categoria: categoria.fieldValue,
-            },
-        })
+  // Make category pages
+  categories.forEach(categoria => {
+    createPage({
+      path: `/categorias/${_.kebabCase(categoria.fieldValue)}/`,
+      component: categoriaTemplate,
+      context: {
+        categoria: categoria.fieldValue,
+      },
     })
+  })
 }

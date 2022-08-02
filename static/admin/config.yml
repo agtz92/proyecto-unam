@@ -45,4 +45,5 @@ collections:
     slug: "{{slug}}"
     fields:
       - {widget: string, name: categoria, label: Categoria, required: true, hint: Materia Escolar }
+      - { name: slug, label: Slug, hint: (IMPORTANTE No usar ñ ni acentos ni mayusculas) Debe ser el nombre del post con guiones. ej. revolucion-mexicana-1910 , required: true}
       - {label: "Imagen de la Materia", name: "categoryimage", widget: image}

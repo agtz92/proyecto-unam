@@ -1,6 +1,5 @@
 import React from "react"
 import { Helmet } from "react-helmet"
-import PropTypes from "prop-types"
 import Layout from "../layouts/layout"
 import Heading from "../components/heading"
 import PostBlockLarge from "../components/postblocklarge"
@@ -8,7 +7,6 @@ import InfoBlock from "../components/infoblock"
 import CategoryHeader from "../components/categoryHeader"
 import matmarkt from "../images/partners/matmarkt.jpg"
 import corthw from "../images/partners/corthw.jpg"
-import tiktok from "../images/slider/contabilidad.jpg"
 
 // Components
 import { Link, graphql } from "gatsby"
@@ -71,7 +69,7 @@ const Categorias = ({ pageContext, data }) => {
             })}
           </ul>
           {/*Generando texto en SEO para Preguntas de Examen*/}
-          <div styles={{ display: categoria == "Preguntas de Examen" ? 'block' : 'none' }}>
+          <div styles={{ display: categoria === "Preguntas de Examen" ? 'block' : 'none' }}>
             <div className="blog-post-container">
               <div className="div-grey-post"></div>
               <div className="blog-post">
