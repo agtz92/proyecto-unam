@@ -204,7 +204,7 @@ export const query = graphql`
         }
       }
     }
-    landing: file(relativePath: { eq: "logo_small.png" }) {
+    landing: file(relativePath: { eq: "landing.jpg" }) {
       childImageSharp {
         fluid(maxWidth: 600, quality: 100, fit: COVER) {
           ...GatsbyImageSharpFluid
