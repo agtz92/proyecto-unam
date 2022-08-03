@@ -13,6 +13,7 @@ import "../styles/normalize.css"
 import "../styles/webflow.css"
 import "../styles/soynuevo.webflow.css"
 import "../webflow_styles/symbols/productpreview.css"
+import "../webflow_styles/symbols/landing.css"
 
 
 
@@ -26,6 +27,25 @@ export default function Home({ data }) {
         />
       </Helmet>
       <Layout>
+      <div className="storepage sections wf-section">
+            <div className="w-row">
+                <div className="column left_column w-col w-col-6">
+                    <div className="homepage_header">
+                        ANTES<br></br>DEL<br></br>EXAMEN
+                    </div>
+                    <div className="text-block-17">PREGUNTAS DE EXAMEN Y TEMAS RESUMIDOS PARA ENTRAR A LA UNAM, IPN, UAM Y MÁS UNIVERSIDADES<br></br><br></br><br></br>¡TAMBIÉN TE FUNCIONAN PARA ESTUDIAR PARA TUS EXAMENES EN PREPARATORIA!
+                    </div>
+                </div>
+                <div className="column frontpage_backgroundimage w-col w-col-6"><Img fluid={data.landing.childImageSharp.fluid} /></div>
+            </div>
+        </div>
+
+
+
+
+
+
+
         <Heading alignment="center" size="big">Preguntas de Examen</Heading>
         <Grid3x3
           products={
@@ -178,6 +198,13 @@ export const query = graphql`
       }
     }
     geografia: file(relativePath: { eq: "geografiam.jpg" }) {
+      childImageSharp {
+        fluid(maxWidth: 600, quality: 100, fit: COVER) {
+          ...GatsbyImageSharpFluid
+        }
+      }
+    }
+    landing: file(relativePath: { eq: "logo_small.png" }) {
       childImageSharp {
         fluid(maxWidth: 600, quality: 100, fit: COVER) {
           ...GatsbyImageSharpFluid
