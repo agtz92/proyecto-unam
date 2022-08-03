@@ -10,7 +10,7 @@ import "../styles/webflow.css"
 import "../styles/soynuevo.webflow.css"
 // Utilities
 import kebabCase from "lodash/kebabCase"
-import Img from "gatsby-image"
+
 import Metatags from "../components/metatags"
 
 
@@ -28,7 +28,7 @@ export default function Template({data}) {
         featuredimage={frontmatter.featuredimage}
         date={frontmatter.date}
         perro={perro}
-      />
+      /> 
 
       <Layout>
         <div className="blog-post-container">
