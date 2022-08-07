@@ -1,6 +1,6 @@
 ---
 title: "Análisis y evaluación del mercado "
-slug: Análisis-y-evaluación-del-mercado
+slug: analisis-y-evaluacion-del-mercado
 featuredimage: hgg.png
 date: 2022-07-07T05:19:35.021Z
 dificultad: Preparatoria / Universidad
