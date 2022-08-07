@@ -80,7 +80,7 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
       context: {
         //funcion para corregir path de featuredimage: 
         featuredimage: ext(node.frontmatter.featuredimage),
-        slug: formatSlug(node.frontmatter.slug),
+        slug: node.frontmatter.slug,
       },
 
     })
