@@ -1,6 +1,6 @@
 ---
 title: Finanzas Internacionales y Tipo de Cambio
-slug: "finanzas-internacionales-y-tipo-de-cambio "
+slug: finanzas-internacionales-y-tipo-de-cambio
 featuredimage: /assets/finanzas-internacionales-objetivos.jpg
 date: 2022-08-04T03:36:42.371Z
 dificultad: Preparatoria / Universidad

@@ -16,6 +16,17 @@ function ext(url) {
   return url;
 }
 
+//formateando slug
+function formatSlug(url){
+  //quitando espacios
+  url=url.replace(/\s+/g, '');
+  //quitando comillas
+  url = url.replace(/['"]+/g, '');
+  //haciendolo lowercase
+  url=url.toLowerCase();
+  return url;
+}
+
 exports.createPages = async ({ actions, graphql, reporter }) => {
   const { createPage } = actions
 
@@ -74,7 +85,7 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
       context: {
         //funcion para corregir path de featuredimage: 
         featuredimage: ext(node.frontmatter.featuredimage),
-        slug: node.frontmatter.slug,
+        slug: formatSlug(node.frontmatter.slug),
       },
 
     })
