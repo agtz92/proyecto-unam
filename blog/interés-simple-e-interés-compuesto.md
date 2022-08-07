@@ -1,5 +1,5 @@
 ---
-title: INTERÉS SIMPLE E INTERÉS COMPUESTO
+title: Interés Simple e Interés Compuesto
 slug: INTERÉS-SIMPLE-E-INTERÉS-COMPUESTO
 featuredimage: que-es-el-interes-compuesto-2.jpg
 date: 2022-07-25T03:27:01.224Z
