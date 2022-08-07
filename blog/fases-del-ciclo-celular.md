@@ -1,5 +1,5 @@
 ---
-title: "Fases del ciclo celular "
+title: Fases del ciclo celular
 slug: fases-del-ciclo-celular
 featuredimage: ciclocelular.jpg
 date: 2020-12-18T04:09:50.877Z

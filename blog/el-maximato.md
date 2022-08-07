@@ -1,5 +1,5 @@
 ---
-title: "El Maximato "
+title: El Maximato
 slug: el-maximato
 featuredimage: maximato.jpg
 date: 2020-12-13T03:35:22.102Z

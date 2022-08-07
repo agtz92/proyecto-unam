@@ -1,5 +1,5 @@
 ---
-title: "Estructura del ecosistema "
+title: Estructura del ecosistema
 slug: estructura-del-ecosistema
 featuredimage: estrucutrade.jpg
 date: 2020-12-19T20:35:44.523Z

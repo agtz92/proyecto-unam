@@ -1,5 +1,5 @@
 ---
-title: "Fermentación Láctica y Fermentación alcohólica "
+title: Fermentación Láctica y Fermentación alcohólica
 slug: fermentacion-lactica-y-fermentacion-alcholica
 featuredimage: /assets/fermentacion.jpg
 date: 2020-12-20T22:19:22.462Z

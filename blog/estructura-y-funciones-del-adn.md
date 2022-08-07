@@ -1,5 +1,5 @@
 ---
-title: "Estructura y funciones del ADN "
+title: Estructura y funciones del ADN
 slug: estructura-y-funciones-del-adn
 featuredimage: estrucutraadn.jpg
 date: 2020-12-18T04:14:29.039Z

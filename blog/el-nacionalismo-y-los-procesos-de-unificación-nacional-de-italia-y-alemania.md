@@ -1,5 +1,5 @@
 ---
-title: "El nacionalismo y los procesos de unificación nacional de Italia y Alemania "
+title: El nacionalismo y los procesos de unificación nacional de Italia y Alemania
 slug: el-nacionalismo-y-los-procesos-de-unificacion
 featuredimage: unificacion.jpg
 date: 2020-12-14T23:19:40.274Z

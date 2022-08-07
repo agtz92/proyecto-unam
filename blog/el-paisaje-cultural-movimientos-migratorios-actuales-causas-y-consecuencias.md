@@ -1,6 +1,5 @@
 ---
-title: "El paisaje cultural: movimientos migratorios actuales: causas y
-  consecuencias "
+title: El paisaje cultural: movimientos migratorios actuales causas y consecuencias
 slug: movimientos-migratorios-actuales
 featuredimage: migarcion.jpg
 date: 2020-12-11T02:15:58.082Z

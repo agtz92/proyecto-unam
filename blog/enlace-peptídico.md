@@ -1,5 +1,5 @@
 ---
-title: "Enlace peptídico "
+title: Enlace peptídico
 slug: enlace-peptidico
 featuredimage: enlacepeptidico.jpg
 date: 2021-01-18T18:04:53.927Z

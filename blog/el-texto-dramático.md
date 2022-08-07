@@ -1,5 +1,5 @@
 ---
-title: "El texto dramático "
+title: El texto dramático
 slug: el-texto-dramatico
 featuredimage: textodramatico.jpg
 date: 2020-12-06T01:46:51.049Z

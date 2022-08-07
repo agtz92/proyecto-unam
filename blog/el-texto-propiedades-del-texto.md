@@ -1,5 +1,5 @@
 ---
-title: "El texto: propiedades del texto"
+title: El texto propiedades del texto
 slug: el-texto-propiedades-del-texto
 featuredimage: eltexto.jpg
 date: 2020-12-06T01:33:23.257Z

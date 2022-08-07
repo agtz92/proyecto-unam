@@ -1,5 +1,5 @@
 ---
-title: "El imperialismo "
+title: El imperialismo
 slug: el-imperialismo
 featuredimage: imperialismo.jpg
 date: 2020-12-14T23:24:21.464Z

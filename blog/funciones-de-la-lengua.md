@@ -1,5 +1,5 @@
 ---
-title: "Funciones de la lengua "
+title: Funciones de la lengua
 slug: funciones-de-la-lengua
 featuredimage: funcionesdellengua.jpg
 date: 2020-12-05T23:34:23.219Z

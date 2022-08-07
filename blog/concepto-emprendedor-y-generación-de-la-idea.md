@@ -1,6 +1,6 @@
 ---
 title: Concepto Emprendedor y Generación de la Idea
-slug: Concepto-Emprendedor-y-Generacion-de-la-idea
+slug: concepto-emprendedor-y-generacion-de-la-idea
 featuredimage: sdddf.jpg
 date: 2022-07-07T05:04:03.820Z
 dificultad: Preparatoria / Universidad

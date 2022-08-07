@@ -1,5 +1,5 @@
 ---
-title: "Examen de admisión prueba área 1 y 2 "
+title: Examen de admisión prueba área 1 y 2
 slug: examen-unam-ipn-uaem-prueba-area1y2
 featuredimage: biologi.jpg
 date: 2020-12-24T03:24:14.849Z

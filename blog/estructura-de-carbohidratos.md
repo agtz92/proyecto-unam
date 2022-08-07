@@ -1,5 +1,5 @@
 ---
-title: "Estructura de carbohidratos "
+title: Estructura de carbohidratos
 slug: estrucura-de-los-carbohidratos
 featuredimage: estrucuturaca.jpg
 date: 2021-01-17T20:35:15.661Z

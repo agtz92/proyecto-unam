@@ -1,6 +1,6 @@
 ---
 title: Contabilidad Administrativa
-slug: CONTABILIDAD-ADMINISTRATIVA
+slug: contabilidad-administrativa-1
 featuredimage: ererer.jpg
 date: 2022-07-25T02:16:51.345Z
 dificultad: Preparatoria / Universidad

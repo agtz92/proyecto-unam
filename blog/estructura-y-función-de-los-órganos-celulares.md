@@ -1,5 +1,5 @@
 ---
-title: "Estructura y función de los organelos celulares "
+title: Estructura y función de los organelos celulares
 slug: estructura-y-funciones-organos-celulares
 featuredimage: organoscelulares.jpg
 date: 2020-12-06T06:47:36.644Z

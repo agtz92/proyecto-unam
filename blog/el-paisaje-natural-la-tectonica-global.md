@@ -1,5 +1,5 @@
 ---
-title: "El paisaje natural: la tectonica global "
+title: El paisaje natural la tectonica global
 slug: la-tectonica-global
 featuredimage: tectonicaglobal.jpg
 date: 2020-12-06T01:08:07.766Z
