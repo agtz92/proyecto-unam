@@ -1,6 +1,6 @@
 ---
 title: "examen prueba para área III "
-slug: examen- muestra-ipn-unam-uaem-area3
+slug: examen-muestra-ipn-unam-uaem-area3
 featuredimage: consecuencias.jpg
 date: 2020-12-29T02:30:14.146Z
 dificultad: Preparatoria / Universidad
