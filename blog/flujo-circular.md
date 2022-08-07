@@ -1,7 +1,7 @@
 ---
 title: FLUJO CIRCULAR
 slug: flujo-circular
-featuredimage: /assets/flujo.gif
+featuredimage: /assets/flujo.webp
 date: 2022-08-06T04:17:54.226Z
 dificultad: Preparatoria / Universidad
 categoria: Economia
