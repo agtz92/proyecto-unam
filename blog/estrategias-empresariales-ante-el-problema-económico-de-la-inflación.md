@@ -1,6 +1,6 @@
 ---
-title: "Estrategias Empresariales ante el Problema Económico de la Inflación "
-slug: "estrategias-empresariales-ante-el-problema-economico-de-la-inflacion "
+title: Estrategias Empresariales ante el Problema Económico de la Inflación
+slug: estrategias-empresariales-ante-el-problema
 featuredimage: /assets/istock-1268668066.jpg
 date: 2022-08-03T04:03:41.974Z
 dificultad: Preparatoria / Universidad

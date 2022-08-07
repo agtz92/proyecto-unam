@@ -75,8 +75,8 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
 
   // Create post detail pages
   posts.forEach(({ node }) => {
-    if (['fermentacion-lactica-y-fermentacion-alcholica', 'analisis-de-estados-financieros'].includes(node.frontmatter.slug)) {
-      console.log({ featuredimage: node.frontmatter.featuredimage })
+    if (['estrategias-empresariales-ante-el-problema-economico-de-la-inflacion '].includes(node.frontmatter.slug)) {
+      console.log({ slug: node.frontmatter.slug })
     }
     createPage({
 
