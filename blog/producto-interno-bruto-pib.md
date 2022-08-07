@@ -1,5 +1,5 @@
 ---
-title: PRODUCTO INTERNO BRUTO ( PIB )
+title: Producto Interno Bruto (PIB)
 slug: producto-interno-bruto
 featuredimage: /assets/inicio_pib.jpg
 date: 2022-08-07T04:32:06.308Z
