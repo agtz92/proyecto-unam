@@ -18,11 +18,6 @@ function ext(url) {
 
 //formateando slug
 function formatSlug(url){
-  //quitando espacios
-  url=url.replace(/\s+/g, '');
-  //quitando comillas
-  url = url.replace(/['"]+/g, '');
-  //haciendolo lowercase
   url=url.toLowerCase();
   return url;
 }
