@@ -72,5 +72,6 @@ mk5: >-
 
 
   **Orientación al cambio:** se refiere a la permeabilidad a los cambios, incluyendo innovación y consideración del riesgo, además implica la capacidad de aprender y desaprender
+  
+  **Capacidad de análisis de información del entorno**: una de las características de los mercados actuales es su alto grado de movilidad y cambio. Esta circunstancia enfatiza la imperiosa necesidad para el empresario de practicar un trabajo de inteligencia continuo y profundo
 ---
-**Capacidad de análisis de información del entorno**: una de las características de los mercados actuales es su alto grado de movilidad y cambio. Esta circunstancia enfatiza la imperiosa necesidad para el empresario de practicar un trabajo de inteligencia continuo y profundo
