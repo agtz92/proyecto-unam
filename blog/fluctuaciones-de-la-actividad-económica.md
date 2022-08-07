@@ -42,10 +42,3 @@ mk5: |-
 
   ![QWQW](/assets/qwqwq.png "QWQW")
 ---
-
-
-![DFDSF](/assets/dfdfsf.png "DFSSD")
-
-
-
-![ASAS](/assets/azaza.png "ASAS")
