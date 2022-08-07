@@ -20,7 +20,7 @@ export default function Template({data}) {
   const { markdownRemark } = data // data.markdownRemark holds your post data
   const { frontmatter, html } = markdownRemark
   const perro = "https://www.antesdelexamen.com/" + frontmatter.slug + "/"
-  console.log({ data: data })
+  //console.log({ data: data })
   return (
     <React.Fragment>
       <Metatags
