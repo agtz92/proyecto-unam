@@ -1,5 +1,5 @@
 ---
-title: CONTABILIDAD ADMINISTRATIVA
+title: Contabilidad Administrativa
 slug: CONTABILIDAD-ADMINISTRATIVA
 featuredimage: ererer.jpg
 date: 2022-07-25T02:16:51.345Z
