@@ -1,6 +1,6 @@
 ---
 title: Índice Nacional de Precios al Consumidor
-slug: "indice-nacional-de-precios-al-consumidor "
+slug: indice-nacional-de-precios-al-consumidor
 featuredimage: /assets/5-1.webp
 date: 2022-08-09T20:22:10.139Z
 dificultad: Preparatoria / Universidad
