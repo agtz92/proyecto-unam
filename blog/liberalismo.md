@@ -4,7 +4,7 @@ slug: liberalismo
 featuredimage: /assets/escl-e1534507176298.webp
 date: 2022-10-25T04:00:08.065Z
 dificultad: Preparatoria / Universidad
-categoria: "Estructura Económica "
+categoria: Análisis Histórico
 tags:
   - "#Liberalismo"
 short-description: E﻿ste es un post del Liberalismo
