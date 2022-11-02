@@ -1,7 +1,7 @@
 ---
 title: Los diez principios de la economía
 slug: los-diez-principios-de-la-economia
-featuredimage: /assets/economia-geografia-1.jpg
+featuredimage: economia-geografia-1.jpg
 date: 2022-09-14T03:35:13.823Z
 dificultad: Preparatoria / Universidad
 categoria: Economia

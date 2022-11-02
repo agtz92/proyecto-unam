@@ -1,7 +1,7 @@
 ---
 title: Estructura de la norma jurídica
 slug: estructura-de-la-norma-juridica
-featuredimage: /assets/yzrkzz8a_400x400.jpg
+featuredimage: yzrkzz8a_400x400.jpg
 date: 2022-09-13T04:23:13.594Z
 dificultad: Preparatoria / Universidad
 categoria: Derecho

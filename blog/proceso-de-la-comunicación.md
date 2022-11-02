@@ -1,7 +1,7 @@
 ---
 title: Proceso de la comunicación
 slug: procesos-de-la-comunicacion
-featuredimage: /assets/proceso-comunicativo.webp
+featuredimage: 5.jpg
 date: 2022-09-19T02:39:45.143Z
 dificultad: Preparatoria / Universidad
 categoria: Derecho

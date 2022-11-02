@@ -1,7 +1,7 @@
 ---
 title: Regla, Norma y Ley
 slug: regla-norma-y-ley
-featuredimage: /assets/leyes_reglamentos_decretos_fines_fiscales.jpg
+featuredimage: leyes_reglamentos_decretos_fines_fiscales.jpg
 date: 2022-10-06T00:36:43.555Z
 dificultad: Preparatoria / Universidad
 categoria: Derecho

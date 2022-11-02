@@ -1,7 +1,7 @@
 ---
 title: Nomenclatura de costos
 slug: nomenclatura-de-costos
-featuredimage: /assets/costos-vs-gastos.png
+featuredimage: costos-vs-gastos.png
 date: 2022-10-20T04:44:09.608Z
 dificultad: Preparatoria / Universidad
 categoria: "Administración Financiera "

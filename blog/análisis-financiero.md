@@ -1,7 +1,7 @@
 ---
 title: Análisis Financiero
 slug: analisis-financiero
-featuredimage: /assets/análisis-financiero.jpg
+featuredimage: analisis-financiero.jpg
 date: 2022-10-13T18:15:46.955Z
 dificultad: Preparatoria / Universidad
 categoria: "Administración Financiera "
