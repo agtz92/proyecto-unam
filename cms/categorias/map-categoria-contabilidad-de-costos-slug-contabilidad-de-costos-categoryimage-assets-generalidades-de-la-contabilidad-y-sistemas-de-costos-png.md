@@ -1,5 +1,4 @@
 ---
-categoria: "Contabilidad de Costos "
-slug: contabilidad-de-costos
+categoria: Contabilidad de Costos
 categoryimage: /assets/contabilidaddecostos.jpg
 ---

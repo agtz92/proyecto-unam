@@ -18,12 +18,15 @@ let materias = require("../exports/exports.js");
 const imageMapper = materias.array;
 
 function fix_image_path(image_path) {
+  
   return image_path.startsWith("../static/assets/")
     ? image_path.slice(17)
     : image_path
 }
 const Categorias = ({ pageContext, data }) => {
+  
   const { categoria } = pageContext
+  console.log(categoria)
   const { edges, totalCount } = data.allMarkdownRemark
   const categoriaHeader = `${totalCount} tema${totalCount === 1 ? "" : "s"
     } en la materia de "${categoria}"`

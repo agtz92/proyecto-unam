@@ -10,6 +10,7 @@ exports.array = {
     PreguntasdeExamen: require("../images/slider/preguntasdeexamen.jpg"),
     Química: require("../images/slider/quimica.jpg"),
     Contabilidad: require("../images/slider/contabilidad.jpg"),
+    ContabilidadDeCostos: require("../images/slider/contabilidaddecostos.jpg"),
     Mercadotencia: require("../images/slider/mercadotecnia.jpg"),
     Emprendedurismo: require("../images/slider/emprendedurismo.jpg"),
     Economia: require("../images/slider/economia.jpg"),

@@ -1,5 +1,4 @@
 ---
-categoria: "Administración Financiera "
-slug: administracion-financiera
+categoria: Administración Financiera
 categoryimage: /assets/administracionfinanciera.jpg
 ---

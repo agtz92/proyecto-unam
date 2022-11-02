@@ -1,5 +1,4 @@
 ---
-categoria: "Estructura Económica "
-slug: estructura-economica
+categoria: Estructura Económica
 categoryimage: /assets/estructuraeconomica.jpg
 ---

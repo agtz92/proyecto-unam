@@ -105,6 +105,7 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
 
   // Make category pages
   categories.forEach(categoria => {
+    console.log({ categoria: categoria.fieldValue })
     createPage({
       path: `/categorias/${_.kebabCase(categoria.fieldValue)}/`,
       component: categoriaTemplate,
