@@ -1,7 +1,7 @@
 ---
 title: Financiamiento a Corto Plazo y Largo Plazo
 slug: financiamiento-a-corto-plazo
-featuredimage: /assets/fuentes-de-financiamiento-a-corto-plazo-¿cómo-funcionan.webp
+featuredimage: /assets/5.jpg
 date: 2022-10-18T03:18:55.799Z
 dificultad: Preparatoria / Universidad
 categoria: "Administración Financiera "
