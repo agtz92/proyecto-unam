@@ -1,4 +1,4 @@
 ---
 categoria: Preguntas de Examen
-categoryimage: /assets/quiz-min.jpg
+categoryimage: /assets/preguntasdeexamen.jpg
 ---
