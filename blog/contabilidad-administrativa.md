@@ -213,44 +213,45 @@ mk5: >-
 
 
   **De Mano de Obra:** Es el costo que interviene  directamente en la transformación del producto. Por ejemplo: el sueldo del mecánico del soldador etc.
+
+  **Gastos Indirectos de fabricación:** Son los costos que intervienen en la transformación de los productos, con excepción de la materia prima y la mano de obra directa.
+
+  Por ejemplo: el sueldo del supervisor, del jefe de departamento o del director, el mantenimiento a las plantas,  la depreciación, los energéticos etc.
+
+
+
+  **b) Costos de distribución o venta:** Son los que se incurren en el área que se encarga de llevar el producto desde la empresa hasta el último consumidor; por ejemplo, publicidad, comisiones, etc.
+
+  **c) Costos de financiamiento:** Son los que se originan por el uso de recursos ajenos, que permiten financiar el crecimiento y desarrollo de las empresas.
+
+
+
+  ### 2.- DE ACUERDO CON SU IDENTIFICACIÓN CON UNA ACTIVIDAD, DEPARTAMENTO O PRODUCTO:
+
+  a) Costos directos: En este concepto se cuenta el sueldo de la secretaria del director de ventas, el cual es un costo directo para este departamento o la materia prima es un costo directo para el producto. 
+
+  ### 3.- DE ACUERDO CON EL TIEMPO EN QUE FUERON CALCULADOS
+
+
+  a) Costos históricos: son los que se produjeron en determinado periodo.
+
+  b) Costos predeterminados: son los que se estiman con base estadística y se utilizan para elaborar presupuestos
+
+
+
+  ### 4.- DE ACUERDO CON EL TIEMPO EN QUE SE CARGAN O SE ENFRENTAN A LOS INGRESOS
+
+  a) Costos de periodo: Son los que se identifican con los intervalos de tiempo y no con los productos o servicios. Por ejemplo: renta de oficinas; este costo, se lleva en el periodo en que se utilizan las oficinas  sin importar la fecha en que se venden los productos
+
+  b) Costos del producto: Son los que se llevan contra los ingresos únicamente cuando han contribuido a generarlos en forma directa; es decir, son los costos de los productos que se han vendido, sin importar el tipo de venta. 
+
+
+
+  ### 5.- DE ACUERDO CON EL CONTROL QUE SE TENGA SOBRE LA **OCURRENCIA DE ALGÚN COSTO.**
+
+  **a) Costos controlables:** Son aquellos sobre los cuales una persona, de determinado nivel, tiene autoridad para realizarlos o no. Por ejemplo, los sueldos de los directores de ventas en las diferentes zonas son controlables por el directos general de ventas; el sueldo de la secretaria por su jefe inmediato, etc.
+
+
+
+  **Costos no controlables**: En algunas ocasiones no se tiene autoridad sobre los costos en que se incurre; tal es el caso de la depreciación del equipo para el supervisor, ya que dicho gasto fue una decisión tomada por la alta gerencia.
 ---
-**Gastos Indirectos de fabricación:** Son los costos que intervienen en la transformación de los productos, con excepción de la materia prima y la mano de obra directa.
-
-Por ejemplo: el sueldo del supervisor, del jefe de departamento o del director, el mantenimiento a las plantas,  la depreciación, los energéticos etc.
-
-
-
-**b) Costos de distribución o venta:** Son los que se incurren en el área que se encarga de llevar el producto desde la empresa hasta el último consumidor; por ejemplo, publicidad, comisiones, etc.
-
-**c) Costos de financiamiento:** Son los que se originan por el uso de recursos ajenos, que permiten financiar el crecimiento y desarrollo de las empresas.
-
-
-
-### 2.- DE ACUERDO CON SU IDENTIFICACIÓN CON UNA ACTIVIDAD, DEPARTAMENTO O PRODUCTO:
-
-a) Costos directos: En este concepto se cuenta el sueldo de la secretaria del director de ventas, el cual es un costo directo para este departamento o la materia prima es un costo directo para el producto. 
-
-### 3.- DE ACUERDO CON EL TIEMPO EN QUE FUERON CALCULADOS
-
-
-a) Costos históricos: son los que se produjeron en determinado periodo.
-
-b) Costos predeterminados: son los que se estiman con base estadística y se utilizan para elaborar presupuestos
-
-
-
-### 4.- DE ACUERDO CON EL TIEMPO EN QUE SE CARGAN O SE ENFRENTAN A LOS INGRESOS
-
-a) Costos de periodo: Son los que se identifican con los intervalos de tiempo y no con los productos o servicios. Por ejemplo: renta de oficinas; este costo, se lleva en el periodo en que se utilizan las oficinas  sin importar la fecha en que se venden los productos
-
-b) Costos del producto: Son los que se llevan contra los ingresos únicamente cuando han contribuido a generarlos en forma directa; es decir, son los costos de los productos que se han vendido, sin importar el tipo de venta. 
-
-
-
-### 5.- DE ACUERDO CON EL CONTROL QUE SE TENGA SOBRE LA **OCURRENCIA DE ALGÚN COSTO.**
-
-**a) Costos controlables:** Son aquellos sobre los cuales una persona, de determinado nivel, tiene autoridad para realizarlos o no. Por ejemplo, los sueldos de los directores de ventas en las diferentes zonas son controlables por el directos general de ventas; el sueldo de la secretaria por su jefe inmediato, etc.
-
-
-
-**Costos no controlables**: En algunas ocasiones no se tiene autoridad sobre los costos en que se incurre; tal es el caso de la depreciación del equipo para el supervisor, ya que dicho gasto fue una decisión tomada por la alta gerencia.

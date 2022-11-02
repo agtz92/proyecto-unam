@@ -230,17 +230,18 @@ mk5: >-
 
 
   Son los que se estiman con base estadística y se utilizan para elaborar presupuesto
+
+  ### **4.- DE ACUERDO CON EL TIEMPO EN QUE SE CARGAN O SE ENFRENTAN A LOS INGRESOS**
+
+  **a) Costos de periodo:** 
+
+  Son los que se identifican con los intervalos de tiempo y no con los productos o servicios. Por ejemplo: renta de oficinas; este costo, se lleva en el periodo en que se utilizan las oficinas  sin importar la fecha en que se venden los productos
+
+  **b) Costos del producto:** 
+
+  Son los que se llevan contra los ingresos únicamente cuando han contribuido a generarlos en forma directa; es decir, son los costos de los productos que se han vendido, sin importar el tipo de venta.
+
+  **Costos no controlables:**
+
+  En algunas ocasiones no se tiene autoridad sobre los costos en que se incurre; tal es el caso de la depreciación del equipo para el supervisor, ya que dicho gasto fue una decisión tomada por la alta gerencia.
 ---
-### **4.- DE ACUERDO CON EL TIEMPO EN QUE SE CARGAN O SE ENFRENTAN A LOS INGRESOS**
-
-**a) Costos de periodo:** 
-
-Son los que se identifican con los intervalos de tiempo y no con los productos o servicios. Por ejemplo: renta de oficinas; este costo, se lleva en el periodo en que se utilizan las oficinas  sin importar la fecha en que se venden los productos
-
-**b) Costos del producto:** 
-
-Son los que se llevan contra los ingresos únicamente cuando han contribuido a generarlos en forma directa; es decir, son los costos de los productos que se han vendido, sin importar el tipo de venta.
-
-**Costos no controlables:**
-
- En algunas ocasiones no se tiene autoridad sobre los costos en que se incurre; tal es el caso de la depreciación del equipo para el supervisor, ya que dicho gasto fue una decisión tomada por la alta gerencia.

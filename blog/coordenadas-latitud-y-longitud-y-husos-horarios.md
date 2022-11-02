@@ -118,37 +118,38 @@ mk5: >-
 
 
   Los husos horarios son una guía, una referencia para el manejo del tiempo en un mundo en que podemos desplazarnos rápidamente por su superficie. Cada nación del planeta ha elegido el huso horario por la cual regirse, a menudo determinado por el que corresponda a su capital.
+
+  **La geografía: Los husos horarios y el cambio de fecha: ejercicio de aplicación**
+
+  Los husos horario es la división de la tierra en meridianos con alguna de la longitud se separa de 15, esta tiene 24 secciones en las cuales la tierra se divide, lo cual este en un recurso útil para poder organizar el tiempo del mundo
+
+  Como se mención la tierra se separa por 15 grados, que es el resultado de dividir toda la esfera terrestre de 360 grados entre 24, el cual es el número de horas que tarda la tierra en girar en su propio eje, el cual ejerce un día\[IR.1]  en el que lo hace
+
+  Los 15 grados los cuales miden cada huso horario tiene una representación de una hora, este depende a donde se dirija ya sea Este U oeste con la relación del meridiano de Greenwich
+
+  El meridiano de Greenwich, es el tiempo universal es coordinado define el meridiano a la hora cero y tomar en cuenta que la tierra gira de oeste a este, por lo que entonces los 24 usos corresponde a las 24 horas del día
+
+  El sistema surge debido a que la Tierra gira sobre su eje de oeste a este, ocasionando que el Sol ilumina una porción mientras deja la otra a oscuras, y se hace necesario un método para estandarizar el tiempo.
+
+  **Los husos horarios se calculan:**
+
+  Las zonas horarias del mundo se calculan con una sola referencia: la cual es el meridiano de Greenwich, desde el meridiano cero, hacia al este suma una hora cada huso, por el otro lado  los husos horarios que se encuentran del otro lado (Oeste) se les resta una hora cada huso horario.
+
+  La razón de esto, es que la Tierra rota en esa dirección Por eso, el cálculo horario de los husos que recorren esa dirección recibe el nombre de desviación positiva, mientras que al cálculo de los husos que van en dirección contraria hacia el oeste se le llama desviación negativa.
+
+  Está descrita por los siguientes pasos
+
+  1.  Si avanza hacia el oeste debe de ser restada una hora por cada huso horario
+
+  2.  Si se avanza hacia el este se debe de sumar una hora por cada huso horario
+
+  El cambio de fecha se da el meridiano de 180 conocido como la línea internacional
+
+  Los husos horarios sirven para:
+
+  Estos sirven para poder organizar el tiempo que se lleva en el mundo, como antes los husos horarios se dominaban con diferentes meridianos, como le dirigían las autoridades
+
+  Los husos horarios son una guía, una referencia para el manejo del tiempo en un mundo en que podemos desplazarnos rápidamente por su superficie. Cada nación del planeta ha elegido el huso horario por la cual regirse, a menudo determinado por el que corresponda a su capital.
 ---
 
 
-**La geografía: Los husos horarios y el cambio de fecha: ejercicio de aplicación**
-
-Los husos horario es la división de la tierra en meridianos con alguna de la longitud se separa de 15, esta tiene 24 secciones en las cuales la tierra se divide, lo cual este en un recurso útil para poder organizar el tiempo del mundo
-
-Como se mención la tierra se separa por 15 grados, que es el resultado de dividir toda la esfera terrestre de 360 grados entre 24, el cual es el número de horas que tarda la tierra en girar en su propio eje, el cual ejerce un día\[IR.1]  en el que lo hace
-
-Los 15 grados los cuales miden cada huso horario tiene una representación de una hora, este depende a donde se dirija ya sea Este U oeste con la relación del meridiano de Greenwich
-
-El meridiano de Greenwich, es el tiempo universal es coordinado define el meridiano a la hora cero y tomar en cuenta que la tierra gira de oeste a este, por lo que entonces los 24 usos corresponde a las 24 horas del día
-
-El sistema surge debido a que la Tierra gira sobre su eje de oeste a este, ocasionando que el Sol ilumina una porción mientras deja la otra a oscuras, y se hace necesario un método para estandarizar el tiempo.
-
-**Los husos horarios se calculan:**
-
-Las zonas horarias del mundo se calculan con una sola referencia: la cual es el meridiano de Greenwich, desde el meridiano cero, hacia al este suma una hora cada huso, por el otro lado  los husos horarios que se encuentran del otro lado (Oeste) se les resta una hora cada huso horario.
-
-La razón de esto, es que la Tierra rota en esa dirección Por eso, el cálculo horario de los husos que recorren esa dirección recibe el nombre de desviación positiva, mientras que al cálculo de los husos que van en dirección contraria hacia el oeste se le llama desviación negativa.
-
-Está descrita por los siguientes pasos
-
-1.  Si avanza hacia el oeste debe de ser restada una hora por cada huso horario
-
-2.  Si se avanza hacia el este se debe de sumar una hora por cada huso horario
-
-El cambio de fecha se da el meridiano de 180 conocido como la línea internacional
-
-Los husos horarios sirven para:
-
-Estos sirven para poder organizar el tiempo que se lleva en el mundo, como antes los husos horarios se dominaban con diferentes meridianos, como le dirigían las autoridades
-
-Los husos horarios son una guía, una referencia para el manejo del tiempo en un mundo en que podemos desplazarnos rápidamente por su superficie. Cada nación del planeta ha elegido el huso horario por la cual regirse, a menudo determinado por el que corresponda a su capital.

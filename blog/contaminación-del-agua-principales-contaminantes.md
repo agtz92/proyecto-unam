@@ -62,5 +62,6 @@ mk5: |-
   ### Sustancias radioactivas
 
   Estas son las principales fuentes de contaminación que son permanentes.
+  
+  Esto quiere decir que pueden pasar décadas para que un litro de agua deje de estar contaminado cuando entra en contacto con una sustancia radioactiva. Estas sustancias son peligrosas y nocivas para la salud de la flora y la fauna del planeta, por lo que su regulación es muy estricta. Sin embargo, ha habido casos en donde accidentalmente se han hecho fugas que han puesto en peligro millones de hectáreas.
 ---
-Esto quiere decir que pueden pasar décadas para que un litro de agua deje de estar contaminado cuando entra en contacto con una sustancia radioactiva. Estas sustancias son peligrosas y nocivas para la salud de la flora y la fauna del planeta, por lo que su regulación es muy estricta. Sin embargo, ha habido casos en donde accidentalmente se han hecho fugas que han puesto en peligro millones de hectáreas.

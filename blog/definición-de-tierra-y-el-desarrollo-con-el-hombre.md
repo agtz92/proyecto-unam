@@ -64,7 +64,8 @@ mk5: >-
 
 
   Dentro de este proceso dialéctico de influencias recíprocas, la relación hombre-naturaleza no se da en términos abstractos, sino del hombre en tanto grupo social, parte de un determinado sistema social, en un medio ambiente específico
+
+  Estas consideraciones permiten concebir la relación medio ambiente-sociedad dentro de una dimensión espacial. Al mismo tiempo, es importante tener presente la dimensión temporal subyacente a la interacción entre ambas entidades: la relación sociedad-naturaleza no tiene sentido único; se trata de un proceso esencialmente recíproco y cambiante. La intervención del hombre sobre el medio ambiente y las consecuencias que de ello se derivan no son hechos o fenómenos aislados, sino que transcurren dentro de un continuo tiempo
 ---
 
 
-Estas consideraciones permiten concebir la relación medio ambiente-sociedad dentro de una dimensión espacial. Al mismo tiempo, es importante tener presente la dimensión temporal subyacente a la interacción entre ambas entidades: la relación sociedad-naturaleza no tiene sentido único; se trata de un proceso esencialmente recíproco y cambiante. La intervención del hombre sobre el medio ambiente y las consecuencias que de ello se derivan no son hechos o fenómenos aislados, sino que transcurren dentro de un continuo tiempo

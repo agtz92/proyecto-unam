@@ -61,23 +61,24 @@ mk5: >-
   * Los mercados no existen en un vacío, sino que se arraigan en contextos sociales y culturales localizados.
 
   * Desestabiliza la noción de la economía como una entidad obvia y explícita por sí misma, y fomenta en su lugar un entendimiento de los propios procesos y relaciones económicos como construcciones e interpretaciones discursivas.
+
+  ## GE Feminista
+
+  * La economía feminista hace hincapié en que las actividades económicas no remuneradas (como el cuidado de niños y ancianos o las tareas domésticas), y por lo tanto fuera de las cuantificaciones como el PIB, también forman parte de la economía
+  * Hacer visibles las diversas economías invisibles. Ya que la propagación y generalización de las relaciones de mercado trajeron consigo una constricción de lo que se
+    entendía como economía: con la importancia creciente de la economía monetaria, todo trabajo que no generaba ingresos monetarios perdió su estatus como tal.
+  * La economía feminista hace hincapié en que las actividades económicas no remuneradas (como el cuidado de niños y ancianos o las tareas domésticas), y por lo tanto fuera de las cuantificaciones como el PIB, también forman parte de la economía
+  * Las actividades y estructuras económicas no sólo tienen una geografía, sino una geografía de genero, y que esta geografía de género es un marcador prominente de las desigualdades entre las posibilidades de sustento de las personas.
+
+
+
+  ## La GE según Parnreiter
+
+  No es suficiente con describir la diferenciación espacial o, en otras palabras, no basta la geografía de los elementos naturales, como cerros, ríos, mares, etcétera; o de las cosas y de la gente y sus relaciones. Hay que analizarla. Eso implica preguntar no sólo por el ¿dónde?, sino también por el ¿por qué allí? Segundo, este análisis del patrón espacial de un fenómeno social es una herramienta poderosa para aprender sobre el fenómeno social en cuestión.
+
+
+
+  * La geografía económica puede entonces definirse como: 
+    la ciencia cuyo enfoque analítico se coloca en cómo las actividades y las relaciones económicas se desarrollan espacialmente, a partir de la producción, la transformación y también la destrucción de espacios, y cómo esta espacialidad concreta afecta a su vez a los
+    procesos y relaciones económicos.
 ---
-## GE Feminista
-
-* La economía feminista hace hincapié en que las actividades económicas no remuneradas (como el cuidado de niños y ancianos o las tareas domésticas), y por lo tanto fuera de las cuantificaciones como el PIB, también forman parte de la economía
-* Hacer visibles las diversas economías invisibles. Ya que la propagación y generalización de las relaciones de mercado trajeron consigo una constricción de lo que se
-  entendía como economía: con la importancia creciente de la economía monetaria, todo trabajo que no generaba ingresos monetarios perdió su estatus como tal.
-* La economía feminista hace hincapié en que las actividades económicas no remuneradas (como el cuidado de niños y ancianos o las tareas domésticas), y por lo tanto fuera de las cuantificaciones como el PIB, también forman parte de la economía
-* Las actividades y estructuras económicas no sólo tienen una geografía, sino una geografía de genero, y que esta geografía de género es un marcador prominente de las desigualdades entre las posibilidades de sustento de las personas.
-
-
-
-## La GE según Parnreiter
-
-No es suficiente con describir la diferenciación espacial o, en otras palabras, no basta la geografía de los elementos naturales, como cerros, ríos, mares, etcétera; o de las cosas y de la gente y sus relaciones. Hay que analizarla. Eso implica preguntar no sólo por el ¿dónde?, sino también por el ¿por qué allí? Segundo, este análisis del patrón espacial de un fenómeno social es una herramienta poderosa para aprender sobre el fenómeno social en cuestión.
-
-
-
-* La geografía económica puede entonces definirse como: 
-  la ciencia cuyo enfoque analítico se coloca en cómo las actividades y las relaciones económicas se desarrollan espacialmente, a partir de la producción, la transformación y también la destrucción de espacios, y cómo esta espacialidad concreta afecta a su vez a los
-  procesos y relaciones económicos.

@@ -82,6 +82,18 @@ mk5: |-
   
 
   ![constitucion 1812](/assets/constitucion1812.jpg "constitucion 1812")
+
+  Por otro lado el grupo centralistas promulgó “Las siete leyes centralistas”  con la cual se implementó la primera república centralista 
+
+  1. La República Central como forma de gobierno. 
+  2. Los estados se transforman en departamentos con facultades limitadas.
+  3. La religión oficial es la católica.
+  4. El poder quedó dividido en Ejecutivo, Legislativo y Judicial.
+  5. Se creó el cuarto poder: Supremo Poder Conservador, formado por cinco personas con poderes absolutos, con facultades para declarar nulas las leyes o decretos, declarar incapacitados al presidente para gobernar o suspender a la Suprema Corte de Justicia y las sesiones del Congreso hasta por dos meses, entre otras.
+  6. El presidente duraría 8 años en su cargo.
+  7. Se restringen las libertades ciudadanas.
+
+  Las disputas se siguieron dando inconforme con eso la alteración del congreso, en 1843 se promulgó un nuevo congreso constituyente el cual se le denominó Junta Nacional Legislativa la cual elaboró una nueva legislación “Bases Orgánicas” la cual estableció la segunda república centralista
 ---
 
 
@@ -89,14 +101,3 @@ mk5: |-
 
 
 
-Por otro lado el grupo centralistas promulgó “Las siete leyes centralistas”  con la cual se implementó la primera república centralista 
-
-1. La República Central como forma de gobierno. 
-2. Los estados se transforman en departamentos con facultades limitadas.
-3. La religión oficial es la católica.
-4. El poder quedó dividido en Ejecutivo, Legislativo y Judicial.
-5. Se creó el cuarto poder: Supremo Poder Conservador, formado por cinco personas con poderes absolutos, con facultades para declarar nulas las leyes o decretos, declarar incapacitados al presidente para gobernar o suspender a la Suprema Corte de Justicia y las sesiones del Congreso hasta por dos meses, entre otras.
-6. El presidente duraría 8 años en su cargo.
-7. Se restringen las libertades ciudadanas.
-
-Las disputas se siguieron dando inconforme con eso la alteración del congreso, en 1843 se promulgó un nuevo congreso constituyente el cual se le denominó Junta Nacional Legislativa la cual elaboró una nueva legislación “Bases Orgánicas” la cual estableció la segunda república centralista

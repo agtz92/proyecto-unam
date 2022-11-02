@@ -83,11 +83,12 @@ mk5: >-
 
 
   En los sistemas naturales, además de las características de semejanza y diferencia entre los seres vivos, también se toman en cuenta las estructuras internas del organismo y el tipo de información genética que posee.
+
+  Los criterios extrínsecos son aquellos que sólo tienen en cuenta las características superficiales del objeto o ser vivo a clasificar: color, forma, textura, tamaño. Esto puede ser útil para algunos propósitos, pero es importante no confiar demasiado en ellos, ya que a menudo pueden ser engañosos. Por ejemplo por ejemplo, dos objetos pueden ser de distinto color pero tener la misma forma, o dos seres vivos pueden ser de distinto tamaño pero tener el mismo color. Por lo general, es mejor utilizar una combinación de criterios intrínsecos y extrínsecos cuando sea posible.
+
+
+
+  Los criterios intrínsecos son los que tienen en cuenta la estructura interna o la composición del objeto o del ser vivo para ser clasificado. Son más fiables que los criterios extrínsecos, ya que no se dejan engañar tan fácilmente por las diferencias superficiales. Por ejemplo, dos objetos pueden ser diferentes en color pero tener la misma estructura interna, o dos seres vivos pueden ser diferentes en tamaño pero tener la misma composición interna. En general, es mejor utilizar una combinación de criterios intrínsecos y criterios extrínsecos siempre que sea posible.
 ---
 
 
-Los criterios extrínsecos son aquellos que sólo tienen en cuenta las características superficiales del objeto o ser vivo a clasificar: color, forma, textura, tamaño. Esto puede ser útil para algunos propósitos, pero es importante no confiar demasiado en ellos, ya que a menudo pueden ser engañosos. Por ejemplo por ejemplo, dos objetos pueden ser de distinto color pero tener la misma forma, o dos seres vivos pueden ser de distinto tamaño pero tener el mismo color. Por lo general, es mejor utilizar una combinación de criterios intrínsecos y extrínsecos cuando sea posible.
-
-
-
-Los criterios intrínsecos son los que tienen en cuenta la estructura interna o la composición del objeto o del ser vivo para ser clasificado. Son más fiables que los criterios extrínsecos, ya que no se dejan engañar tan fácilmente por las diferencias superficiales. Por ejemplo, dos objetos pueden ser diferentes en color pero tener la misma estructura interna, o dos seres vivos pueden ser diferentes en tamaño pero tener la misma composición interna. En general, es mejor utilizar una combinación de criterios intrínsecos y criterios extrínsecos siempre que sea posible.
