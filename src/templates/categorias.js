@@ -18,13 +18,17 @@ let materias = require("../exports/exports.js");
 const imageMapper = materias.array;
 
 function fix_image_path(image_path) {
-  
-  return image_path.startsWith("../static/assets/")
-    ? image_path.slice(17)
-    : image_path
+  if (image_path != null) {
+    return image_path.startsWith("../static/assets/")
+      ? image_path.slice(17)
+      : image_path
+  }
+  else {
+    image_path = "logo_small.png";
+  }
 }
 const Categorias = ({ pageContext, data }) => {
-  
+
   const { categoria } = pageContext
   console.log(categoria)
   const { edges, totalCount } = data.allMarkdownRemark
@@ -78,10 +82,10 @@ const Categorias = ({ pageContext, data }) => {
               <div className="blog-post">
                 <div className="parpost light">
                   Nuestras preguntas de examen están diseñadas para ayudarte a aprobar los exámenes de la UNAM o del IPN. <br></br>
-                  Estos exámenes se utilizan para evaluar su conocimiento de temas específicos, y nuestras preguntas le 
-                  ayudarán a demostrar su dominio del material.<br></br> Hemos recopilado una amplia gama de preguntas que cubren 
-                  todos los temas de los que serás evaluado, y estamos seguros de que nuestras preguntas te darán la ventaja 
-                  que necesitas para aprobar estos exámenes. <br></br>Además, ofrecemos todo el material de estudio UNAM GRATIS. Así que si quieres aumentar tus posibilidades de aprobar estos exámenes, 
+                  Estos exámenes se utilizan para evaluar su conocimiento de temas específicos, y nuestras preguntas le
+                  ayudarán a demostrar su dominio del material.<br></br> Hemos recopilado una amplia gama de preguntas que cubren
+                  todos los temas de los que serás evaluado, y estamos seguros de que nuestras preguntas te darán la ventaja
+                  que necesitas para aprobar estos exámenes. <br></br>Además, ofrecemos todo el material de estudio UNAM GRATIS. Así que si quieres aumentar tus posibilidades de aprobar estos exámenes,
                   asegúrate de consultar nuestras preguntas de test hoy mismo. ¡Gracias por elegir AntesDelExamen!
                 </div>
               </div>
