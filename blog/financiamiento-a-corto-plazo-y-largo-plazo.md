@@ -4,7 +4,7 @@ slug: financiamiento-a-corto-plazo
 featuredimage: 5.jpg
 date: 2022-10-18T03:18:55.799Z
 dificultad: Preparatoria / Universidad
-categoria: "Administración Financiera "
+categoria: Administración Financiera
 tags:
   - "#Administracion"
   - financiamiento

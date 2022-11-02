@@ -4,7 +4,7 @@ slug: administracion-financiera
 featuredimage: portada-administracion-financiera-principal.jpg
 date: 2022-10-12T17:25:59.104Z
 dificultad: Preparatoria / Universidad
-categoria: "Administración Financiera "
+categoria: Administración Financiera
 tags:
   - "#Administracion"
   - "#Financiera"

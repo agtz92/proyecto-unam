@@ -4,7 +4,7 @@ slug: contabilidad
 featuredimage: contabilidad-basica-1.jpg
 date: 2022-10-21T05:02:44.857Z
 dificultad: Preparatoria / Universidad
-categoria: "Administración Financiera "
+categoria: Administración Financiera
 tags:
   - "#Contabilidad"
   - "#balanza"

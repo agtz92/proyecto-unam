@@ -4,7 +4,7 @@ slug: administracion-de-cuentas-por-cobrar
 featuredimage: liquidez_de_la_empresa.jpg
 date: 2022-10-11T17:08:49.436Z
 dificultad: Preparatoria / Universidad
-categoria: "Administración Financiera "
+categoria: Administración Financiera
 tags:
   - "#Administracion"
   - "#Cuentas"
