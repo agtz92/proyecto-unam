@@ -48,6 +48,7 @@ export default function Footer() {
                         <li><a className="footer-link" href="https://www.antesdelauni.com"  rel="noopener ">Bancos de preguntas UNAM IPN UAM UAEM</a></li>
                         <li><a className="footer-link" href="https://www.3minread.com"  rel="noopener ">Lifestyle, Culture and more 3 min read articles</a></li>
                         <li><a className="footer-link" href="https://www.pmhule.com"  rel="noopener ">Fabricantes de hule y neopreno</a></li>
+                        <li><a className="footer-link" href="https://www.sombrealo.com"  rel="noopener ">Velarias en Queretaro</a></li>
                     </ul>
                     </div>
                 </div>
