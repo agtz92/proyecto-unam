@@ -11,10 +11,11 @@ import kebabCase from "lodash/kebabCase"
 import { Helmet } from "react-helmet"
 
 //Array de materias con imagenes
-let materias = require("../exports/exports.js");
+//let materias = require("../exports/exports.js");
 
 //image mapper ligado a array de materias
-const imageMapper = materias.array;
+import * as imageMapper from "../exports/exports.js"
+//const imageMapper = materias.array;
 
 const CategoriasPage = ({
   data: {
@@ -48,7 +49,7 @@ const CategoriasPage = ({
               <Link to={`/categorias/${kebabCase(categoria.fieldValue)}/`}>
                 <InfoBlock
                   title={categoria.fieldValue}
-                  img={imageMapper[categoria.fieldValue.split(" ").join("")]}
+                  img={imageMapper.array[categoria.fieldValue.split(" ").join("")]}
                   description={`Ve todos los temas que tenemos para preparar tu examen de ${categoria.fieldValue}`}
                 />
               </Link>

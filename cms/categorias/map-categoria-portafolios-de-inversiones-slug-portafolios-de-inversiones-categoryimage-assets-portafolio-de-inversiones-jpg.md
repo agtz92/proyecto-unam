@@ -1,5 +1,4 @@
 ---
-categoria: "Portafolios de Inversiones "
-slug: portafolios-de-inversiones
+categoria: Portafolios de Inversiones
 categoryimage: /assets/portafoliosdeinversiones.jpg
 ---
