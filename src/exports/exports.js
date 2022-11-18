@@ -15,7 +15,7 @@ exports.array = {
   Literatura: require("../images/slider/literatura.jpg"),
   MejorescursosdepreparacionUNAMIPNUAMUAEM: require("../images/slider/cursosdepreparacion.jpg"),
   Mercadotencia: require("../images/slider/mercadotecnia.jpg"),
-  PortafolioDeInversiones: require("../images/slider/portafoliodeinversiones.jpg"),
+  PortafoliosDeInversiones: require("../images/slider/portafoliosdeinversiones.jpg"),
   PreguntasdeExamen: require("../images/slider/preguntasdeexamen.jpg"),
   Química: require("../images/slider/quimica.jpg"),
   SistemasDeInformacionContableYFinanciera: require("../images/slider/sistemasdeinformacioncontableyfinanciera.jpg"),
