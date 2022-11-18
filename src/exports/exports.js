@@ -3,8 +3,8 @@ import React from "react"
 
 
 export const array = {
-  AdministracionFinanciera: require("../images/slider/administracionfinanciera.jpg"),
-  AnalisisHistorico: require("../images/slider/analisishistorico.jpg"),
+  AdministraciónFinanciera: require("../images/slider/administracionfinanciera.jpg"),
+  AnálisisHistorico: require("../images/slider/analisishistorico.jpg"),
   Biología: require("../images/slider/biologia.jpg"),
   Contabilidad: require("../images/slider/contabilidad.jpg"),
   Derecho: require("../images/slider/derecho.jpg"),
