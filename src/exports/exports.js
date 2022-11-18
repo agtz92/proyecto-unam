@@ -20,5 +20,5 @@ export const array = {
   PortafoliosdeInversiones: require("../images/slider/portafoliosdeinversiones.jpg"),
   PreguntasdeExamen: require("../images/slider/preguntasdeexamen.jpg"),
   Química: require("../images/slider/quimica.jpg"),
-  SistemasDeInformacionContableYFinanciera: require("../images/slider/sistemasdeinformacioncontableyfinanciera.jpg"),
+  SistemasdeInformaciónContableyFinanciera: require("../images/slider/sistemasdeinformacioncontableyfinanciera.jpg"),
 }
