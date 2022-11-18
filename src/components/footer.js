@@ -42,13 +42,13 @@ export default function Footer() {
                     <div>
                     <h2 className="footer-heading">Partners</h2>
                     <ul  className="list-footer w-list-unstyled">
-                        <li><a className="footer-link" href="https://www.matmarkt.com/productos"  rel="noopener ">MatMarkt. Piso y tapetes de hule y PVC</a></li>
-                        <li><a className="footer-link" href="https://www.corthw.com/productos"  rel="noopener ">Cortina Hawaiana. Cortinas Hawaianas de PVC</a></li>
-                        <li><a className="footer-link" href="https://www.10datos.com"  rel="noopener ">10 datos curiosos sobre cientos de temas</a></li>
-                        <li><a className="footer-link" href="https://www.antesdelauni.com"  rel="noopener ">Bancos de preguntas UNAM IPN UAM UAEM</a></li>
-                        <li><a className="footer-link" href="https://www.3minread.com"  rel="noopener ">Lifestyle, Culture and more 3 min read articles</a></li>
-                        <li><a className="footer-link" href="https://www.pmhule.com"  rel="noopener ">Fabricantes de hule y neopreno</a></li>
-                        <li><a className="footer-link" href="https://www.sombrealo.com"  rel="noopener ">Velarias en Queretaro</a></li>
+                        <li><a className="footer-link" href="https://www.matmarkt.com/productos"  target="_blank" rel="noopener">MatMarkt. Piso y tapetes de hule y PVC</a></li>
+                        <li><a className="footer-link" href="https://www.corthw.com/productos"  target="_blank" rel="noopener">Cortina Hawaiana. Cortinas Hawaianas de PVC</a></li>
+                        <li><a className="footer-link" href="https://www.10datos.com"  target="_blank" rel="noopener">10 datos curiosos sobre cientos de temas</a></li>
+                        <li><a className="footer-link" href="https://www.antesdelauni.com"  target="_blank" rel="noopener">Bancos de preguntas UNAM IPN UAM UAEM</a></li>
+                        <li><a className="footer-link" href="https://www.3minread.com"  target="_blank" rel="noopener">Lifestyle, Culture and more 3 min read articles</a></li>
+                        <li><a className="footer-link" href="https://www.pmhule.com"  target="_blank" rel="noopener">Fabricantes de hule y neopreno</a></li>
+                        <li><a className="footer-link" href="https://www.sombrealo.com"  target="_blank" rel="noopener">Velarias en Queretaro</a></li>
                     </ul>
                     </div>
                 </div>
