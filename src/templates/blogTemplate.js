@@ -4,6 +4,7 @@ import Img from "gatsby-image"
 // Components
 import Layout from "../layouts/layout"
 import Heading from "../components/heading"
+import Backlinks from "../components/backlinks/backlinks"
 //import logoChico from "../images/logo_small.png"
 import showdown from "showdown"
 import "../styles/normalize.css"
@@ -143,6 +144,7 @@ export default function Template({data}) {
             </Link>
 
             <div className="parpost light">
+              <Backlinks categoria = {frontmatter.categoria} />
               antesdelexamen es una página de internet gratuita con bancos de
               preguntas de examen para UNAM, IPN y todas las demás universidades
               más importantes de México. Tenemos bancos de preguntas por materia

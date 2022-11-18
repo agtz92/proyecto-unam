@@ -5,6 +5,7 @@ import Heading from "../components/heading"
 import PostBlockLarge from "../components/postblocklarge"
 import InfoBlock from "../components/infoblock"
 import CategoryHeader from "../components/categoryHeader"
+import Backlinks from "../components/backlinks/backlinks"
 import matmarkt from "../images/partners/matmarkt.jpg"
 import corthw from "../images/partners/corthw.jpg"
 
@@ -81,6 +82,7 @@ const Categorias = ({ pageContext, data }) => {
               <div className="div-grey-post"></div>
               <div className="blog-post">
                 <div className="parpost light">
+                <Backlinks categoria = {categoria} />
                   Nuestras preguntas de examen están diseñadas para ayudarte a aprobar los exámenes de la UNAM o del IPN. <br></br>
                   Estos exámenes se utilizan para evaluar su conocimiento de temas específicos, y nuestras preguntas le
                   ayudarán a demostrar su dominio del material.<br></br> Hemos recopilado una amplia gama de preguntas que cubren
