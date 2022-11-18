@@ -4,7 +4,7 @@ import React from "react"
 
 export const array = {
   AdministraciónFinanciera: require("../images/slider/administracionfinanciera.jpg"),
-  AnálisisHistorico: require("../images/slider/analisishistorico.jpg"),
+  AnálisisHistórico: require("../images/slider/analisishistorico.jpg"),
   Biología: require("../images/slider/biologia.jpg"),
   Contabilidad: require("../images/slider/contabilidad.jpg"),
   Derecho: require("../images/slider/derecho.jpg"),
@@ -17,7 +17,7 @@ export const array = {
   Literatura: require("../images/slider/literatura.jpg"),
   MejorescursosdepreparacionUNAMIPNUAMUAEM: require("../images/slider/cursosdepreparacion.jpg"),
   Mercadotencia: require("../images/slider/mercadotecnia.jpg"),
-  PortafoliosDeInversiones: require("../images/slider/portafoliosdeinversiones.jpg"),
+  PortafoliosdeInversiones: require("../images/slider/portafoliosdeinversiones.jpg"),
   PreguntasdeExamen: require("../images/slider/preguntasdeexamen.jpg"),
   Química: require("../images/slider/quimica.jpg"),
   SistemasDeInformacionContableYFinanciera: require("../images/slider/sistemasdeinformacioncontableyfinanciera.jpg"),
