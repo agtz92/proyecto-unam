@@ -17,7 +17,7 @@ import Metatags from "../components/metatags"
 
 
 const converter = new showdown.Converter()
-export default function Template({ data }) {
+export default function Template({data}) {
   const { markdownRemark } = data // data.markdownRemark holds your post data
   const { frontmatter, html } = markdownRemark
   const perro = "https://www.antesdelexamen.com/" + frontmatter.slug + "/"
@@ -30,7 +30,7 @@ export default function Template({ data }) {
         featuredimage={frontmatter.featuredimage}
         date={frontmatter.date}
         perro={perro}
-      />
+      /> 
 
       <Layout>
         <div className="blog-post-container">
@@ -144,7 +144,7 @@ export default function Template({ data }) {
             </Link>
 
             <div className="parpost light">
-              <Backlinks categoria={frontmatter.categoria} />
+              <Backlinks categoria = {frontmatter.categoria} />
               antesdelexamen es una página de internet gratuita con bancos de
               preguntas de examen para UNAM, IPN y todas las demás universidades
               más importantes de México. Tenemos bancos de preguntas por materia
@@ -189,27 +189,6 @@ export const pageQuery = graphql`
       childImageSharp {
         fluid(maxWidth: 600, quality: 100) {
           ...GatsbyImageSharpFluid
-        }
-      }
-    }
-    categorias:allMarkdownRemark(
-      limit: 2000
-      sort: { fields: [frontmatter___date], order: DESC }
-      filter: { frontmatter: { categoria: { in: [$categoria] } } }
-    ) {
-      totalCount
-      edges {
-        node {
-          frontmatter {
-            date(formatString: "DD MMMM, YYYY")
-            slug
-            dificultad
-            featuredimage
-            tags
-            title
-            categoria
-            short_description
-          }
         }
       }
     }

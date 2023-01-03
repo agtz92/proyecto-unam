@@ -12,7 +12,6 @@ collections:
   - name: blog
     label: Blog
     folder: blog
-    media_folder: static/assets
     create: true
     fields:
       - { name: title, label: Title, hint: Poner el título completo , required: true}
