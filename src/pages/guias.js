@@ -17,21 +17,21 @@ export default function Home() {
       <Helmet title="Guias UNAM IPN UAM 2022 GRATIS | Antesdelexamen.com">
         <meta
           name="description"
-          content="Preparate para tu examen con las guias actualizadas 2021 para la UNAM"
+          content="Preparate para tu examen con las guias actualizadas 2022 para la UNAM"
         />
       </Helmet>
       <Layout>
         <div style={{ marginLeft: "2%", marginRight: "2%" }}>
           <Heading color="dark" alignment="center">
-            Guías para Universidades 2021
+            Guías para Universidades 2022
           </Heading>
           <li>
             <Link to={`/guia-ipn/`}>
               <PostBlockLarge
-                title="Guia IPN 2021"
+                title="Guia IPN 2022"
                 img={ipn}
                 nivel="Universidad"
-                description="Guía de estudio IPN 2021. Guía más reciente para admisión al IPN."
+                description="Guía de estudio IPN 2022. Guía más reciente para admisión al IPN."
               />
             </Link>
 
@@ -40,7 +40,7 @@ export default function Home() {
                 title="Guia Area 1 UNAM"
                 img={unam}
                 nivel="Universidad"
-                description="Guía UNAM Area 1 2021. Guía más reciente para Area 1 admisión de la UNAM."
+                description="Guía UNAM Area 1 2022. Guía más reciente para Area 1 admisión de la UNAM."
               />
             </Link>
             <Link to={`/guiaarea2unam/`}>
@@ -48,7 +48,7 @@ export default function Home() {
                 title="Guia Area 2 UNAM"
                 img={unam}
                 nivel="Universidad"
-                description="Guía UNAM Area 2 2021. Guía más reciente para Area 2 admisión de la UNAM."
+                description="Guía UNAM Area 2 2022. Guía más reciente para Area 2 admisión de la UNAM."
               />
             </Link>
             <Link to={`/guiaarea3unam/`}>
@@ -56,7 +56,7 @@ export default function Home() {
                 title="Guia Area 3 UNAM"
                 img={unam}
                 nivel="Universidad"
-                description="Guía UNAM Area 3 2021. Guía más reciente para Area 3 admisión de la UNAM."
+                description="Guía UNAM Area 3 2022. Guía más reciente para Area 3 admisión de la UNAM."
               />
             </Link>
             <Link to={`/guiaarea4unam/`}>
@@ -64,7 +64,7 @@ export default function Home() {
                 title="Guia Area 4 UNAM"
                 img={unam}
                 nivel="Universidad"
-                description="Guía UNAM Area 4 2021. Guía más reciente para Area 4 admisión de la UNAM."
+                description="Guía UNAM Area 4 2022. Guía más reciente para Area 4 admisión de la UNAM."
               />
             </Link>
             <Link to={`/guia-uam/`}>
@@ -72,7 +72,7 @@ export default function Home() {
                 title="Guias para la UAM"
                 img={uam}
                 nivel="Universidad"
-                description="Las 4 Guías UAM 2021. Guías más recientes para admisión UAM."
+                description="Las 4 Guías UAM 2022. Guías más recientes para admisión UAM."
               />
             </Link>
           </li>

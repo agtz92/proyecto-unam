@@ -13,10 +13,10 @@ import "../styles/soynuevo.webflow.css"
 export default function Home() {
   return (
     <React.Fragment>
-      <Helmet title="Temas resumidos para antes del examen | Guias UNAM 2021">
+      <Helmet title="Temas resumidos para antes del examen | Guias UNAM 2022">
         <meta
           name="description"
-          content="Preparate para tu examen con las guias actualizadas 2021 para la UNAM"
+          content="Preparate para tu examen con las guias actualizadas 2022 para la UNAM"
         />
       </Helmet>
       <Layout>
@@ -40,7 +40,7 @@ export default function Home() {
                 title="Guia Area 1 UNAM"
                 img={unam}
                 nivel="Universidad"
-                description="Guía UNAM Area 1 2021. Guía más reciente para Area 1 admisión de la UNAM."
+                description="Guía UNAM Area 1 2022. Guía más reciente para Area 1 admisión de la UNAM."
               />
             </Link>
             <Link to={`/guiaarea2unam/`}>
@@ -48,7 +48,7 @@ export default function Home() {
                 title="Guia Area 2 UNAM"
                 img={unam}
                 nivel="Universidad"
-                description="Guía UNAM Area 2 2021. Guía más reciente para Area 2 admisión de la UNAM."
+                description="Guía UNAM Area 2 2022. Guía más reciente para Area 2 admisión de la UNAM."
               />
             </Link>
             <Link to={`/guiaarea3unam/`}>
@@ -56,7 +56,7 @@ export default function Home() {
                 title="Guia Area 3 UNAM"
                 img={unam}
                 nivel="Universidad"
-                description="Guía UNAM Area 3 2021. Guía más reciente para Area 3 admisión de la UNAM."
+                description="Guía UNAM Area 3 2022. Guía más reciente para Area 3 admisión de la UNAM."
               />
             </Link>
           </li>
