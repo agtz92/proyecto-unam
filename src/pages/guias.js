@@ -26,14 +26,7 @@ export default function Home() {
             Guías para Universidades 2022
           </Heading>
           <li>
-            <Link to={`/guia-ipn/`}>
-              <PostBlockLarge
-                title="Guia IPN 2022"
-                img={ipn}
-                nivel="Universidad"
-                description="Guía de estudio IPN 2022. Guía más reciente para admisión al IPN."
-              />
-            </Link>
+            
 
             <Link to={`/guiaarea1unam/`}>
               <PostBlockLarge
@@ -65,6 +58,14 @@ export default function Home() {
                 img={unam}
                 nivel="Universidad"
                 description="Guía UNAM Area 4 2022. Guía más reciente para Area 4 admisión de la UNAM."
+              />
+            </Link>
+            <Link to={`/guia-ipn/`}>
+              <PostBlockLarge
+                title="Guia IPN 2022"
+                img={ipn}
+                nivel="Universidad"
+                description="Guía de estudio IPN 2022. Guía más reciente para admisión al IPN."
               />
             </Link>
             <Link to={`/guia-uam/`}>
