@@ -1,6 +1,6 @@
 ---
 title: Examen de Biología  para la Admisión para la UNAM  (Cuestionario C)
-slug: examen-de-biologia-para-la-admision-para-la-unam
+slug: examen-de-biologia-para-la-admision-para-la-unam-C
 featuredimage: /assets/collection-of-biology-icons-vector-2-.jpg
 date: 2023-02-01T21:15:19.568Z
 dificultad: Preparatoria / Universidad
