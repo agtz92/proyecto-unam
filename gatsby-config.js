@@ -37,14 +37,6 @@ module.exports = {
     `gatsby-plugin-react-helmet`,
     `gatsby-plugin-sitemap`,
     {
-      resolve: "gatsby-plugin-robots-txt",
-      options: {
-        host: "https://www.antesdelexamen.com/",
-        sitemap: "https://www.antesdelexamen.com/sitemap.xml",
-        policy: [{ userAgent: "*", allow: "/" }],
-      },
-    },
-    {
       //assets go above everything else to avoid failures when using gatsby-remark-relative-images
       resolve: `gatsby-source-filesystem`,
       options: {
