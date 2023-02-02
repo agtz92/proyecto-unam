@@ -1,6 +1,6 @@
 ---
-title: Cuestionario 6 de Física para el Examen Admisión de la UNAM
-slug: cuestionario-6-fisica-para-el-examen-admision-de-la-unam
+title: Cuestionario 5 de Física para el Examen Admisión de la UNAM
+slug: cuestionario-5-fisica-para-el-examen-admision-de-la-unam
 featuredimage: /assets/fisicaexamen12.jpeg
 date: 2023-02-02T20:01:09.434Z
 dificultad: Preparatoria / Universidad
@@ -122,7 +122,6 @@ mk3: >-
 
   a)foco           b)no se refleja         c)eje principal       d)sobre sí mismo 
 
-
     23 ¿Todo rayo que pasa por el foco “f” se refleja paralelo? 
 
   a)foco           b)no se refleja         c)eje principal       d)sobre sí mismo  
@@ -144,7 +143,7 @@ mk3: >-
 
    29 ¿Cuándo el objeto esta entre el foco y el vertice la imagen que se forma es?    
 
-  ![cuestionario fisica 6](/assets/captura-de-pantalla-2023-02-02-140522.jpg "cuestionario fisica 6")
+  ![cuestionario fisica 5](/assets/captura-de-pantalla-2023-02-02-140522.jpg "cuestionario fisica 5")
 mk4: >-
   31 ¿En la sormula un resultado negativo significa que?  
 
@@ -190,4 +189,4 @@ mk5: >-
 
   41 ¿Cuándo el objeto esta en el foco principal la imagen es?
 ---
-![Solucionador fisica 6](/assets/captura-de-pantalla-2023-02-02-140732.jpg "Solucionador fisica 6")
+![Solucionador fisica 5](/assets/captura-de-pantalla-2023-02-02-140732.jpg "Solucionador fisica 5")
