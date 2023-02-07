@@ -1,7 +1,9 @@
 const path = require("path")
 const _ = require("lodash")
 
-//Función para eliminar problema de paths en gatsby image featured image
+
+
+//Función para eliminar problema de paths en gatsby image featured image y checar si la extension de imagen es soportada
 function ext(url) {
 
   if (url != null) {
@@ -11,16 +13,27 @@ function ext(url) {
 
     // Break URL at ? and take first part (file name, extension)
     url = url.split('?')[0];
+
+    //check image extension
+    let imgExtension = url.split('.')[1];
+    if ((imgExtension !== '.jpg') || (imgExtension !== '.png')){
+      url = 'espanol.jpg';
+    }
+
   }
   // Now we have only extension
   return url;
 }
+
+
 
 //formateando slug
 function formatSlug(url){
   url=url.toLowerCase();
   return url;
 }
+
+
 
 exports.createPages = async ({ actions, graphql, reporter }) => {
   const { createPage } = actions
@@ -70,8 +83,8 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
 
   // Create post detail pages
   posts.forEach(({ node }) => {
-    if (['estrategias-empresariales-ante-el-problema-economico-de-la-inflacion '].includes(node.frontmatter.slug)) {
-      console.log({ slug: node.frontmatter.slug })
+    if (['uso-de-s-c-y-z'].includes(node.frontmatter.slug)) {
+      console.log({ slug: node.frontmatter.slug, featuredimage: ext(node.frontmatter.featuredimage) })
     }
     createPage({
 
