@@ -1,5 +1,7 @@
 const path = require("path")
 const _ = require("lodash")
+//import to write in text file
+const fs = require('fs')
 
 
 
@@ -16,7 +18,9 @@ function ext(url) {
 
     //check image extension
     let imgExtension = url.split('.')[1];
-    if ((imgExtension !== 'jpg') && (imgExtension !== 'png')){
+    if ((imgExtension !== 'jpg') && (imgExtension !== 'png') && (imgExtension !== 'jpeg')) {
+
+
       url = 'espanol.jpg';
     }
   }
@@ -27,8 +31,8 @@ function ext(url) {
 
 
 //formateando slug
-function formatSlug(url){
-  url=url.toLowerCase();
+function formatSlug(url) {
+  url = url.toLowerCase();
   return url;
 }
 
