@@ -16,7 +16,7 @@ function ext(url) {
 
     //check image extension
     let imgExtension = url.split('.')[1];
-    if ((imgExtension !== 'jpg') || (imgExtension !== 'png')){
+    if ((imgExtension !== 'jpg') && (imgExtension !== 'png')){
       url = 'espanol.jpg';
     }
   }
