@@ -1,7 +1,3 @@
-//Categorías con la imagen
-import React from "react"
-
-
 export const array = {
   AdministraciónFinanciera: require("../images/slider/administracionfinanciera.jpg"),
   AnálisisHistórico: require("../images/slider/analisishistorico.jpg"),

@@ -18,15 +18,30 @@ function ext(url) {
 
     //check image extension
     let imgExtension = url.split('.')[1];
-    if ((imgExtension !== 'jpg') && (imgExtension !== 'png') && (imgExtension !== 'jpeg')) {
+    //check if it exists
+    let imgExists = './static/assets/' + url
 
 
+    if (fs.existsSync(imgExists)) {
+      //check if extension is valid
+      console.log(imgExists)
+      if ((imgExtension !== 'jpg') && (imgExtension !== 'png') && (imgExtension !== 'jpeg')) {
+
+        url = 'espanol.jpg';
+      }
+
+    } else {
+      console.log("El pendejo de emiliano la cago con esta imagen", url)
       url = 'espanol.jpg';
     }
+
+
   }
   // Now we have only extension
   return url;
 }
+
+
 
 
 
@@ -44,6 +59,8 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
   const blogPostTemplate = path.resolve("./src/templates/blogTemplate.js")
   const tagTemplate = path.resolve("./src/templates/tags.js")
   const categoriaTemplate = path.resolve("./src/templates/categorias.js")
+
+  
 
   //add filter: {fileAbsolutePath: {regex: "/blog/"}} to create new source file systems
   const result = await graphql(`
@@ -121,7 +138,7 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
 
   // Make category pages
   categories.forEach(categoria => {
-    console.log({ categoria: categoria.fieldValue })
+    //console.log({ categoria: categoria.fieldValue })
     createPage({
       path: `/categorias/${_.kebabCase(categoria.fieldValue)}/`,
       component: categoriaTemplate,

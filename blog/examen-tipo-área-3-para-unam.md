@@ -492,37 +492,38 @@ mk5: >-
 
 
   A)   GlucocálizB)   MicrotúbulosC)   Aparato de GolgiD)   Retículo endoplásmico
+
+  113.- Al sufrir una cortada, la sangre empieza a uir y a su vez trata de coagularse y evitar que entren sustancias que puedan infectar la herida, ¿cuál de las siguientes estructuras celulares actúa para evitar lo segundo?
+
+  A)   VacuolaB)   CentrioloC)   PlásmidoD)   Lisosoma  
+
+  114.-El metabolismo es el conjunto de reacciones físicas y químicas que se llevan en la célula, en donde la “moneda energética” en los procesos es:   
+
+  A)   el ATP. B)   el FAD.C)   el ARN.D)   el ADN
+
+  .115.-Las  células  epiteliales en  los  seres humanos  se  re-generan por el proceso de división celular llamado:
+
+  A) mitosis. B) meiosis.C) gemación.D) bipartición
+
+  .116.-La Teoría endosimbiótica de Margulis determina que:
+
+  A)  algunos organelos celulares de moléculas sencillas se combinaron para dar origen a otros más complejos.B)   los organelos celulares derivaron de procariontes de vida libre y por un proceso de asociación formaron parte de una sola célula.C)   el ambiente  se transforma continuamente,  lo que de-termina nuevas necesidades en los seres vivos y la necesidad de evolución en las células.D)   los seres vivos de una misma especie tienen descen-dientes con ciertas variaciones, lo que también aplica en los seres humanos.
+
+  117.-El pie de atleta en el ser humano es una enfermedad producida por una especie perteneciente al reino: 
+
+  A)  fungi. B) monera. C) protista.D) plantae.
+
+  118.-Dentro de  los  niveles de organización  ecológicos  de una área especíca, una parvada de patos se considera como
+
+  :A)   población.B)   ecosistema.C)   comunidad. D)   nicho ecológico
+
+  .119.-Las  relación  interespecíca en un ecosistema en la cual una especie ataca y mata a otra para alimentarse, se denomina
+
+  A)   parasitismo. B)   depredación.C)   amensalismo.  D)   comensalismo.
+
+  120.-La tala inmoderada de árboles, con relación al ecosistema, ha traído consigo:
+
+  A)   la deserticación de las áreas de pastoreo.B)   la pérdida de lluvias en los periodos recurrentes.C)   el crecimiento de la población y zonas urbanas.D)   la desaparición o emigración a nuevos biomas de las especies
 ---
-113.- Al sufrir una cortada, la sangre empieza a uir y a su vez trata de coagularse y evitar que entren sustancias que puedan infectar la herida, ¿cuál de las siguientes estructuras celulares actúa para evitar lo segundo?
 
-A)   VacuolaB)   CentrioloC)   PlásmidoD)   Lisosoma  
 
-114.-El metabolismo es el conjunto de reacciones físicas y químicas que se llevan en la célula, en donde la “moneda energética” en los procesos es:   
-
-A)   el ATP. B)   el FAD.C)   el ARN.D)   el ADN
-
-.115.-Las  células  epiteliales en  los  seres humanos  se  re-generan por el proceso de división celular llamado:
-
-A) mitosis. B) meiosis.C) gemación.D) bipartición
-
-.116.-La Teoría endosimbiótica de Margulis determina que:
-
-A)  algunos organelos celulares de moléculas sencillas se combinaron para dar origen a otros más complejos.B)   los organelos celulares derivaron de procariontes de vida libre y por un proceso de asociación formaron parte de una sola célula.C)   el ambiente  se transforma continuamente,  lo que de-termina nuevas necesidades en los seres vivos y la necesidad de evolución en las células.D)   los seres vivos de una misma especie tienen descen-dientes con ciertas variaciones, lo que también aplica en los seres humanos.
-
-117.-El pie de atleta en el ser humano es una enfermedad producida por una especie perteneciente al reino: 
-
-A)  fungi. B) monera. C) protista.D) plantae.
-
-118.-Dentro de  los  niveles de organización  ecológicos  de una área especíca, una parvada de patos se considera como
-
-:A)   población.B)   ecosistema.C)   comunidad. D)   nicho ecológico
-
-.119.-Las  relación  interespecíca en un ecosistema en la cual una especie ataca y mata a otra para alimentarse, se denomina
-
-A)   parasitismo. B)   depredación.C)   amensalismo.  D)   comensalismo.
-
-120.-La tala inmoderada de árboles, con relación al ecosistema, ha traído consigo:
-
-A)   la deserticación de las áreas de pastoreo.B)   la pérdida de lluvias en los periodos recurrentes.C)   el crecimiento de la población y zonas urbanas.D)   la desaparición o emigración a nuevos biomas de las especies
-
-![area 3](/assets/captura-de-pantalla-2023-02-09-235519.jpg "area 3")
