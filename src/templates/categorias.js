@@ -31,7 +31,7 @@ function fix_image_path(image_path) {
 const Categorias = ({ pageContext, data }) => {
 
   const { categoria } = pageContext
-  console.log(categoria)
+  //console.log(categoria)
   const { edges, totalCount } = data.allMarkdownRemark
   const categoriaHeader = `${totalCount} tema${totalCount === 1 ? "" : "s"
     } en la materia de "${categoria}"`

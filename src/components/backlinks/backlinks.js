@@ -1,7 +1,7 @@
 import React from "react";
 
 const Backlinks = props => {
-    console.log(props.categoria)
+    //console.log(props.categoria)
     return (
         <React.Fragment>
             <ul className="" >

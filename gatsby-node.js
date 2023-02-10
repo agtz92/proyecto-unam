@@ -24,7 +24,7 @@ function ext(url) {
 
     if (fs.existsSync(imgExists)) {
       //check if extension is valid
-      console.log(imgExists)
+      //console.log(imgExists)
       if ((imgExtension !== 'jpg') && (imgExtension !== 'png') && (imgExtension !== 'jpeg')) {
 
         url = 'espanol.jpg';
@@ -104,7 +104,7 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
   // Create post detail pages
   posts.forEach(({ node }) => {
     if (['uso-de-s-c-y-z'].includes(node.frontmatter.slug)) {
-      console.log({ slug: node.frontmatter.slug, featuredimage: ext(node.frontmatter.featuredimage) })
+      //console.log({ slug: node.frontmatter.slug, featuredimage: ext(node.frontmatter.featuredimage) })
     }
     createPage({
 
