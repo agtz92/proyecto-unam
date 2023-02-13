@@ -4,7 +4,7 @@ slug: formulario-de-calculo-integral-para-examen-unam-ipn
 featuredimage: /assets/unamipn.jpg
 date: 2023-02-13T04:40:41.238Z
 dificultad: Preparatoria / Universidad
-categoria: Mejores cursos de preparacion UNAM IPN UAM UAEM
+categoria: Preguntas de Examen
 tags:
   - "#Preguntas"
   - "#Admision"
