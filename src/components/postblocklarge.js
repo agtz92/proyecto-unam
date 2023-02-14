@@ -9,9 +9,9 @@ import "../styles/soynuevo.webflow.css"
 export default function PostBlockLarge(props) {
     return(
         <div className="div-large-post">
-            <div className="div-img-large-post">
+            {props.img && <div className="div-img-large-post">
             <img src={props.img} loading="lazy" width="250" alt="" className="img-large-post"/>
-            </div>
+            </div>}
                 <div className="div-large-post-content">
                 <Heading color="dark">{props.title}</Heading> 
                     <div className="div-block-11">

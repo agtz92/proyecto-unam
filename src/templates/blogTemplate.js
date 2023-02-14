@@ -5,6 +5,7 @@ import Img from "gatsby-image"
 import Layout from "../layouts/layout"
 import Heading from "../components/heading"
 import Backlinks from "../components/backlinks/backlinks"
+import PostBlockLarge from "../components/postblocklarge"
 //import logoChico from "../images/logo_small.png"
 import showdown from "showdown"
 import "../styles/normalize.css"
@@ -14,12 +15,17 @@ import "../styles/soynuevo.webflow.css"
 import kebabCase from "lodash/kebabCase"
 
 import Metatags from "../components/metatags"
+function fix_image_path(image_path) {
+  return image_path.startsWith("../static/assets/")
+    ? image_path.slice(17)
+    : image_path
+}
 
 
 const converter = new showdown.Converter()
-export default function Template({data}) {
+export default function Template({ data }) {
   const { markdownRemark } = data // data.markdownRemark holds your post data
-  const { frontmatter, html } = markdownRemark
+  const { frontmatter, html, relatedPosts } = markdownRemark
   const perro = "https://www.antesdelexamen.com/" + frontmatter.slug + "/"
   //console.log({ data: data })
   return (
@@ -30,20 +36,20 @@ export default function Template({data}) {
         featuredimage={frontmatter.featuredimage}
         date={frontmatter.date}
         perro={perro}
-      /> 
+      />
 
       <Layout>
         <div className="blog-post-container">
           <div className="div-grey-post"></div>
           <div className="blog-post">
             <Link
-              key={frontmatter.categoria}
+              key={frontmatter.categoria + Math.random()}
               to={`/categorias/${kebabCase(frontmatter.categoria)}/`}
             >
               <div className="div-tag marginbottom">{`< Regresar a ${frontmatter.categoria}`}</div>
             </Link>
             <Link
-              key={frontmatter.categoria}
+              key={frontmatter.categoria  + Math.random()}
               to={"/categorias/preguntas-de-examen/"}
             >
               <div className="div-tag marginbottom">
@@ -68,7 +74,7 @@ export default function Template({data}) {
                 <div className="parpost light">{frontmatter.date}</div>
                 <div className="tags-div">
                   {frontmatter.tags.map(tag => (
-                    <Link key={tag + `tag`} to={`/tags/${kebabCase(tag)}/`}>
+                    <Link key={tag + `tag` +  + Math.random()} to={`/tags/${kebabCase(tag)}/`}>
                       <div className="div-tag">{tag}</div>
                     </Link>
                   ))}
@@ -131,20 +137,39 @@ export default function Template({data}) {
             />
 
             <Link
-              key={frontmatter.categoria}
+              key={frontmatter.categoria  + Math.random()}
               to={`/categorias/${kebabCase(frontmatter.categoria)}/`}
             >
               <div className="div-tag marginbottom">{`< Regresar a ${frontmatter.categoria}`}</div>
             </Link>
             <Link
-              key={frontmatter.categoria}
+              key={frontmatter.categoria  + Math.random()}
               to={`/categorias/${kebabCase(frontmatter.categoria)}/`}
             >
               <div className="div-tag marginbottom">{`< Regresar a ${frontmatter.categoria}`}</div>
             </Link>
-
+            <div className=''>
+              <Heading color="dark">Temas relacionados</Heading>
+              {relatedPosts?.map(({ frontmatter }) => {
+                const { slug } = frontmatter
+                const { title } = frontmatter
+                const { short_description } = frontmatter
+                const { dificultad } = frontmatter
+                return (
+                  <li key={title + Math.random()}>
+                    <Link to={slug}>
+                      <PostBlockLarge
+                        title={title}
+                        nivel={dificultad}
+                        description={short_description}
+                      />
+                    </Link>
+                  </li>
+                )
+              })}
+            </div>
             <div className="parpost light">
-              <Backlinks categoria = {frontmatter.categoria} />
+              <Backlinks categoria={frontmatter.categoria} />
               antesdelexamen es una página de internet gratuita con bancos de
               preguntas de examen para UNAM, IPN y todas las demás universidades
               más importantes de México. Tenemos bancos de preguntas por materia
@@ -183,6 +208,17 @@ export const pageQuery = graphql`
         mk3
         mk4
         mk5
+      }
+      relatedPosts {
+        frontmatter {
+          slug
+          title
+          tags
+          dificultad
+          featuredimage
+          date(formatString: "MM-DD-YYYY")
+          short_description
+        }
       }
     }
     file(relativePath: { eq: $featuredimage }) {
