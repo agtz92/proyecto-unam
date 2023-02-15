@@ -15,11 +15,7 @@ import "../styles/soynuevo.webflow.css"
 import kebabCase from "lodash/kebabCase"
 
 import Metatags from "../components/metatags"
-function fix_image_path(image_path) {
-  return image_path.startsWith("../static/assets/")
-    ? image_path.slice(17)
-    : image_path
-}
+
 
 
 const converter = new showdown.Converter()
