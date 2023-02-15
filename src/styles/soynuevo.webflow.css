@@ -460,10 +460,10 @@ ul, li
 }
 .heading.medium
 {
-  font-size: 3em;
+  font-size: 3em!important;
 }
 .heading.small{
-  font-size:2em;
+  font-size:2em!important;
 }
 .heading.center {
   text-align: center!important;

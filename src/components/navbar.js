@@ -46,7 +46,7 @@ render(){
                     <Link to="/categorias/" className="nav-link w-nav-link" activeClassName="w--current">Materias</Link>
                     <Link to="/categorias/mejores-cursos-de-preparacion-unam-ipn-uam-uaem/" className="nav-link w-nav-link" activeClassName="w--current">Cursos de Preparacion</Link>
                     <Link to="/informacion/" className="nav-link w-nav-link" activeClassName="w--current">Informacion</Link>
-                    <Link to="/search/" className="nav-link w-nav-link" activeClassName="w--current">Búsqueda rápida</Link>
+                    <Link to="/busqueda/" className="nav-link w-nav-link" activeClassName="w--current">Búsqueda rápida</Link>
                     
                 </nav>
                 <div className={'w-nav-button ' + (this.state.isToggleOn ? "w--open" : "")} onClick={this.handleClick} aria-hidden="true" >
@@ -60,7 +60,7 @@ render(){
                     <Link to="/categorias/" className="nav-link w-nav-link w--nav-link-open" activeClassName="w--current">Materias</Link>
                     <Link to="/categorias/mejores-cursos-de-preparacion-unam-ipn-uam-uaem/" className="nav-link w-nav-link w--nav-link-open" activeClassName="w--current">Cursos de Preparacion</Link>
                     <Link to="/informacion/" className="nav-link w-nav-link w--nav-link-open" activeClassName="w--current">Informacion</Link>
-                    <Link to="/search/" className="nav-link w-nav-link" activeClassName="w--current">Búsqueda rápida</Link>
+                    <Link to="/busqueda/" className="nav-link w-nav-link" activeClassName="w--current">Búsqueda rápida</Link>
                 </nav>
             </div>
         </div>
