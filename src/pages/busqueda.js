@@ -46,8 +46,10 @@ const BlogIndex = props => {
     const { filteredData, query } = state
     const hasSearchResults = filteredData && query !== emptyQuery
     const posts = hasSearchResults ? filteredData : allPosts
+    
 
     return (
+        
         <Layout >
 
             <Heading color="dark" alignment="center">Búsqueda Rápida</Heading>
@@ -60,13 +62,15 @@ const BlogIndex = props => {
                     aria-label="Search"
                     placeholder="Escribe para filtrar los resultados..."
                     onChange={handleInputChange}
+                    id="filtro"
                 />
             </div>
-
+        
             {posts.map(({ node }) => {
                 const { excerpt } = node
 
                 const { title, date, short_description, slug } = node.frontmatter
+                
                 return (
                     <article key={slug} style={{ margin: '10px' }}>
                         <header>
