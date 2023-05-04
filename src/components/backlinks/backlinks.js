@@ -9,6 +9,7 @@ const Backlinks = props => {
                      <React.Fragment>
                         <li>Somos expertos en productos de hule y caucho para gimnasio, <a  href="https://www.matmarkt.com/productos/antiderrapantes" target="_blank" rel="noopener">Piso antiderrapante de hule</a>, piso para uso rudo y muchos más usos. En MatMarkt puedes encontrar cualquier tipo de losetas y rollos de caucho industrial.</li>
                         <li>En cortina-hawaiana.mx tenemos cortinas hawaianas a la medida, fabricadas con <a  href="https://www.corthw.com/productos" target="_blank" rel="noopener">PVC Transparente</a>, para soldadura, antiestática y muchas más</li>
+                        <li>Ofertas en productos para bebés en  <a  href="https://www.soy-nuevo.com" target="_blank" rel="noopener">PVC Transparente</a>nuestro sitio Cazador de Ofertas para Productos de Bebés como Safety 1st, Doona, Uppababy y más!</li>
                     </React.Fragment>
                     : 
                     <React.Fragment>
