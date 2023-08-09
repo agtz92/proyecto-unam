@@ -97,6 +97,18 @@ mk5: >-
   Es recomendable evaluar las diferentes opciones disponibles. El programa que gestione la contabilidad del
 
   negocio tiene que ser una solución que permanezca en la empresa a mediano y largo plazo.
+
+  ## PARTNERS
+
+
+  Looking to purchase medical equipment? Explore our partner site, [medglobalgroup.com](medglobalgroup.com), for a wide range of options tailored to your needs.
+
+
+  [medical ventilator for sale](https://www.medglobalgroup.com/products/equipment/ventilators)
+
+  [vet equipment for sale](https://www.medglobalgroup.com/products/equipment/vet)
+
+  [x ray equipment sales](https://www.medglobalgroup.com/products/equipment/x-ray)
 ---
 ### Algunos sistemas de paga:
 

@@ -92,6 +92,11 @@ mk5: >-
   * Productos en Proceso o Semiterminados (inventario con menor liquidez)
 
   * Producto Terminado
+
+    Looking to purchase medical equipment? Explore our partner site, [medglobalgroup.com](medglobalgroup.com), for a wide range of options tailored to your needs. [Anesthesia Machine for sale , ](https://www.medglobalgroup.com/products/equipment/anesthesia-machines)[audiometer for sale](https://www.medglobalgroup.com/products/equipment/audiometers)
+
+
+    [hospital beds and equipment for sale](https://www.medglobalgroup.com/products/equipment/beds)
 ---
 * El inventario es una inversión en el sentido de que exige que la empresa comprometa su dinero.
 *  Por lo tanto se requiere conocer cual es la cantidad óptima de inventario que minimiza los costos  mediante una herramienta que se conoce como **Lote Económico.**

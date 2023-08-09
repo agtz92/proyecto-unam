@@ -61,6 +61,20 @@ mk5: >-
 
 
   Por lo tanto, conociendo la masa molar se podrá calcular la cantidad de moles en un recipiente usando la fórmula: mol= masa / masa molar. Por ejemplo, en 100 gramos de amoniaco (NH3) para encontrar la cantidad de moles debemos dividir 100 / 17.03 g/mol que da un resultado aproximado de 5.8 moles en 100 gramos de amoniaco.
+
+  ## PARTNERS
+
+
+  Looking to purchase medical equipment? Explore our partner site, [medglobalgroup.com](medglobalgroup.com), for a wide range of options tailored to your needs.
+
+
+  [home medical equipment for sale](https://www.medglobalgroup.com/products/equipment/patients-and-home)
+
+  [physiotherapy rehab equipment for sale](https://www.medglobalgroup.com/products/equipment/physiotherapy)
+
+  [medical pump for sale](https://www.medglobalgroup.com/products/equipment/pumps)
+
+  [radiology equipment for sale](https://www.medglobalgroup.com/products/equipment/radiology)
 ---
 
 

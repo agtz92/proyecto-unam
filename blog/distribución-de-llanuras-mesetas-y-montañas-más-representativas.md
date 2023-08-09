@@ -173,6 +173,20 @@ mk5: |-
   Llanos de Tabasco y Campeche, 
 
   Llanos de Tamaulipas.,
+
+  Looking to purchase medical equipment? Explore our partner site, [medglobalgroup.com](medglobalgroup.com), for a wide range of options tailored to your needs.
+
+
+  [cosmetic medical equipment for sale](https://www.medglobalgroup.com/products/equipment/cosmetic)
+
+
+  [Defibrillator for sale](https://www.medglobalgroup.com/products/equipment/defibrillators)
+
+
+  [densitometer for sale](https://www.medglobalgroup.com/products/equipment/densitometers)
+
+
+  [dental equipment for sale](https://www.medglobalgroup.com/products/equipment/dental)
 ---
  Llanura costera del golfo,
 

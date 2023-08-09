@@ -45,6 +45,20 @@ mk5: >-
   
 
   1. Las compañías privilegiadas. Son compañías comerciales burguesas que reciben por parte de sus gobiernos permisos de explotación de un determinado producto en una zona determinada. Este modelo tendrá una gran importancia en Gran Bretaña y Holanda. El papel de la Compañía excede el puramente económico y, a menudo, se encarga de llevar pobladores, crear instituciones, declarar exenciones de impuestos, firmar pactos con los distintos poderes locales para la obtención de monopolios en la explotación de un producto e, incluso, la propiedad de la tierra. Un ejemplo del papel de estas compañías es el de la Compañía del Sudeste de África que dirigida por Cecil Rhodes colonizó gran parte del sur de este continente. Este modelo se suele dar en una primera fase de la expansión colonial, el papel de las compañías es transitorio y en el aspecto organizativo del territorio serán sustituidas por el Estado que crea un cuerpo de funcionarios para la administración de la zona dominada. El imperialismo y la expansión colonial.
+
+  ## PARTNERS
+
+
+  Looking to purchase medical equipment? Explore our partner site, [medglobalgroup.com](medglobalgroup.com), for a wide range of options tailored to your needs.
+
+
+  [medical monitor for sale](https://www.medglobalgroup.com/products/equipment/monitors)
+
+  [mri for sale](https://www.medglobalgroup.com/products/equipment/mri)
+
+  [neonatal equipment for sale](https://www.medglobalgroup.com/products/equipment/neonatal)
+
+  [nerve stimulator device for sale](https://www.medglobalgroup.com/products/equipment/nerve-stimulator)
 ---
 
 

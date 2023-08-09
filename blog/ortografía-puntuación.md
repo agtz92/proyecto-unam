@@ -146,6 +146,20 @@ mk5: >-
 
 
   El apóstrofo (ʼ) en español tiene varios usos. Podemos enumerar los siguientes:
+
+  ## PARTNERS
+
+
+  Looking to purchase medical equipment? Explore our partner site, [medglobalgroup.com](medglobalgroup.com), for a wide range of options tailored to your needs.
+
+
+  [sphygmomanometer price](https://www.medglobalgroup.com/products/equipment/sphygmomanometer)
+
+  [stainless steel medical equipment for sale](https://www.medglobalgroup.com/products/equipment/stainless-steel)
+
+  [sterilizer for sale](https://www.medglobalgroup.com/products/equipment/sterilizers)
+
+  [stethoscopes sale](https://www.medglobalgroup.com/products/equipment/stethoscopes)
 ---
 
 

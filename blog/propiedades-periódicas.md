@@ -97,6 +97,20 @@ mk5: >-
 
 
   ### Valencia covalente
+  
+  ## PARTNERS
+
+
+  Looking to purchase medical equipment? Explore our partner site, [medglobalgroup.com](medglobalgroup.com), for a wide range of options tailored to your needs.
+
+
+  [surgical supplies for sale](https://www.medglobalgroup.com/products/equipment/surgery)
+
+  [thermometer for sale](https://www.medglobalgroup.com/products/equipment/thermometers)
+
+  [ultrasound equipment for sale](https://www.medglobalgroup.com/products/equipment/ultrasound)
+
+  [urology surgery instruments for sale](https://www.medglobalgroup.com/products/equipment/urology)
 ---
 
 

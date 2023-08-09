@@ -159,6 +159,23 @@ mk5: >-
 
 
   ARTICULO 5 BIS.- En tiempo de paz, los mexicanos por nacimiento que adquieran otra nacionalidad, al cumplir con sus obligaciones del servicio de las armas no serán considerados en el activo en los términos de lo dispuesto en esta ley y en las disposiciones reglamentarias. ismas:
+
+  ## PARTNERS
+
+
+  Looking to purchase medical equipment? Explore our partner site, [medglobalgroup.com](medglobalgroup.com), for a wide range of options tailored to your needs.
+
+
+  [Examination Table For Sale](https://www.medglobalgroup.com/products/equipment/exam-table-chair)
+
+
+  [glucometer for sale](https://www.medglobalgroup.com/products/equipment/glucometers)
+
+
+  [medical implants for sale](https://www.medglobalgroup.com/products/equipment/implants)
+
+
+  [laryngoscopy instruments for sale](https://www.medglobalgroup.com/products/equipment/instruments)
 ---
 Abstracta. Es una regulación abstracta porque la norma establece unos mandatos dirigidos a todos los que sucesivamente y a lo largo del tiempo se encuentren en el supuesto de hecho.
 

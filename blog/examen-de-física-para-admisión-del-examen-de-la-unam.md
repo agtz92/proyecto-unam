@@ -175,5 +175,22 @@ mk5: >-
 
 
   35 En un duelo de película, un pistolero dispara horizontalmente una bala con una velocidad de 200 m / s desde una altura de 1,5 m. Calcula la distancia mínima entre los dos adversarios situados en el plano horizontal, para que la presunta víctima no sea alcanzada.
+
+  ## PARTNERS
+
+
+  Looking to purchase medical equipment? Explore our partner site, [medglobalgroup.com](medglobalgroup.com), for a wide range of options tailored to your needs.
+
+
+  [medical lab testing equipment for sale](https://www.medglobalgroup.com/products/equipment/laboratory)
+
+
+  [mammography ultrasound for sale](https://www.medglobalgroup.com/products/equipment/mammography)
+
+
+  [medical furniture for sale](https://www.medglobalgroup.com/products/equipment/furniture)
+
+
+  [medical examination lamps for sale](https://www.medglobalgroup.com/products/equipment/lamps)
 ---
 ![Cuestionario Fisica 1 ](/assets/captura-de-pantalla-2023-02-01-225551.jpg "Cuestionario Fisica 1 ")

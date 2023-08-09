@@ -50,6 +50,8 @@ mk5: " recordaremos a tres grandes representantes de esa corriente Saint Simon
   fuerte desarrollo industrial y gobernada por un conjunto de sabios banqueros y
   empresarios que respetando normas morales básicas favorecieron a las clases
   más humildes. El segundo, abogó por la organización obrera"
+
+  
 ---
 
 

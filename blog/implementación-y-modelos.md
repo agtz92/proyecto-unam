@@ -418,6 +418,20 @@ mk5: >-
   siempre es uniforme en toda la organización, en par/cular en las
 
   empresas grandes.
+
+  ## PARTNERS
+
+
+  Looking to purchase medical equipment? Explore our partner site, [medglobalgroup.com](medglobalgroup.com), for a wide range of options tailored to your needs.
+
+
+  [medical printers for sale](https://www.medglobalgroup.com/products/equipment/printers)
+
+  [medical freezers for sale](https://www.medglobalgroup.com/products/equipment/refrigerators-and-freezers)
+
+  [medical scales for sale](https://www.medglobalgroup.com/products/equipment/scales)
+
+  [medical screen for sale](https://www.medglobalgroup.com/products/equipment/screens)
 ---
 • La innovación supone un gran avance para las organizaciones que la
 implementan y parece lógico que se compartan los beneficios

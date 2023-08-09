@@ -87,6 +87,22 @@ mk5: La creación del Instituto de Fomento a la Vivienda (INFONAVIT), cuyo objet
   objetivos fueron alcanzados, La creación del Plan Nacional de Educación para
   Adultos, Se realizaron esfuerzos por integrar a las comunidades indígenas al
   sistema educativo, por medio de programas de enseñanza del castellano.
+  ## PARTNERS
+
+
+  Looking to purchase medical equipment? Explore our partner site, [medglobalgroup.com](medglobalgroup.com), for a wide range of options tailored to your needs.
+
+
+  [CR digitalizer for sale](https://www.medglobalgroup.com/products/equipment/digitalizers)
+
+
+  [electrocardiogram for sale](https://www.medglobalgroup.com/products/equipment/ekgs)
+
+
+  [electrosurgical instruments for sale](https://www.medglobalgroup.com/products/equipment/electrosurgery)
+
+
+  [endoscopy equipment for sale](https://www.medglobalgroup.com/products/equipment/endoscopy)
 ---
 
 

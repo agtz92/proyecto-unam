@@ -99,6 +99,19 @@ mk5: >-
 
 
   Las causas de una aceleración del crecimiento de la población pueden ser
+  ## PARTNERS
+
+
+  Looking to purchase medical equipment? Explore our partner site, [medglobalgroup.com](medglobalgroup.com), for a wide range of options tailored to your needs.
+
+
+  [neurological equipment for sale](https://www.medglobalgroup.com/products/equipment/neurology)
+
+  [optical equipment for sale](https://www.medglobalgroup.com/products/equipment/ophttalmology)
+
+  [orthopedics medical supplies for sale](https://www.medglobalgroup.com/products/equipment/orthopedics)
+
+  [oxygen generators for sale](https://www.medglobalgroup.com/products/equipment/oximeters)
 ---
 
 
