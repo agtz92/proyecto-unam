@@ -75,18 +75,6 @@ mk4: >-
 
 
   El modelo de desarrollo compartido no logró todos los objetivos trazados. Sin embargo, es posible destacar ciertos hechos positivos que tuvieron su impacto en la sociedad mexicana:
-mk5: La creación del Instituto de Fomento a la Vivienda (INFONAVIT), cuyo objeto
-  fue brindar la posibilidad a los obreros de recibir créditos para comprar o
-  remodelar viviendas, Se llevó a cabo una reforma educativa para dar mayor
-  cabida a la educación técnica y de esta manera integrar a más personas al
-  aparato productivo del país, Se crearon universidades y centros de educación
-  media, Se implementó el Sistema Alimentario Mexicano, el cual se encargaría de
-  la organización y adaptación de las actividades agrícolas, aumentar la
-  producción de rubros básicos y reducir las importaciones, así como apoyar la
-  explotación pesquera y su consumo. Es necesario acotar que no todos estos
-  objetivos fueron alcanzados, La creación del Plan Nacional de Educación para
-  Adultos, Se realizaron esfuerzos por integrar a las comunidades indígenas al
-  sistema educativo, por medio de programas de enseñanza del castellano.
   ## PARTNERS
 
   Looking to purchase medical equipment? Explore our partner site, [medglobalgroup.com](medglobalgroup.com), for a wide range of options tailored to your needs.
@@ -102,6 +90,19 @@ mk5: La creación del Instituto de Fomento a la Vivienda (INFONAVIT), cuyo objet
 
 
   [endoscopy equipment for sale](https://www.medglobalgroup.com/products/equipment/endoscopy)
+mk5: La creación del Instituto de Fomento a la Vivienda (INFONAVIT), cuyo objeto
+  fue brindar la posibilidad a los obreros de recibir créditos para comprar o
+  remodelar viviendas, Se llevó a cabo una reforma educativa para dar mayor
+  cabida a la educación técnica y de esta manera integrar a más personas al
+  aparato productivo del país, Se crearon universidades y centros de educación
+  media, Se implementó el Sistema Alimentario Mexicano, el cual se encargaría de
+  la organización y adaptación de las actividades agrícolas, aumentar la
+  producción de rubros básicos y reducir las importaciones, así como apoyar la
+  explotación pesquera y su consumo. Es necesario acotar que no todos estos
+  objetivos fueron alcanzados, La creación del Plan Nacional de Educación para
+  Adultos, Se realizaron esfuerzos por integrar a las comunidades indígenas al
+  sistema educativo, por medio de programas de enseñanza del castellano.
+  
     
 ---
 
