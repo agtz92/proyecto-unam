@@ -89,7 +89,6 @@ mk5: La creación del Instituto de Fomento a la Vivienda (INFONAVIT), cuyo objet
   sistema educativo, por medio de programas de enseñanza del castellano.
   ## PARTNERS
 
-
   Looking to purchase medical equipment? Explore our partner site, [medglobalgroup.com](medglobalgroup.com), for a wide range of options tailored to your needs.
 
 
@@ -103,6 +102,7 @@ mk5: La creación del Instituto de Fomento a la Vivienda (INFONAVIT), cuyo objet
 
 
   [endoscopy equipment for sale](https://www.medglobalgroup.com/products/equipment/endoscopy)
+    
 ---
 
 
