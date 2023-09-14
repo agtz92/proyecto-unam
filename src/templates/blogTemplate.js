@@ -69,7 +69,7 @@ export default function Template({ data }) {
                 <Heading color="dark">{frontmatter.title}</Heading>
                 <div className="parpost light">{frontmatter.date}</div>
                 <div className="tags-div">
-                  {frontmatter.tags.map(tag => (
+                  {frontmatter.tags?.map(tag => (
                     <Link key={tag + `tag` +  + Math.random()} to={`/tags/${kebabCase(tag)}/`}>
                       <div className="div-tag">{tag}</div>
                     </Link>
