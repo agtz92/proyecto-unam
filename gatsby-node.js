@@ -149,13 +149,22 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
   })
 }
 
-//Resolver for related posts
 exports.createResolvers = ({ createResolvers }) => {
   const resolvers = {
     MarkdownRemark: {
       relatedPosts: {
         type: ['MarkdownRemark'],
         resolve: (source, args, context, info) => {
+          // Ensure that source.frontmatter.tags is an array or set it to an empty array if it doesn't exist
+          const tags = Array.isArray(source.frontmatter.tags)
+            ? source.frontmatter.tags
+            : [];
+
+          if (tags.length === 0) {
+            // If there are no tags, you can decide how to handle this case
+            return []; // Return an empty array or handle it based on your logic
+          }
+
           return context.nodeModel.runQuery({
             query: {
               filter: {
@@ -164,17 +173,17 @@ exports.createResolvers = ({ createResolvers }) => {
                 },
                 frontmatter: {
                   tags: {
-                    in: source.frontmatter.tags,
+                    in: tags, // Now tags is always an array
                   },
                 },
               },
             },
             type: 'MarkdownRemark',
-          })
+          });
         },
       },
     },
-  }
+  };
   
-  createResolvers(resolvers)
-}
+  createResolvers(resolvers);
+};
