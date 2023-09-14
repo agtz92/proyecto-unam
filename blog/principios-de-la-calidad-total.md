@@ -5,6 +5,9 @@ featuredimage: https://humanidades.com/wp-content/uploads/2017/05/calidad-total-
 date: 2023-09-08T04:25:39.811Z
 dificultad: Preparatoria / Universidad
 categoria: Economia
+tags:
+  - iso
+  - calidad
 short-description: >-
   Los principios de la calidad están fundamentados en las normas
   de  certificación ISO 9001y se desarrollan bajo la ISO/TC 176,
