@@ -1,7 +1,7 @@
 ---
 title: Integración Estratégica y  Socialización.
 slug: integracion-estrategica-y-socializacion
-featuredimage: /assets/descarga-1-.jpeg
+featuredimage: descarga-1-.jpeg
 date: 2022-12-08T04:57:22.627Z
 dificultad: Preparatoria / Universidad
 categoria: Emprendedurismo

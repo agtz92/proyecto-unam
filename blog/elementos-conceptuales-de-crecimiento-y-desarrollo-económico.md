@@ -1,7 +1,7 @@
 ---
 title: "Elementos Conceptuales de Crecimiento y Desarrollo Económico  "
 slug: conceptuales-de-crecimientos-desarollo-economico
-featuredimage: /assets/portafolio-de-inversiones.jpg
+featuredimage: portafolio-de-inversiones.jpg
 date: 2022-11-10T03:59:06.219Z
 dificultad: Preparatoria / Universidad
 categoria: "Portafolios de Inversiones "

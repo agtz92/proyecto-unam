@@ -1,7 +1,7 @@
 ---
 title: Examen de Química 2 para UNAM
 slug: examen-de-quimica-2-para-unam
-featuredimage: /assets/quimicaexamen1.jpeg
+featuredimage: quimicaexamen1.jpeg
 date: 2023-02-15T05:14:21.989Z
 dificultad: Preparatoria / Universidad
 categoria: Preguntas de Examen

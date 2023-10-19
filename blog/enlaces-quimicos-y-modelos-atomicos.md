@@ -1,7 +1,7 @@
 ---
 title: Enlaces quimicos y modelos atomicos
 slug: enlaces-quimicos-y-modelos-atomicos
-featuredimage: /assets/enlacesquimicosymodelosatomicos.jpg
+featuredimage: enlacesquimicosymodelosatomicos.jpg
 date: 2023-03-14T06:42:52.792Z
 dificultad: Preparatoria / Universidad
 categoria: Química

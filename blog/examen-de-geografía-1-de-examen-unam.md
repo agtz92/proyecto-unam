@@ -1,7 +1,7 @@
 ---
 title: Examen de Geografía 1 de examen UNAM
 slug: examen-de-geografia-1-de-examen-unam
-featuredimage: /assets/geografia-1-e1571191548230.jpg
+featuredimage: geografia-1-e1571191548230.jpg
 date: 2023-02-07T05:21:14.372Z
 dificultad: Preparatoria / Universidad
 categoria: Preguntas de Examen

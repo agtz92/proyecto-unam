@@ -1,7 +1,7 @@
 ---
 title: Examen de Matemáticas para la UNAM
 slug: examen-de-matematicas-para-la-unam
-featuredimage: /assets/matematicas-og.jpg
+featuredimage: matematicas-og.jpg
 date: 2023-02-13T04:59:25.498Z
 dificultad: Preparatoria / Universidad
 categoria: Preguntas de Examen

@@ -1,7 +1,7 @@
 ---
 title: Ejercicios de matemáticas para la UNAM
 slug: ejercicios-de-matematicas-para-la-unam
-featuredimage: /assets/matematicas-og.jpg
+featuredimage: matematicas-og.jpg
 date: 2023-02-17T04:42:07.508Z
 dificultad: Preparatoria / Universidad
 categoria: Preguntas de Examen

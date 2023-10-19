@@ -1,7 +1,7 @@
 ---
 title: "El renacimiento "
 slug: el-renacimineto
-featuredimage: /assets/renacimiento.jpg
+featuredimage: renacimiento.jpg
 date: 2022-11-28T21:44:29.566Z
 dificultad: Preparatoria / Universidad
 categoria: Historia Universal

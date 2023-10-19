@@ -1,7 +1,7 @@
 ---
 title: Desarrollo y Evaluación de Proyectos
 slug: desarrollo-evaluacion-proyectos
-featuredimage: /assets/manual_de_evaluacion_de_proyectos.jpg
+featuredimage: manual_de_evaluacion_de_proyectos.jpg
 date: 2022-11-11T04:35:02.447Z
 dificultad: Preparatoria / Universidad
 categoria: "Portafolios de Inversiones "

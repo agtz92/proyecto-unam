@@ -1,7 +1,7 @@
 ---
 title: Banco examen ENAM Resuelto 2
 slug: banco-examen-enam-resuelto-2
-featuredimage: /assets/menab.jpg
+featuredimage: menab.jpg
 date: 2023-02-23T23:27:48.426Z
 dificultad: Preparatoria / Universidad
 categoria: Preguntas de Examen

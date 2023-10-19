@@ -1,7 +1,7 @@
 ---
 title: Sistemas Contables
 slug: sistemas-contables
-featuredimage: /assets/software-de-contabilidad-2.jpg
+featuredimage: software-de-contabilidad-2.jpg
 date: 2022-11-09T04:45:33.195Z
 dificultad: Preparatoria / Universidad
 categoria: Sistemas de Información Contable y Financiera

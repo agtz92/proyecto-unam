@@ -1,7 +1,7 @@
 ---
 title: Física Mecánica, Cinemática y Dinámica
 slug: fisica-mecanica-cinematica-y-dinamica
-featuredimage: /assets/aprender-fisica.png
+featuredimage: aprender-fisica.png
 date: 2023-03-02T06:18:18.938Z
 dificultad: Preparatoria / Universidad
 categoria: Preguntas de Examen

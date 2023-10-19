@@ -1,7 +1,7 @@
 ---
 title: Ácidos Nucleicos y Características del ADN
 slug: acidos-nucleicos-y-caracteristicas-del-adn
-featuredimage: /assets/enlacesquimicosymodelosatomicos.jpg
+featuredimage: enlacesquimicosymodelosatomicos.jpg
 date: 2023-03-16T06:30:37.923Z
 dificultad: Preparatoria / Universidad
 categoria: Química

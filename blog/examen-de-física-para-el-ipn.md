@@ -1,7 +1,7 @@
 ---
 title: Examen de Física para el IPN
 slug: examen-de-fisica-para-el-ipn
-featuredimage: /assets/fisicaipn.jpeg
+featuredimage: fisicaipn.jpeg
 date: 2023-03-03T04:10:34.249Z
 dificultad: Preparatoria / Universidad
 categoria: Preguntas de Examen

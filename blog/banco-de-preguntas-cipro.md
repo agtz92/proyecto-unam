@@ -1,7 +1,7 @@
 ---
 title: Banco de preguntas CIPRO
 slug: banco-de-preguntas-cipro
-featuredimage: /assets/ciproexamen.jfif
+featuredimage: ciproexamen.jfif
 date: 2023-02-21T22:30:13.592Z
 dificultad: Preparatoria / Universidad
 categoria: Preguntas de Examen
